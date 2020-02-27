@@ -1,20 +1,18 @@
-import React from "react";
+import React, { Fragment } from "react";
 
 const HomePage = () => {
   return (
-    <section>
-      <div className="logo"></div>
-      <div className="info-box"></div>
-      <h4>Email</h4>
-      <p>dimitrimachines@gmail.com</p>
-      <h4>Phone</h4>
-      <p>617-322-4315</p>
-      <h4>Find Me On</h4>
-      <div className="icon-section"></div>
-      <i></i>
-      <i></i>
-      <i></i>
-    </section>
+    <Fragment>
+      <main className="main">
+        <div className="container gutter-top">
+          <div className="row sticky-parent">
+            
+          </div>
+        </div>
+      </main>
+
+
+    </Fragment>
   );
 };
 

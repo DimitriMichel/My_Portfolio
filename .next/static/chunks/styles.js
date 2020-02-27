@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["styles"],{
 
-/***/ "./sass/styles.sass":
-/*!**************************!*\
-  !*** ./sass/styles.sass ***!
-  \**************************/
+/***/ "./sass/main.sass":
+/*!************************!*\
+  !*** ./sass/main.sass ***!
+  \************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29,7 +29,7 @@
           .querySelectorAll("link[href][rel=stylesheet]")
           .forEach(function(link) {
             if (!link.href.match(prefix) || link.stale) return;
-            injectCss(link, link.href.split("?")[0] + "?unix=1582586029864");
+            injectCss(link, link.href.split("?")[0] + "?unix=1582817400509");
           });
       }
     }
