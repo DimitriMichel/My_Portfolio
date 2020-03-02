@@ -1,4 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Public+Sans:300,400,700&display=swap);
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
   margin: 0;
   padding: 0;
@@ -28,23 +27,124 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-body {
-  background-color: #242E3E;
-  font-family: "Public Sans", sans-serif; }
-
-#info-section {
-  color: #ffffff;
-  width: 35%;
-  float: left; }
-  #info-section .info-box {
-    padding: 54px;
-    position: absolute;
-    bottom: 60px; }
-
-#content-area {
+.sidebox-container {
+  text-align: center;
   background-color: white;
-  width: 65%;
-  margin-left: 35%; }
+  border-radius: 10px;
+  max-width: 250px; }
+
+.name-container {
+  margin-bottom: .3rem;
+  line-height: 1.3; }
+  .name-container h1 {
+    padding-top: 1.5rem;
+    font-family: "Helvetica Now Display",sans-serif;
+    font-weight: 200;
+    font-size: 2rem; }
+    .name-container h1 strong {
+      font-family: "Helvetica Now Display",sans-serif;
+      font-weight: 700;
+      font-size: 2rem; }
+
+.social-container {
+  margin-top: 1.2rem;
+  display: inline-block;
+  font-size: .875rem;
+  margin-bottom: 1.2rem; }
+  .social-container a {
+    color: #44566C;
+    margin-left: .8rem; }
+
+.title-container {
+  text-align: center;
+  font-family: "Helvetica Now",sans-serif;
+  font-weight: 200;
+  font-size: .8rem;
+  max-width: 130px;
+  padding: 5px;
+  margin: 1rem auto .2rem auto;
+  border-radius: 10rem;
+  color: #1B1B1E;
+  background-color: #F5F8F9; }
+
+.details {
+  border-radius: 0 0 10px 10px;
+  background-color: #F5F8F9;
+  padding: 1rem .3rem;
+  line-height: 2.2rem; }
+  .details .info {
+    text-align: left;
+    padding-left: 2rem; }
+  .details li {
+    color: #44566C;
+    font-family: "Helvetica Now", sans-serif;
+    font-weight: 300;
+    font-size: .9rem;
+    word-wrap: break-word; }
+
+.download-button button {
+  padding: .6rem 1rem;
+  border-radius: 1rem;
+  background-color: #58DD7A;
+  color: white;
+  border: none;
+  margin-top: 1.2rem;
+  margin-bottom: 1.1rem; }
+
+@font-face {
+  font-family: "Helvetica Now";
+  src: url(/_next/static/chunks/fonts/HelveticaNowText-Regular-881bb923634b7e489d2804e2213ca902.ttf);
+  font-weight: normal; }
+
+@font-face {
+  font-family: "Helvetica Now";
+  src: url(/_next/static/chunks/fonts/HelveticaNowText-Light-d7692ac7e0b718640f77e8969f8b91a0.ttf);
+  font-weight: 300; }
+
+@font-face {
+  font-family: "Helvetica Now";
+  src: url(/_next/static/chunks/fonts/HelveticaNowText-Bold-8ee4f51365f9dc2b4bde33821cf2f4de.ttf);
+  font-weight: 700; }
+
+@font-face {
+  font-family: "Helvetica Now";
+  src: url(/_next/static/chunks/fonts/HelveticaNowText-thin-6c7e32a2c5c2bd49f2338a671bf2d23c.ttf);
+  font-weight: 200; }
+
+@font-face {
+  font-family: "Helvetica Now Display";
+  src: url(/_next/static/chunks/fonts/HelveticaNowDisplay-Regular-b24fd38c26cc7e55eba84052ca121c78.ttf);
+  font-weight: normal; }
+
+@font-face {
+  font-family: "Helvetica Now Display";
+  src: url(/_next/static/chunks/fonts/HelveticaNowDisplay-Bold-1e4d50778c55f8a6c66efef22224989d.ttf);
+  font-weight: 700; }
+
+@font-face {
+  font-family: "Helvetica Now Display";
+  src: url(/_next/static/chunks/fonts/HelveticaNowDisplay-Hairline-f8e0d2c62375853c5f3524bb65f8856a.ttf);
+  font-weight: 100; }
+
+@font-face {
+  font-family: "Helvetica Now Display";
+  src: url(/_next/static/chunks/fonts/HelveticaNowDisplay-Thin-8de0d9a60d8f8d1635a4822c94bc8267.ttf);
+  font-weight: 200; }
+
+body {
+  background-color: #232D3E;
+  font-family: "Helvetica Now", sans-serif; }
+
+.site-container {
+  padding: 4rem;
+  display: grid;
+  grid-template-columns: 300px 800px;
+  grid-gap: 10px;
+  grid-auto-rows: minmax(100px, auto); }
+
+.grid-item-one {
+  grid-column: 1 / 3;
+  grid-row: 1; }
 
 
 /*# sourceMappingURL=styles.chunk.css.map*/

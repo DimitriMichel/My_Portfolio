@@ -1,17 +1,13 @@
 import React, { Fragment } from "react";
 
+import SideBox from "../components/SideBox";
+
 const HomePage = () => {
   return (
     <Fragment>
-      <main className="main">
-        <div className="container gutter-top">
-          <div className="row sticky-parent">
-            
-          </div>
-        </div>
-      </main>
-
-
+      <div className="site-container">
+        <SideBox />
+      </div>
     </Fragment>
   );
 };
