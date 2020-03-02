@@ -154,6 +154,18 @@ body {
   font-family: "Helvetica Now", sans-serif;
 }
 
+h1 {
+  padding-top: 1.5rem;
+  font-family: "Helvetica Now Display", sans-serif;
+  font-weight: 200;
+  font-size: 2rem;
+}
+
+p {
+  font-family: "Helvetica Now Text ", sans-serif;
+  font-weight: normal;
+}
+
 .site-container {
   padding: 4rem;
   display: grid;
