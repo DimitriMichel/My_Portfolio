@@ -172,7 +172,7 @@ table {
   right: 0;
   bottom: -25px;
   height: 0;
-  border: 3px solid #304CFD;
+  border: 5px solid #304CFD;
   border-radius: 10px; }
 
 .about-text {
@@ -197,12 +197,63 @@ table {
   padding-top: 5px; }
 
 .project-card {
+  display: inline-block;
   height: 200px;
-  width: 300px; }
+  width: 378px;
+  margin-left: 10px; }
   .project-card img {
-    margin-top: 15px;
     height: auto;
-    width: 100%; }
+    width: 100%;
+    border-radius: 10px; }
+
+.project-card-mobile {
+  display: inline-block;
+  height: 250px;
+  width: 130px;
+  padding: 10px 20px 0 5px; }
+  .project-card-mobile img {
+    max-height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px; }
+
+.project-one {
+  max-height: 573px; }
+
+.project-details {
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 20px; }
+  .project-details h3 {
+    border-bottom: #304CFD 2px solid;
+    width: 47px;
+    margin-bottom: 20px; }
+
+.project-details-text {
+  padding-right: 20px; }
+
+.details-list {
+  margin-left: 25%;
+  display: inline-block; }
+
+.detail-item {
+  position: relative;
+  width: 200px;
+  margin-bottom: 20px; }
+
+/*PROJECT FRAMEWORK & TOOLS ICONS*/
+.icons-container {
+  display: inline-block;
+  width: 30px; }
+  .icons-container .build-icon {
+    flex-direction: column; }
+    .icons-container .build-icon .list-icon {
+      margin-bottom: 50px;
+      max-height: 5px;
+      max-width: 5px; }
+      .icons-container .build-icon .list-icon img {
+        max-width: 30px; }
 
 body {
   background-color: #232D3E;
@@ -213,6 +264,11 @@ h1 {
   font-family: "Helvetica Now Display",sans-serif;
   font-weight: 200;
   font-size: 2rem; }
+
+h3 {
+  font-family: "Helvetica Now Display",sans-serif;
+  font-weight: normal;
+  font-size: 1.5rem; }
 
 p {
   font-family: "Helvetica Now", sans-serif;
@@ -225,7 +281,7 @@ a {
   color: #44566C; }
 
 .site-container {
-  padding: 3rem 3rem; }
+  padding: 1rem 1rem; }
 
 .mainbox {
   float: right;
@@ -241,7 +297,8 @@ a {
   min-width: 260px; }
 
 .box-container {
-  display: flex; }
+  display: flex;
+  justify-content: center; }
 
 /* RESPONSIVE  SECTIONS */
 .section {
