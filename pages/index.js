@@ -8,7 +8,7 @@ const HomePage = () => {
     <Fragment>
       <div className="site-container">
         <div className="box-container">
-            <SideBox />
+          <SideBox />
           <MainBox />
         </div>
       </div>
