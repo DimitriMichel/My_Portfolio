@@ -19,7 +19,6 @@ const MainBox = () => {
       <div className="mainbox">
         <div className="mainbox-content-container">
           <div className="about-container">
-            <h1 className="about-title"></h1>
             <div className="about-text">
               <p>
                 Hello, my name is Dimitri Michel and I'm a passionate Software
@@ -40,7 +39,6 @@ const MainBox = () => {
                   <b>API </b>
                   built with <b>NodeJS</b> connecting to a scalable{" "}
                   <b>Google Firebase</b> database.
-                  <br />
                   <br />
                   On the front end <b>React</b> and <b>Redux</b> was used to to
                   maintain global and local state changes.
@@ -65,35 +63,37 @@ const MainBox = () => {
                 </div>
               </div>
               <div className="project-card-container">
-                <div className="icons-container">
-                  <div className="icons">
-                    <div className="build-icon">
-                      <div className="list-icon">
-                        <img src={imageReact} />
-                      </div>
-                      <div className="list-icon">
-                        <img src={imageRedux} />
-                      </div>
-                      <div className="list-icon">
-                        <img src={imageNode} />
-                      </div>
-                      <div className="list-icon">
-                        <img src={imageFirebase} />
+                <div className="icons-card-container">
+                  <div className="icons-container">
+                    <div className="icons">
+                      <div className="build-icon">
+                        <div className="list-icon">
+                          <img src={imageReact} />
+                        </div>
+                        <div className="list-icon">
+                          <img src={imageRedux} />
+                        </div>
+                        <div className="list-icon">
+                          <img src={imageNode} />
+                        </div>
+                        <div className="list-icon">
+                          <img src={imageFirebase} />
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
-                <div className="project-card">
-                  <img
-                    src={imageTide}
-                    alt="Image of a Social Media Project Called Tide"
-                  />
-                </div>
-                <div className="project-card-mobile">
-                  <img
-                    src={imageTideMobile}
-                    alt="Mobile image of a Social Media Project Called Tide"
-                  />
+                  <div className="project-card">
+                    <img
+                      src={imageTide}
+                      alt="Image of a Social Media Project Called Tide"
+                    />
+                  </div>
+                  <div className="project-card-mobile">
+                    <img
+                      src={imageTideMobile}
+                      alt="Mobile image of a Social Media Project Called Tide"
+                    />
+                  </div>
                 </div>
               </div>
             </div>
@@ -103,7 +103,6 @@ const MainBox = () => {
                 <p className="project-details-text">
                   Pluto is statistical application completely built in{" "}
                   <b>React</b>
-                  <br />
                   <br />
                   Pluto returns the financial data of all 530+ members of the
                   United States congress, including each individuals members
@@ -130,29 +129,31 @@ const MainBox = () => {
                 </div>
               </div>
               <div className="project-card-container">
-                <div className="icons-container">
-                  <div className="icons">
-                    <div className="build-icon">
-                      <div className="list-icon">
-                        <img src={imageReact} />
-                      </div>
-                      <div className="list-icon">
-                        <img src={imageAntd} />
+                <div className="icons-card-container">
+                  <div className="icons-container">
+                    <div className="icons">
+                      <div className="build-icon">
+                        <div className="list-icon">
+                          <img src={imageReact} />
+                        </div>
+                        <div className="list-icon">
+                          <img src={imageAntd} />
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
-                <div className="project-card">
-                  <img
-                    src={imagePluto}
-                    alt="Image of a Social Media Project Called Tide"
-                  />
-                </div>
-                <div className="project-card-mobile">
-                  <img
-                    src={imagePlutoMobile}
-                    alt="Mobile image of a Social Media Project Called Tide"
-                  />
+                  <div className="project-card">
+                    <img
+                      src={imagePluto}
+                      alt="Image of a Social Media Project Called Tide"
+                    />
+                  </div>
+                  <div className="project-card-mobile">
+                    <img
+                      src={imagePlutoMobile}
+                      alt="Mobile image of a Social Media Project Called Tide"
+                    />
+                  </div>
                 </div>
               </div>
             </div>
@@ -162,7 +163,6 @@ const MainBox = () => {
                 <p className="project-details-text">
                   Heavenly bakery is a static site built with <b>NextJS</b> and
                   deployed to Zeit.
-                  <br />
                   <br />
                   Heavenly bakery is Server Rendered and leverages the speed and
                   simplicity of static sites to delivery a fluid experience.
@@ -188,29 +188,31 @@ const MainBox = () => {
                 </div>
               </div>
               <div className="project-card-container">
-                <div className="icons-container">
-                  <div className="icons">
-                    <div className="build-icon">
-                      <div className="list-icon">
-                        <img src={imageReact} />
-                      </div>
-                      <div className="list-icon">
-                        <img src={imageNextJs} />
+                <div className="icons-card-container">
+                  <div className="icons-container">
+                    <div className="icons">
+                      <div className="build-icon">
+                        <div className="list-icon">
+                          <img src={imageReact} />
+                        </div>
+                        <div className="list-icon">
+                          <img src={imageNextJs} />
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
-                <div className="project-card">
-                  <img
-                    src={imageBakery}
-                    alt="Image of a Social Media Project Called Tide"
-                  />
-                </div>
-                <div className="project-card-mobile">
-                  <img
-                    src={imageBakeryMobile}
-                    alt="Mobile image of a Social Media Project Called Tide"
-                  />
+                  <div className="project-card">
+                    <img
+                      src={imageBakery}
+                      alt="Image of a Social Media Project Called Tide"
+                    />
+                  </div>
+                  <div className="project-card-mobile">
+                    <img
+                      src={imageBakeryMobile}
+                      alt="Mobile image of a Social Media Project Called Tide"
+                    />
+                  </div>
                 </div>
               </div>
             </div>

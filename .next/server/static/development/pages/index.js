@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 3);
+/******/ 	return __webpack_require__(__webpack_require__.s = 4);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -174,139 +174,126 @@ const MainBox = () => {
       lineNumber: 21
     },
     __self: undefined
-  }, __jsx("h1", {
-    className: "about-title",
+  }, __jsx("div", {
+    className: "about-text",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 22
     },
     __self: undefined
-  }), __jsx("div", {
-    className: "about-text",
+  }, __jsx("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 23
     },
     __self: undefined
-  }, __jsx("p", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24
-    },
-    __self: undefined
   }, "Hello, my name is Dimitri Michel and I'm a passionate Software Developer.", __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
+      lineNumber: 26
     },
     __self: undefined
   }), "I believe ", __jsx("strong", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
+      lineNumber: 26
     },
     __self: undefined
   }, "anything"), " can be overcome through commitment and hard work and I'm always up for learning new things."))), __jsx("h1", {
     className: "projects-title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33
+      lineNumber: 32
     },
     __self: undefined
   }, "Projects"), __jsx("div", {
     className: "projects-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
+      lineNumber: 33
     },
     __self: undefined
   }, __jsx("div", {
     className: "project-one",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
+      lineNumber: 34
     },
     __self: undefined
   }, __jsx("div", {
     className: "project-details",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
+      lineNumber: 35
     },
     __self: undefined
   }, __jsx("h3", {
     className: "project-details-title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
+      lineNumber: 36
     },
     __self: undefined
   }, "Tide"), __jsx("p", {
     className: "project-details-text",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 38
+      lineNumber: 37
     },
     __self: undefined
   }, "Tide is a mini social network. It first began with an", " ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 40
+      lineNumber: 39
     },
     __self: undefined
   }, "API "), "built with ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41
+      lineNumber: 40
     },
     __self: undefined
   }, "NodeJS"), " connecting to a scalable", " ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42
+      lineNumber: 41
     },
     __self: undefined
   }, "Google Firebase"), " database.", __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
-    },
-    __self: undefined
-  }), __jsx("br", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 44
+      lineNumber: 42
     },
     __self: undefined
   }), "On the front end ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45
+      lineNumber: 43
     },
     __self: undefined
   }, "React"), " and ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45
+      lineNumber: 43
     },
     __self: undefined
   }, "Redux"), " was used to to maintain global and local state changes.", __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 47
+      lineNumber: 45
     },
     __self: undefined
   }), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 48
+      lineNumber: 46
     },
     __self: undefined
   })), __jsx("div", {
     className: "project-buttons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 50
+      lineNumber: 48
     },
     __self: undefined
   }, __jsx("a", {
@@ -315,14 +302,14 @@ const MainBox = () => {
     href: "https://tide.dimitrimichel.com/login",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51
+      lineNumber: 49
     },
     __self: undefined
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 56
+      lineNumber: 54
     },
     __self: undefined
   }, "Launch")), __jsx("a", {
@@ -331,105 +318,112 @@ const MainBox = () => {
     href: "https://github.com/DimitriMichel/Tide",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58
+      lineNumber: 56
     },
     __self: undefined
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 61
     },
     __self: undefined
   }, "Github")))), __jsx("div", {
     className: "project-card-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 67
+      lineNumber: 65
+    },
+    __self: undefined
+  }, __jsx("div", {
+    className: "icons-card-container",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 66
     },
     __self: undefined
   }, __jsx("div", {
     className: "icons-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 68
+      lineNumber: 67
     },
     __self: undefined
   }, __jsx("div", {
     className: "icons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 69
+      lineNumber: 68
     },
     __self: undefined
   }, __jsx("div", {
     className: "build-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 70
+      lineNumber: 69
     },
     __self: undefined
   }, __jsx("div", {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 71
+      lineNumber: 70
     },
     __self: undefined
   }, __jsx("img", {
     src: _public_static_images_react_png__WEBPACK_IMPORTED_MODULE_4___default.a,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 72
+      lineNumber: 71
     },
     __self: undefined
   })), __jsx("div", {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 74
+      lineNumber: 73
     },
     __self: undefined
   }, __jsx("img", {
     src: _public_static_images_redux_png__WEBPACK_IMPORTED_MODULE_5___default.a,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 75
+      lineNumber: 74
     },
     __self: undefined
   })), __jsx("div", {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 77
+      lineNumber: 76
     },
     __self: undefined
   }, __jsx("img", {
     src: _public_static_images_node_icon_png__WEBPACK_IMPORTED_MODULE_6___default.a,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 78
+      lineNumber: 77
     },
     __self: undefined
   })), __jsx("div", {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 80
+      lineNumber: 79
     },
     __self: undefined
   }, __jsx("img", {
     src: _public_static_images_firebase_png__WEBPACK_IMPORTED_MODULE_7___default.a,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 81
+      lineNumber: 80
     },
     __self: undefined
   }))))), __jsx("div", {
     className: "project-card",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 86
+      lineNumber: 85
     },
     __self: undefined
   }, __jsx("img", {
@@ -437,14 +431,14 @@ const MainBox = () => {
     alt: "Image of a Social Media Project Called Tide",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 87
+      lineNumber: 86
     },
     __self: undefined
   })), __jsx("div", {
     className: "project-card-mobile",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 92
+      lineNumber: 91
     },
     __self: undefined
   }, __jsx("img", {
@@ -452,10 +446,10 @@ const MainBox = () => {
     alt: "Mobile image of a Social Media Project Called Tide",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 93
+      lineNumber: 92
     },
     __self: undefined
-  })))), __jsx("div", {
+  }))))), __jsx("div", {
     className: "project-one",
     __source: {
       fileName: _jsxFileName,
@@ -495,29 +489,23 @@ const MainBox = () => {
       lineNumber: 106
     },
     __self: undefined
-  }), __jsx("br", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 107
-    },
-    __self: undefined
   }), "Pluto returns the financial data of all 530+ members of the United States congress, including each individuals members vote attendance, Top 10 Donors, as well as their top investments and industrial donors.", __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 112
+      lineNumber: 111
     },
     __self: undefined
   }), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 113
+      lineNumber: 112
     },
     __self: undefined
   })), __jsx("div", {
     className: "project-buttons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 115
+      lineNumber: 114
     },
     __self: undefined
   }, __jsx("a", {
@@ -526,14 +514,14 @@ const MainBox = () => {
     href: "https://pluto.dimitrimichel.com/",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 116
+      lineNumber: 115
     },
     __self: undefined
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 121
+      lineNumber: 120
     },
     __self: undefined
   }, "Launch")), __jsx("a", {
@@ -542,18 +530,25 @@ const MainBox = () => {
     href: "https://github.com/DimitriMichel/Pluto",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 123
+      lineNumber: 122
     },
     __self: undefined
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 128
+      lineNumber: 127
     },
     __self: undefined
   }, "Github")))), __jsx("div", {
     className: "project-card-container",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 131
+    },
+    __self: undefined
+  }, __jsx("div", {
+    className: "icons-card-container",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 132
@@ -638,47 +633,41 @@ const MainBox = () => {
       lineNumber: 152
     },
     __self: undefined
-  })))), __jsx("div", {
+  }))))), __jsx("div", {
     className: "project-one",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 159
+      lineNumber: 160
     },
     __self: undefined
   }, __jsx("div", {
     className: "project-details",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 160
+      lineNumber: 161
     },
     __self: undefined
   }, __jsx("h3", {
     className: "project-details-title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 161
+      lineNumber: 162
     },
     __self: undefined
   }, "Heavenly Bakery"), __jsx("p", {
     className: "project-details-text",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 162
+      lineNumber: 163
     },
     __self: undefined
   }, "Heavenly bakery is a static site built with ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 163
+      lineNumber: 164
     },
     __self: undefined
   }, "NextJS"), " and deployed to Zeit.", __jsx("br", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 165
-    },
-    __self: undefined
-  }), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 166
@@ -743,59 +732,66 @@ const MainBox = () => {
     },
     __self: undefined
   }, __jsx("div", {
-    className: "icons-container",
+    className: "icons-card-container",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 191
     },
     __self: undefined
   }, __jsx("div", {
-    className: "icons",
+    className: "icons-container",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 192
     },
     __self: undefined
   }, __jsx("div", {
-    className: "build-icon",
+    className: "icons",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 193
     },
     __self: undefined
   }, __jsx("div", {
-    className: "list-icon",
+    className: "build-icon",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 194
+    },
+    __self: undefined
+  }, __jsx("div", {
+    className: "list-icon",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 195
     },
     __self: undefined
   }, __jsx("img", {
     src: _public_static_images_react_png__WEBPACK_IMPORTED_MODULE_4___default.a,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 195
+      lineNumber: 196
     },
     __self: undefined
   })), __jsx("div", {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 197
+      lineNumber: 198
     },
     __self: undefined
   }, __jsx("img", {
     src: _public_static_images_next_js_png__WEBPACK_IMPORTED_MODULE_12___default.a,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 198
+      lineNumber: 199
     },
     __self: undefined
   }))))), __jsx("div", {
     className: "project-card",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 203
+      lineNumber: 204
     },
     __self: undefined
   }, __jsx("img", {
@@ -803,14 +799,14 @@ const MainBox = () => {
     alt: "Image of a Social Media Project Called Tide",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 204
+      lineNumber: 205
     },
     __self: undefined
   })), __jsx("div", {
     className: "project-card-mobile",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 209
+      lineNumber: 210
     },
     __self: undefined
   }, __jsx("img", {
@@ -818,14 +814,14 @@ const MainBox = () => {
     alt: "Mobile image of a Social Media Project Called Tide",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 210
+      lineNumber: 211
     },
     __self: undefined
-  }))))), __jsx("div", {
+  })))))), __jsx("div", {
     className: "skills-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 218
+      lineNumber: 220
     },
     __self: undefined
   }))));
@@ -1277,7 +1273,7 @@ module.exports = "/_next/static/images/tide-6df2b36dd6fa0e33ae473ef9c22dc7bc.gif
 
 /***/ }),
 
-/***/ 3:
+/***/ 4:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/

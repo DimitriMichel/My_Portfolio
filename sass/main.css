@@ -299,7 +299,6 @@ table {
   margin-bottom: 20px;
 }
 
-/*PROJECT FRAMEWORK & TOOLS ICONS*/
 .icons-container {
   display: inline-block;
   width: 30px;
@@ -341,153 +340,90 @@ table {
   color: white;
 }
 
-@media only screen and (max-width: 1200px) {
-  .mainbox-content-container {
-    padding: 24px;
-  }
-
-  .about-title {
-    color: #232D3E;
-    font-family: "Helvetica Now Display", sans-serif;
-    font-weight: 700;
-    font-size: 2rem;
-    padding-top: 5px;
-    text-align: center;
-  }
-
-  .about-text {
-    padding: 10px 0 20px 0;
-    text-align: center;
-    border-bottom: 1px #D3E0E8 solid;
-    margin-bottom: 30px;
-  }
-  .about-text p {
-    font-family: "Helvetica Now", sans-serif;
-    font-weight: 300;
-    font-size: 15px;
-    word-wrap: break-word;
-  }
-
-  .projects-container {
-    border-radius: 20px;
-    background-color: #F5F8F9;
-    padding: 1rem 1.9rem;
-    line-height: 2.2rem;
-  }
-
-  .projects-title {
-    color: #232D3E;
-    font-family: "Helvetica Now Display", sans-serif;
-    font-weight: 700;
-    font-size: 2rem;
-    padding-top: 5px;
-  }
-
+@media only screen and (max-width: 1025px) {
   .project-card-container {
     border-radius: 20px;
-    max-width: 800px;
-    display: inline-block;
-    margin-top: 10px;
+    width: 100%;
+    max-width: initial;
+    text-align: center;
+  }
+
+  .project-buttons {
+    margin: auto;
+    padding: 10px;
+  }
+
+  .icons-card-container {
+    max-width: fit-content;
+    margin: auto;
   }
 
   .project-card {
     display: inline-block;
-    height: 200px;
-    width: 378px;
-    margin-left: 10px;
+    height: auto;
+    width: 500px;
   }
-  .project-card img {
+
+  .project-details {
+    margin: 0;
+    width: 100%;
+    text-align: center;
+  }
+  .project-details .project-details-text {
+    margin: 0 50px;
+    padding: 0;
+  }
+  .project-details img {
     height: auto;
     width: 100%;
     border-radius: 5px;
   }
 
-  .project-card-mobile {
-    display: inline-block;
-    height: 250px;
-    width: 130px;
-    padding: 10px 20px 0 5px;
+  .project-one {
+    padding-top: 0;
+    width: 100%;
   }
-  .project-card-mobile img {
-    max-height: 250px;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 5px;
+}
+@media only screen and (max-width: 850px) {
+  .mainbox-content-container {
+    padding: 10px;
+  }
+
+  .projects-container {
+    padding: 15px;
+  }
+
+  .build-icon {
+    display: none;
+  }
+
+  .project-card {
+    height: auto;
+    width: 100%;
+  }
+
+  .project-card-mobile {
+    display: none;
   }
 
   .project-one {
-    max-height: 573px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    max-height: initial;
   }
 
   .project-details {
-    width: 300px;
-    display: inline-block;
-    vertical-align: top;
-    margin-top: 20px;
+    text-align: initial;
   }
-  .project-details h3 {
-    font-weight: bold;
-    margin-bottom: 2px;
-    color: #232D3E;
+  .project-details .project-details-text {
+    margin: 0 0 0 0;
   }
 
-  .project-details-text {
+  .icons-card-container {
     padding-right: 20px;
+    height: 180px;
   }
 
-  .details-list {
-    margin-left: 25%;
-    display: inline-block;
-  }
-
-  .detail-item {
-    position: relative;
-    width: 200px;
-    margin-bottom: 20px;
-  }
-
-  /*PROJECT FRAMEWORK & TOOLS ICONS*/
   .icons-container {
-    display: inline-block;
-    width: 30px;
-  }
-  .icons-container .build-icon {
-    flex-direction: column;
-  }
-  .icons-container .build-icon .list-icon {
-    margin-bottom: 50px;
-    max-height: 5px;
-    max-width: 5px;
-  }
-  .icons-container .build-icon .list-icon img {
-    max-width: 30px;
-  }
-
-  .project-buttons {
-    width: 90%;
-    text-align: center;
-  }
-  .project-buttons a {
-    color: white;
-    transition: all 0.2s ease-in-out;
-  }
-  .project-buttons button {
-    border-radius: 0.9rem;
-    padding: 10px 26px;
-    margin: 2px 15px;
-    background-color: #232D3E;
-    transition: all 0.2s ease-in-out;
-    border: none;
-    color: white;
-  }
-  .project-buttons button:hover {
-    background-color: #475C82;
-    cursor: pointer;
-  }
-  .project-buttons button:hover a {
-    color: white;
+    display: none;
   }
 }
 body {
@@ -587,6 +523,13 @@ a {
     min-width: 260px;
     width: 100%;
     margin-bottom: 20px;
+  }
+}
+@media only screen and (max-width: 850px) {
+  .box-container {
+    min-width: initial;
+    margin: auto;
+    padding: 20px;
   }
 }
 
