@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 4);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -1174,7 +1174,7 @@ const HomePage = () => {
   return __jsx(react__WEBPACK_IMPORTED_MODULE_0__["Fragment"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
+      lineNumber: 7
     },
     __self: undefined
   }, __jsx("div", {
@@ -1228,7 +1228,7 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABiCAYAAACr
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/bakery-mobile-36a79cd3c3e5717d363cefc9747526a0.png";
+module.exports = "/_next/static/images/bakery-mobile-2b3cfe435896f4b549f0efe231790fa1.png";
 
 /***/ }),
 
@@ -1272,7 +1272,7 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABwCAYAAADl
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/pluto-mobile-12947e5111037437ca3e4e4ef6ff1a27.png";
+module.exports = "/_next/static/images/pluto-mobile-692023ffbc2bbd1a334604069d782e88.png";
 
 /***/ }),
 
@@ -1305,7 +1305,7 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABZCAYAAADF
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/tide-mobile-9a082cf275b16c5ff4ad0d605e5e0960.png";
+module.exports = "/_next/static/images/tide-mobile-8f39864a1bc918a69ca6f5a8fdf3498c.png";
 
 /***/ }),
 
@@ -1522,7 +1522,7 @@ const xAxisVariantsSlower = {
 
 /***/ }),
 
-/***/ 4:
+/***/ 3:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/
