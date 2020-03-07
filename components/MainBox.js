@@ -103,6 +103,7 @@ const MainBox = () => {
                         loop="loop"
                         height="auto"
                         width="100%"
+                        muted="muted"
                       >
                         <source src={videoTide} type="video/mp4" />
                       </video>
@@ -167,6 +168,7 @@ const MainBox = () => {
                         loop="loop"
                         height="auto"
                         width="100%"
+                        muted="muted"
                       >
                         <source src={videoPluto} type="video/mp4" />
                       </video>
@@ -231,6 +233,7 @@ const MainBox = () => {
                           loop="loop"
                           height="auto"
                           width="100%"
+                          muted="muted"
                       >
                         <source src={videoBakery} type="video/mp4" />
                       </video>
