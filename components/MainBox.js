@@ -1,6 +1,6 @@
 import React from "react";
 
-//Image & Icon Imports
+//Image/Video & Icon Imports
 import imageTideMobile from "../public/static/images/tide-mobile.png";
 import imageReact from "../public/static/images/react.png";
 import imageRedux from "../public/static/images/redux.png";
