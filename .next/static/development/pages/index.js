@@ -11,33 +11,35 @@
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _public_static_images_tide_gif__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../public/static/images/tide.gif */ "./public/static/images/tide.gif");
-/* harmony import */ var _public_static_images_tide_gif__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_tide_gif__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _public_static_images_tide_mobile_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../public/static/images/tide-mobile.png */ "./public/static/images/tide-mobile.png");
-/* harmony import */ var _public_static_images_tide_mobile_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_tide_mobile_png__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _public_static_images_pluto_gif__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../public/static/images/pluto.gif */ "./public/static/images/pluto.gif");
-/* harmony import */ var _public_static_images_pluto_gif__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_pluto_gif__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _public_static_images_react_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../public/static/images/react.png */ "./public/static/images/react.png");
-/* harmony import */ var _public_static_images_react_png__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_react_png__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _public_static_images_redux_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../public/static/images/redux.png */ "./public/static/images/redux.png");
-/* harmony import */ var _public_static_images_redux_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_redux_png__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _public_static_images_node_icon_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../public/static/images/node-icon.png */ "./public/static/images/node-icon.png");
-/* harmony import */ var _public_static_images_node_icon_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_node_icon_png__WEBPACK_IMPORTED_MODULE_6__);
-/* harmony import */ var _public_static_images_firebase_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../public/static/images/firebase.png */ "./public/static/images/firebase.png");
-/* harmony import */ var _public_static_images_firebase_png__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_firebase_png__WEBPACK_IMPORTED_MODULE_7__);
-/* harmony import */ var _public_static_images_pluto_mobile_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../public/static/images/pluto-mobile.png */ "./public/static/images/pluto-mobile.png");
-/* harmony import */ var _public_static_images_pluto_mobile_png__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_pluto_mobile_png__WEBPACK_IMPORTED_MODULE_8__);
-/* harmony import */ var _public_static_images_bakery_gif__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../public/static/images/bakery.gif */ "./public/static/images/bakery.gif");
-/* harmony import */ var _public_static_images_bakery_gif__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_bakery_gif__WEBPACK_IMPORTED_MODULE_9__);
-/* harmony import */ var _public_static_images_bakery_mobile_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../public/static/images/bakery-mobile.png */ "./public/static/images/bakery-mobile.png");
-/* harmony import */ var _public_static_images_bakery_mobile_png__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_bakery_mobile_png__WEBPACK_IMPORTED_MODULE_10__);
-/* harmony import */ var _public_static_images_antd_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../public/static/images/antd.png */ "./public/static/images/antd.png");
-/* harmony import */ var _public_static_images_antd_png__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_antd_png__WEBPACK_IMPORTED_MODULE_11__);
-/* harmony import */ var _public_static_images_next_js_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../public/static/images/next-js.png */ "./public/static/images/next-js.png");
-/* harmony import */ var _public_static_images_next_js_png__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_next_js_png__WEBPACK_IMPORTED_MODULE_12__);
+/* harmony import */ var _public_static_images_tide_mobile_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../public/static/images/tide-mobile.png */ "./public/static/images/tide-mobile.png");
+/* harmony import */ var _public_static_images_tide_mobile_png__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_tide_mobile_png__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _public_static_images_react_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../public/static/images/react.png */ "./public/static/images/react.png");
+/* harmony import */ var _public_static_images_react_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_react_png__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _public_static_images_redux_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../public/static/images/redux.png */ "./public/static/images/redux.png");
+/* harmony import */ var _public_static_images_redux_png__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_redux_png__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _public_static_images_node_icon_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../public/static/images/node-icon.png */ "./public/static/images/node-icon.png");
+/* harmony import */ var _public_static_images_node_icon_png__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_node_icon_png__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _public_static_images_firebase_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../public/static/images/firebase.png */ "./public/static/images/firebase.png");
+/* harmony import */ var _public_static_images_firebase_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_firebase_png__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _public_static_images_pluto_mobile_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../public/static/images/pluto-mobile.png */ "./public/static/images/pluto-mobile.png");
+/* harmony import */ var _public_static_images_pluto_mobile_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_pluto_mobile_png__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _public_static_videos_bakery_mp4__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../public/static/videos/bakery.mp4 */ "./public/static/videos/bakery.mp4");
+/* harmony import */ var _public_static_videos_bakery_mp4__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_public_static_videos_bakery_mp4__WEBPACK_IMPORTED_MODULE_7__);
+/* harmony import */ var _public_static_images_bakery_mobile_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../public/static/images/bakery-mobile.png */ "./public/static/images/bakery-mobile.png");
+/* harmony import */ var _public_static_images_bakery_mobile_png__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_bakery_mobile_png__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var _public_static_images_antd_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../public/static/images/antd.png */ "./public/static/images/antd.png");
+/* harmony import */ var _public_static_images_antd_png__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_antd_png__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var _public_static_images_next_js_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../public/static/images/next-js.png */ "./public/static/images/next-js.png");
+/* harmony import */ var _public_static_images_next_js_png__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_next_js_png__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var _public_static_videos_tide_mp4__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../public/static/videos/tide.mp4 */ "./public/static/videos/tide.mp4");
+/* harmony import */ var _public_static_videos_tide_mp4__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(_public_static_videos_tide_mp4__WEBPACK_IMPORTED_MODULE_11__);
+/* harmony import */ var _public_static_videos_pluto_mp4__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../public/static/videos/pluto.mp4 */ "./public/static/videos/pluto.mp4");
+/* harmony import */ var _public_static_videos_pluto_mp4__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(_public_static_videos_pluto_mp4__WEBPACK_IMPORTED_MODULE_12__);
+/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! framer-motion */ "./node_modules/framer-motion/dist/framer-motion.es.js");
+/* harmony import */ var _utils_Animations_animConfig__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../utils/Animations/animConfig */ "./utils/Animations/animConfig.js");
 var _jsxFileName = "/Users/dimitripl/Documents/Portfolio/components/MainBox.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
- //Image Imports
+ //Image & Icon Imports
 
 
 
@@ -48,159 +50,182 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
 
+
+
+ //Framer Motion
 
 
 
 
 var MainBox = function MainBox() {
-  return __jsx("div", {
+  return __jsx(framer_motion__WEBPACK_IMPORTED_MODULE_13__["AnimatePresence"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 23
+    },
+    __self: this
+  }, __jsx("div", {
     className: "grid-item-two",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
+      lineNumber: 24
     },
     __self: this
   }, __jsx("div", {
     className: "mainbox",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
+      lineNumber: 25
     },
     __self: this
   }, __jsx("div", {
     className: "mainbox-content-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
+      lineNumber: 26
     },
     __self: this
   }, __jsx("div", {
     className: "about-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
+      lineNumber: 27
     },
     __self: this
-  }, __jsx("div", {
+  }, __jsx(framer_motion__WEBPACK_IMPORTED_MODULE_13__["motion"].div, {
+    initial: "exit",
+    animate: "enter",
+    exit: "exit",
     className: "about-text",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 28
     },
     __self: this
-  }, __jsx("p", {
+  }, __jsx(framer_motion__WEBPACK_IMPORTED_MODULE_13__["motion"].p, {
+    variants: _utils_Animations_animConfig__WEBPACK_IMPORTED_MODULE_14__["yAxisVariants"],
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
+      lineNumber: 34
     },
     __self: this
   }, "Hello, my name is Dimitri Michel and I'm a passionate Software Developer.", __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 37
     },
     __self: this
   }), "I believe ", __jsx("strong", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 37
     },
     __self: this
-  }, "anything"), " can be overcome through commitment and hard work and I'm always up for learning new things."))), __jsx("h1", {
+  }, "anything"), " can be overcome through commitment and hard work and I'm always up for learning new things."))), __jsx(framer_motion__WEBPACK_IMPORTED_MODULE_13__["motion"].div, {
+    initial: "exit",
+    animate: "enter",
+    exit: "exit",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 43
+    },
+    __self: this
+  }, __jsx(framer_motion__WEBPACK_IMPORTED_MODULE_13__["motion"].h1, {
+    variants: _utils_Animations_animConfig__WEBPACK_IMPORTED_MODULE_14__["xAxisVariants"],
     className: "projects-title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32
+      lineNumber: 44
     },
     __self: this
-  }, "Projects"), __jsx("div", {
+  }, "Projects")), __jsx("div", {
     className: "projects-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33
+      lineNumber: 48
     },
     __self: this
   }, __jsx("div", {
     className: "project-one",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
+      lineNumber: 49
     },
     __self: this
   }, __jsx("div", {
     className: "project-details",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
+      lineNumber: 50
     },
     __self: this
   }, __jsx("h3", {
     className: "project-details-title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
+      lineNumber: 51
     },
     __self: this
   }, "Tide"), __jsx("p", {
     className: "project-details-text",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
+      lineNumber: 52
     },
     __self: this
   }, "Tide is a mini social network. It first began with an", " ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 39
+      lineNumber: 54
     },
     __self: this
   }, "API "), "built with ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 40
+      lineNumber: 55
     },
     __self: this
   }, "NodeJS"), " connecting to a scalable", " ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41
+      lineNumber: 56
     },
     __self: this
   }, "Google Firebase"), " database.", __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42
+      lineNumber: 57
     },
     __self: this
   }), "On the front end ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
+      lineNumber: 58
     },
     __self: this
   }, "React"), " and ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
+      lineNumber: 58
     },
     __self: this
   }, "Redux"), " was used to to maintain global and local state changes.", __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45
+      lineNumber: 60
     },
     __self: this
   }), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 46
+      lineNumber: 61
     },
     __self: this
   })), __jsx("div", {
     className: "project-buttons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 48
+      lineNumber: 63
     },
     __self: this
   }, __jsx("a", {
@@ -209,14 +234,14 @@ var MainBox = function MainBox() {
     href: "https://tide.dimitrimichel.com/login",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 49
+      lineNumber: 64
     },
     __self: this
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 54
+      lineNumber: 69
     },
     __self: this
   }, "Launch")), __jsx("a", {
@@ -225,194 +250,204 @@ var MainBox = function MainBox() {
     href: "https://github.com/DimitriMichel/Tide",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 56
+      lineNumber: 71
     },
     __self: this
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 61
+      lineNumber: 76
     },
     __self: this
   }, "Github")))), __jsx("div", {
     className: "project-card-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 65
+      lineNumber: 80
     },
     __self: this
   }, __jsx("div", {
     className: "icons-card-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 66
+      lineNumber: 81
     },
     __self: this
   }, __jsx("div", {
     className: "icons-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 67
+      lineNumber: 82
     },
     __self: this
   }, __jsx("div", {
     className: "icons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 68
+      lineNumber: 83
     },
     __self: this
   }, __jsx("div", {
     className: "build-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 69
+      lineNumber: 84
     },
     __self: this
   }, __jsx("div", {
     className: "list-icon",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 70
-    },
-    __self: this
-  }, __jsx("img", {
-    src: _public_static_images_react_png__WEBPACK_IMPORTED_MODULE_4___default.a,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 71
-    },
-    __self: this
-  })), __jsx("div", {
-    className: "list-icon",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 73
-    },
-    __self: this
-  }, __jsx("img", {
-    src: _public_static_images_redux_png__WEBPACK_IMPORTED_MODULE_5___default.a,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 74
-    },
-    __self: this
-  })), __jsx("div", {
-    className: "list-icon",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 76
-    },
-    __self: this
-  }, __jsx("img", {
-    src: _public_static_images_node_icon_png__WEBPACK_IMPORTED_MODULE_6___default.a,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 77
-    },
-    __self: this
-  })), __jsx("div", {
-    className: "list-icon",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 79
-    },
-    __self: this
-  }, __jsx("img", {
-    src: _public_static_images_firebase_png__WEBPACK_IMPORTED_MODULE_7___default.a,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 80
-    },
-    __self: this
-  }))))), __jsx("div", {
-    className: "project-card",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 85
     },
     __self: this
   }, __jsx("img", {
-    src: _public_static_images_tide_gif__WEBPACK_IMPORTED_MODULE_1___default.a,
-    alt: "Image of a Social Media Project Called Tide",
+    src: _public_static_images_react_png__WEBPACK_IMPORTED_MODULE_2___default.a,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 86
     },
     __self: this
   })), __jsx("div", {
-    className: "project-card-mobile",
+    className: "list-icon",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 88
+    },
+    __self: this
+  }, __jsx("img", {
+    src: _public_static_images_redux_png__WEBPACK_IMPORTED_MODULE_3___default.a,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 89
+    },
+    __self: this
+  })), __jsx("div", {
+    className: "list-icon",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 91
     },
     __self: this
   }, __jsx("img", {
-    src: _public_static_images_tide_mobile_png__WEBPACK_IMPORTED_MODULE_2___default.a,
-    alt: "Mobile image of a Social Media Project Called Tide",
+    src: _public_static_images_node_icon_png__WEBPACK_IMPORTED_MODULE_4___default.a,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 92
+    },
+    __self: this
+  })), __jsx("div", {
+    className: "list-icon",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 94
+    },
+    __self: this
+  }, __jsx("img", {
+    src: _public_static_images_firebase_png__WEBPACK_IMPORTED_MODULE_5___default.a,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 95
+    },
+    __self: this
+  }))))), __jsx("div", {
+    className: "project-card",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 100
+    },
+    __self: this
+  }, __jsx("video", {
+    autoPlay: "autoplay",
+    loop: "loop",
+    height: "auto",
+    width: "100%",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 101
+    },
+    __self: this
+  }, __jsx("source", {
+    src: _public_static_videos_tide_mp4__WEBPACK_IMPORTED_MODULE_11___default.a,
+    type: "video/mp4",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 107
+    },
+    __self: this
+  }))), __jsx("div", {
+    className: "project-card-mobile",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 110
+    },
+    __self: this
+  }, __jsx("img", {
+    src: _public_static_images_tide_mobile_png__WEBPACK_IMPORTED_MODULE_1___default.a,
+    alt: "Mobile image of a Social Media Project Called Tide",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 111
     },
     __self: this
   }))))), __jsx("div", {
     className: "project-one",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 100
+      lineNumber: 119
     },
     __self: this
   }, __jsx("div", {
     className: "project-details",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 101
+      lineNumber: 120
     },
     __self: this
   }, __jsx("h3", {
     className: "project-details-title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 102
+      lineNumber: 121
     },
     __self: this
   }, "Pluto"), __jsx("p", {
     className: "project-details-text",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 103
+      lineNumber: 122
     },
     __self: this
   }, "Pluto is statistical application completely built in", " ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 105
+      lineNumber: 124
     },
     __self: this
   }, "React"), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 106
+      lineNumber: 125
     },
     __self: this
   }), "Pluto returns the financial data of all 530+ members of the United States congress, including each individuals members vote attendance, Top 10 Donors, as well as their top investments and industrial donors.", __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 111
+      lineNumber: 130
     },
     __self: this
   }), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 112
+      lineNumber: 131
     },
     __self: this
   })), __jsx("div", {
     className: "project-buttons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 114
+      lineNumber: 133
     },
     __self: this
   }, __jsx("a", {
@@ -421,14 +456,14 @@ var MainBox = function MainBox() {
     href: "https://pluto.dimitrimichel.com/",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 115
+      lineNumber: 134
     },
     __self: this
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 120
+      lineNumber: 139
     },
     __self: this
   }, "Launch")), __jsx("a", {
@@ -437,166 +472,176 @@ var MainBox = function MainBox() {
     href: "https://github.com/DimitriMichel/Pluto",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 122
+      lineNumber: 141
     },
     __self: this
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 127
+      lineNumber: 146
     },
     __self: this
   }, "Github")))), __jsx("div", {
     className: "project-card-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 131
+      lineNumber: 150
     },
     __self: this
   }, __jsx("div", {
     className: "icons-card-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 132
+      lineNumber: 151
     },
     __self: this
   }, __jsx("div", {
     className: "icons-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 133
+      lineNumber: 152
     },
     __self: this
   }, __jsx("div", {
     className: "icons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 134
+      lineNumber: 153
     },
     __self: this
   }, __jsx("div", {
     className: "build-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 135
+      lineNumber: 154
     },
     __self: this
   }, __jsx("div", {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 136
+      lineNumber: 155
     },
     __self: this
   }, __jsx("img", {
-    src: _public_static_images_react_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+    src: _public_static_images_react_png__WEBPACK_IMPORTED_MODULE_2___default.a,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 137
+      lineNumber: 156
     },
     __self: this
   })), __jsx("div", {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 139
+      lineNumber: 158
     },
     __self: this
   }, __jsx("img", {
-    src: _public_static_images_antd_png__WEBPACK_IMPORTED_MODULE_11___default.a,
+    src: _public_static_images_antd_png__WEBPACK_IMPORTED_MODULE_9___default.a,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 140
+      lineNumber: 159
     },
     __self: this
   }))))), __jsx("div", {
     className: "project-card",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 145
+      lineNumber: 164
     },
     __self: this
-  }, __jsx("img", {
-    src: _public_static_images_pluto_gif__WEBPACK_IMPORTED_MODULE_3___default.a,
-    alt: "Image of a Social Media Project Called Tide",
+  }, __jsx("video", {
+    autoPlay: "autoplay",
+    loop: "loop",
+    height: "auto",
+    width: "100%",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 146
+      lineNumber: 165
     },
     __self: this
-  })), __jsx("div", {
+  }, __jsx("source", {
+    src: _public_static_videos_pluto_mp4__WEBPACK_IMPORTED_MODULE_12___default.a,
+    type: "video/mp4",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 171
+    },
+    __self: this
+  }))), __jsx("div", {
     className: "project-card-mobile",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 151
+      lineNumber: 174
     },
     __self: this
   }, __jsx("img", {
-    src: _public_static_images_pluto_mobile_png__WEBPACK_IMPORTED_MODULE_8___default.a,
+    src: _public_static_images_pluto_mobile_png__WEBPACK_IMPORTED_MODULE_6___default.a,
     alt: "Mobile image of a Social Media Project Called Tide",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 152
+      lineNumber: 175
     },
     __self: this
   }))))), __jsx("div", {
     className: "project-one",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 160
+      lineNumber: 183
     },
     __self: this
   }, __jsx("div", {
     className: "project-details",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 161
+      lineNumber: 184
     },
     __self: this
   }, __jsx("h3", {
     className: "project-details-title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 162
+      lineNumber: 185
     },
     __self: this
   }, "Heavenly Bakery"), __jsx("p", {
     className: "project-details-text",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 163
+      lineNumber: 186
     },
     __self: this
   }, "Heavenly bakery is a static site built with ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 164
+      lineNumber: 187
     },
     __self: this
-  }, "NextJS"), " and deployed to Zeit.", __jsx("br", {
+  }, "NextJS"), " ", "and deployed to Zeit.", __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 166
+      lineNumber: 189
     },
     __self: this
   }), "Heavenly bakery is Server Rendered and leverages the speed and simplicity of static sites to delivery a fluid experience.", __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 169
+      lineNumber: 193
     },
     __self: this
   }), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 170
+      lineNumber: 194
     },
     __self: this
   })), __jsx("div", {
     className: "project-buttons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 172
+      lineNumber: 196
     },
     __self: this
   }, __jsx("a", {
@@ -605,14 +650,14 @@ var MainBox = function MainBox() {
     href: "https://bakery.dimitrimichel.com/ ",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 173
+      lineNumber: 197
     },
     __self: this
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 179
+      lineNumber: 203
     },
     __self: this
   }, "Launch")), __jsx("a", {
@@ -621,117 +666,120 @@ var MainBox = function MainBox() {
     href: "https:///github.com/DimitriMichel/Bakery",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 181
+      lineNumber: 205
     },
     __self: this
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 186
+      lineNumber: 210
     },
     __self: this
   }, "Github")))), __jsx("div", {
     className: "project-card-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 190
+      lineNumber: 214
     },
     __self: this
   }, __jsx("div", {
     className: "icons-card-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 191
+      lineNumber: 215
     },
     __self: this
   }, __jsx("div", {
     className: "icons-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 192
+      lineNumber: 216
     },
     __self: this
   }, __jsx("div", {
     className: "icons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 193
+      lineNumber: 217
     },
     __self: this
   }, __jsx("div", {
     className: "build-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 194
+      lineNumber: 218
     },
     __self: this
   }, __jsx("div", {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 195
+      lineNumber: 219
     },
     __self: this
   }, __jsx("img", {
-    src: _public_static_images_react_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+    src: _public_static_images_react_png__WEBPACK_IMPORTED_MODULE_2___default.a,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 196
+      lineNumber: 220
     },
     __self: this
   })), __jsx("div", {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 198
+      lineNumber: 222
     },
     __self: this
   }, __jsx("img", {
-    src: _public_static_images_next_js_png__WEBPACK_IMPORTED_MODULE_12___default.a,
+    src: _public_static_images_next_js_png__WEBPACK_IMPORTED_MODULE_10___default.a,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 199
+      lineNumber: 223
     },
     __self: this
   }))))), __jsx("div", {
     className: "project-card",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 204
+      lineNumber: 228
     },
     __self: this
-  }, __jsx("img", {
-    src: _public_static_images_bakery_gif__WEBPACK_IMPORTED_MODULE_9___default.a,
-    alt: "Image of a Social Media Project Called Tide",
+  }, __jsx("video", {
+    autoPlay: "autoplay",
+    loop: "loop",
+    height: "auto",
+    width: "100%",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 205
+      lineNumber: 229
     },
     __self: this
-  })), __jsx("div", {
+  }, __jsx("source", {
+    src: _public_static_videos_bakery_mp4__WEBPACK_IMPORTED_MODULE_7___default.a,
+    type: "video/mp4",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 235
+    },
+    __self: this
+  }))), __jsx("div", {
     className: "project-card-mobile",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 210
+      lineNumber: 238
     },
     __self: this
   }, __jsx("img", {
-    src: _public_static_images_bakery_mobile_png__WEBPACK_IMPORTED_MODULE_10___default.a,
+    src: _public_static_images_bakery_mobile_png__WEBPACK_IMPORTED_MODULE_8___default.a,
     alt: "Mobile image of a Social Media Project Called Tide",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 211
+      lineNumber: 239
     },
     __self: this
-  })))))), __jsx("div", {
-    className: "skills-container",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 220
-    },
-    __self: this
-  }))));
+  }))))))))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (MainBox);
@@ -753,64 +801,80 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_icons_ti__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-icons/ti */ "./node_modules/react-icons/ti/index.esm.js");
 /* harmony import */ var react_icons_fi__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react-icons/fi */ "./node_modules/react-icons/fi/index.esm.js");
 /* harmony import */ var react_icons_ai__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-icons/ai */ "./node_modules/react-icons/ai/index.esm.js");
+/* harmony import */ var framer_motion__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! framer-motion */ "./node_modules/framer-motion/dist/framer-motion.es.js");
+/* harmony import */ var _utils_Animations_animConfig__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../utils/Animations/animConfig */ "./utils/Animations/animConfig.js");
 var _jsxFileName = "/Users/dimitripl/Documents/Portfolio/components/SideBox.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+ //Icons
 
 
 
 
 
 
+
+
+ //Framer Motion
 
 
 
 
 var SideBox = function SideBox() {
-  return __jsx("div", {
+  return __jsx(framer_motion__WEBPACK_IMPORTED_MODULE_5__["AnimatePresence"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19
+    },
+    __self: this
+  }, __jsx("div", {
     className: "grid-item-one",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
+      lineNumber: 20
     },
     __self: this
-  }, __jsx("div", {
+  }, __jsx(framer_motion__WEBPACK_IMPORTED_MODULE_5__["motion"].div, {
+    initial: "exit",
+    animate: "enter",
+    exit: "exit",
     className: "sidebox",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
+      lineNumber: 21
     },
     __self: this
-  }, __jsx("div", {
+  }, __jsx(framer_motion__WEBPACK_IMPORTED_MODULE_5__["motion"].div, {
+    variants: _utils_Animations_animConfig__WEBPACK_IMPORTED_MODULE_6__["yAxisVariants"],
     className: "name-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
+      lineNumber: 27
     },
     __self: this
   }, __jsx("h1", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
+      lineNumber: 28
     },
     __self: this
   }, "Dimitri", __jsx("strong", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
+      lineNumber: 30
     },
     __self: this
   }, " Michel"))), __jsx("div", {
     className: "title-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 21
+      lineNumber: 33
     },
     __self: this
   }, "Software Developer"), __jsx("div", {
     className: "social-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 34
     },
     __self: this
   }, __jsx("a", {
@@ -818,20 +882,20 @@ var SideBox = function SideBox() {
     className: "social-link",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
+      lineNumber: 35
     },
     __self: this
   }, __jsx("span", {
     className: "font-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
+      lineNumber: 36
     },
     __self: this
   }, __jsx(react_icons_fa__WEBPACK_IMPORTED_MODULE_1__["FaTwitter"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
+      lineNumber: 37
     },
     __self: this
   }))), __jsx("a", {
@@ -839,20 +903,20 @@ var SideBox = function SideBox() {
     className: "social-link",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
+      lineNumber: 40
     },
     __self: this
   }, __jsx("span", {
     className: "font-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
+      lineNumber: 41
     },
     __self: this
   }, __jsx(react_icons_fa__WEBPACK_IMPORTED_MODULE_1__["FaGithub"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
+      lineNumber: 42
     },
     __self: this
   }))), __jsx("a", {
@@ -860,128 +924,6155 @@ var SideBox = function SideBox() {
     className: "social-link",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33
+      lineNumber: 45
     },
     __self: this
   }, __jsx(react_icons_fa__WEBPACK_IMPORTED_MODULE_1__["FaLinkedin"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
+      lineNumber: 46
     },
     __self: this
   }))), __jsx("div", {
     className: "details",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
+      lineNumber: 49
     },
     __self: this
   }, __jsx("div", {
     className: "info",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 38
+      lineNumber: 50
     },
     __self: this
   }, __jsx("ul", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 39
+      lineNumber: 51
     },
     __self: this
   }, __jsx("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 40
+      lineNumber: 52
     },
     __self: this
   }, __jsx(react_icons_fi__WEBPACK_IMPORTED_MODULE_3__["FiCalendar"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41
+      lineNumber: 53
     },
     __self: this
   }), " November 18"), __jsx("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
+      lineNumber: 55
     },
     __self: this
   }, __jsx(react_icons_ti__WEBPACK_IMPORTED_MODULE_2__["TiLocation"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 44
+      lineNumber: 56
     },
     __self: this
   }), " Boston, MA"), __jsx("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 46
+      lineNumber: 58
     },
     __self: this
   }, __jsx(react_icons_ti__WEBPACK_IMPORTED_MODULE_2__["TiMail"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 47
+      lineNumber: 59
     },
     __self: this
   }), " ", __jsx("a", {
     href: "mailto:dimitri.dev@icloud.com",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 48
+      lineNumber: 60
     },
     __self: this
   }, "dimitri.dev@icloud.com")), __jsx("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52
+      lineNumber: 64
     },
     __self: this
   }, __jsx(react_icons_ti__WEBPACK_IMPORTED_MODULE_2__["TiPhone"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 53
+      lineNumber: 65
     },
     __self: this
   }), " (617)-322-4315"))), __jsx("div", {
     className: "download-button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 57
+      lineNumber: 69
     },
     __self: this
   }, __jsx("button", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58
+      lineNumber: 70
     },
     __self: this
   }, __jsx("div", {
     className: "download-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59
+      lineNumber: 71
     },
     __self: this
   }, __jsx(react_icons_ai__WEBPACK_IMPORTED_MODULE_4__["AiOutlineCloudDownload"], {
     size: 25,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 60
+      lineNumber: 72
     },
     __self: this
   })), __jsx("span", {
     className: "download-text",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 62
+      lineNumber: 74
     },
     __self: this
-  }, " Download Resume"))))));
+  }, " Download Resume")))))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (SideBox);
+
+/***/ }),
+
+/***/ "./node_modules/@emotion/is-prop-valid/dist/is-prop-valid.browser.esm.js":
+/*!*******************************************************************************!*\
+  !*** ./node_modules/@emotion/is-prop-valid/dist/is-prop-valid.browser.esm.js ***!
+  \*******************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _emotion_memoize__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @emotion/memoize */ "./node_modules/@emotion/memoize/dist/memoize.browser.esm.js");
+
+
+var reactPropsRegex = /^((children|dangerouslySetInnerHTML|key|ref|autoFocus|defaultValue|defaultChecked|innerHTML|suppressContentEditableWarning|suppressHydrationWarning|valueLink|accept|acceptCharset|accessKey|action|allow|allowUserMedia|allowPaymentRequest|allowFullScreen|allowTransparency|alt|async|autoComplete|autoPlay|capture|cellPadding|cellSpacing|challenge|charSet|checked|cite|classID|className|cols|colSpan|content|contentEditable|contextMenu|controls|controlsList|coords|crossOrigin|data|dateTime|decoding|default|defer|dir|disabled|download|draggable|encType|form|formAction|formEncType|formMethod|formNoValidate|formTarget|frameBorder|headers|height|hidden|high|href|hrefLang|htmlFor|httpEquiv|id|inputMode|integrity|is|keyParams|keyType|kind|label|lang|list|loading|loop|low|marginHeight|marginWidth|max|maxLength|media|mediaGroup|method|min|minLength|multiple|muted|name|nonce|noValidate|open|optimum|pattern|placeholder|playsInline|poster|preload|profile|radioGroup|readOnly|referrerPolicy|rel|required|reversed|role|rows|rowSpan|sandbox|scope|scoped|scrolling|seamless|selected|shape|size|sizes|slot|span|spellCheck|src|srcDoc|srcLang|srcSet|start|step|style|summary|tabIndex|target|title|type|useMap|value|width|wmode|wrap|about|datatype|inlist|prefix|property|resource|typeof|vocab|autoCapitalize|autoCorrect|autoSave|color|inert|itemProp|itemScope|itemType|itemID|itemRef|on|results|security|unselectable|accentHeight|accumulate|additive|alignmentBaseline|allowReorder|alphabetic|amplitude|arabicForm|ascent|attributeName|attributeType|autoReverse|azimuth|baseFrequency|baselineShift|baseProfile|bbox|begin|bias|by|calcMode|capHeight|clip|clipPathUnits|clipPath|clipRule|colorInterpolation|colorInterpolationFilters|colorProfile|colorRendering|contentScriptType|contentStyleType|cursor|cx|cy|d|decelerate|descent|diffuseConstant|direction|display|divisor|dominantBaseline|dur|dx|dy|edgeMode|elevation|enableBackground|end|exponent|externalResourcesRequired|fill|fillOpacity|fillRule|filter|filterRes|filterUnits|floodColor|floodOpacity|focusable|fontFamily|fontSize|fontSizeAdjust|fontStretch|fontStyle|fontVariant|fontWeight|format|from|fr|fx|fy|g1|g2|glyphName|glyphOrientationHorizontal|glyphOrientationVertical|glyphRef|gradientTransform|gradientUnits|hanging|horizAdvX|horizOriginX|ideographic|imageRendering|in|in2|intercept|k|k1|k2|k3|k4|kernelMatrix|kernelUnitLength|kerning|keyPoints|keySplines|keyTimes|lengthAdjust|letterSpacing|lightingColor|limitingConeAngle|local|markerEnd|markerMid|markerStart|markerHeight|markerUnits|markerWidth|mask|maskContentUnits|maskUnits|mathematical|mode|numOctaves|offset|opacity|operator|order|orient|orientation|origin|overflow|overlinePosition|overlineThickness|panose1|paintOrder|pathLength|patternContentUnits|patternTransform|patternUnits|pointerEvents|points|pointsAtX|pointsAtY|pointsAtZ|preserveAlpha|preserveAspectRatio|primitiveUnits|r|radius|refX|refY|renderingIntent|repeatCount|repeatDur|requiredExtensions|requiredFeatures|restart|result|rotate|rx|ry|scale|seed|shapeRendering|slope|spacing|specularConstant|specularExponent|speed|spreadMethod|startOffset|stdDeviation|stemh|stemv|stitchTiles|stopColor|stopOpacity|strikethroughPosition|strikethroughThickness|string|stroke|strokeDasharray|strokeDashoffset|strokeLinecap|strokeLinejoin|strokeMiterlimit|strokeOpacity|strokeWidth|surfaceScale|systemLanguage|tableValues|targetX|targetY|textAnchor|textDecoration|textRendering|textLength|to|transform|u1|u2|underlinePosition|underlineThickness|unicode|unicodeBidi|unicodeRange|unitsPerEm|vAlphabetic|vHanging|vIdeographic|vMathematical|values|vectorEffect|version|vertAdvY|vertOriginX|vertOriginY|viewBox|viewTarget|visibility|widths|wordSpacing|writingMode|x|xHeight|x1|x2|xChannelSelector|xlinkActuate|xlinkArcrole|xlinkHref|xlinkRole|xlinkShow|xlinkTitle|xlinkType|xmlBase|xmlns|xmlnsXlink|xmlLang|xmlSpace|y|y1|y2|yChannelSelector|z|zoomAndPan|for|class|autofocus)|(([Dd][Aa][Tt][Aa]|[Aa][Rr][Ii][Aa]|x)-.*))$/; // https://esbench.com/bench/5bfee68a4cd7e6009ef61d23
+
+var index = Object(_emotion_memoize__WEBPACK_IMPORTED_MODULE_0__["default"])(function (prop) {
+  return reactPropsRegex.test(prop) || prop.charCodeAt(0) === 111
+  /* o */
+  && prop.charCodeAt(1) === 110
+  /* n */
+  && prop.charCodeAt(2) < 91;
+}
+/* Z+1 */
+);
+
+/* harmony default export */ __webpack_exports__["default"] = (index);
+
+
+/***/ }),
+
+/***/ "./node_modules/@emotion/memoize/dist/memoize.browser.esm.js":
+/*!*******************************************************************!*\
+  !*** ./node_modules/@emotion/memoize/dist/memoize.browser.esm.js ***!
+  \*******************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+function memoize(fn) {
+  var cache = {};
+  return function (arg) {
+    if (cache[arg] === undefined) cache[arg] = fn(arg);
+    return cache[arg];
+  };
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (memoize);
+
+
+/***/ }),
+
+/***/ "./node_modules/@popmotion/easing/dist/easing.es.js":
+/*!**********************************************************!*\
+  !*** ./node_modules/@popmotion/easing/dist/easing.es.js ***!
+  \**********************************************************/
+/*! exports provided: reversed, mirrored, createReversedEasing, createMirroredEasing, createExpoIn, createBackIn, createAnticipateEasing, linear, easeIn, easeOut, easeInOut, circIn, circOut, circInOut, backIn, backOut, backInOut, anticipate, bounceOut, bounceIn, bounceInOut, cubicBezier */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "reversed", function() { return reversed; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mirrored", function() { return mirrored; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "createReversedEasing", function() { return createReversedEasing; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "createMirroredEasing", function() { return createMirroredEasing; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "createExpoIn", function() { return createExpoIn; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "createBackIn", function() { return createBackIn; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "createAnticipateEasing", function() { return createAnticipateEasing; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "linear", function() { return linear; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "easeIn", function() { return easeIn; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "easeOut", function() { return easeOut; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "easeInOut", function() { return easeInOut; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "circIn", function() { return circIn; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "circOut", function() { return circOut; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "circInOut", function() { return circInOut; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "backIn", function() { return backIn; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "backOut", function() { return backOut; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "backInOut", function() { return backInOut; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "anticipate", function() { return anticipate; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bounceOut", function() { return bounceOut; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bounceIn", function() { return bounceIn; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "bounceInOut", function() { return bounceInOut; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "cubicBezier", function() { return cubicBezier; });
+var DEFAULT_OVERSHOOT_STRENGTH = 1.525;
+var reversed = function (easing) {
+    return function (p) {
+        return 1 - easing(1 - p);
+    };
+};
+var mirrored = function (easing) {
+    return function (p) {
+        return p <= 0.5 ? easing(2 * p) / 2 : (2 - easing(2 * (1 - p))) / 2;
+    };
+};
+var createReversedEasing = reversed;
+var createMirroredEasing = mirrored;
+var createExpoIn = function (power) {
+    return function (p) {
+        return Math.pow(p, power);
+    };
+};
+var createBackIn = function (power) {
+    return function (p) {
+        return p * p * ((power + 1) * p - power);
+    };
+};
+var createAnticipateEasing = function (power) {
+    var backEasing = createBackIn(power);
+    return function (p) {
+        return (p *= 2) < 1 ? 0.5 * backEasing(p) : 0.5 * (2 - Math.pow(2, -10 * (p - 1)));
+    };
+};
+var linear = function (p) {
+    return p;
+};
+var easeIn = /*#__PURE__*/createExpoIn(2);
+var easeOut = /*#__PURE__*/reversed(easeIn);
+var easeInOut = /*#__PURE__*/mirrored(easeIn);
+var circIn = function (p) {
+    return 1 - Math.sin(Math.acos(p));
+};
+var circOut = /*#__PURE__*/reversed(circIn);
+var circInOut = /*#__PURE__*/mirrored(circOut);
+var backIn = /*#__PURE__*/createBackIn(DEFAULT_OVERSHOOT_STRENGTH);
+var backOut = /*#__PURE__*/reversed(backIn);
+var backInOut = /*#__PURE__*/mirrored(backIn);
+var anticipate = /*#__PURE__*/createAnticipateEasing(DEFAULT_OVERSHOOT_STRENGTH);
+var BOUNCE_FIRST_THRESHOLD = 4.0 / 11.0;
+var BOUNCE_SECOND_THRESHOLD = 8.0 / 11.0;
+var BOUNCE_THIRD_THRESHOLD = 9.0 / 10.0;
+var ca = 4356.0 / 361.0;
+var cb = 35442.0 / 1805.0;
+var cc = 16061.0 / 1805.0;
+var bounceOut = function (p) {
+    var p2 = p * p;
+    return p < BOUNCE_FIRST_THRESHOLD ? 7.5625 * p2 : p < BOUNCE_SECOND_THRESHOLD ? 9.075 * p2 - 9.9 * p + 3.4 : p < BOUNCE_THIRD_THRESHOLD ? ca * p2 - cb * p + cc : 10.8 * p * p - 20.52 * p + 10.72;
+};
+var bounceIn = function (p) {
+    return 1.0 - bounceOut(1.0 - p);
+};
+var bounceInOut = function (p) {
+    return p < 0.5 ? 0.5 * (1.0 - bounceOut(1.0 - p * 2.0)) : 0.5 * bounceOut(p * 2.0 - 1.0) + 0.5;
+};
+var NEWTON_ITERATIONS = 8;
+var NEWTON_MIN_SLOPE = 0.001;
+var SUBDIVISION_PRECISION = 0.0000001;
+var SUBDIVISION_MAX_ITERATIONS = 10;
+var K_SPLINE_TABLE_SIZE = 11;
+var K_SAMPLE_STEP_SIZE = 1.0 / (K_SPLINE_TABLE_SIZE - 1.0);
+var FLOAT_32_SUPPORTED = typeof Float32Array !== 'undefined';
+var a = function (a1, a2) {
+    return 1.0 - 3.0 * a2 + 3.0 * a1;
+};
+var b = function (a1, a2) {
+    return 3.0 * a2 - 6.0 * a1;
+};
+var c = function (a1) {
+    return 3.0 * a1;
+};
+var getSlope = function (t, a1, a2) {
+    return 3.0 * a(a1, a2) * t * t + 2.0 * b(a1, a2) * t + c(a1);
+};
+var calcBezier = function (t, a1, a2) {
+    return ((a(a1, a2) * t + b(a1, a2)) * t + c(a1)) * t;
+};
+function cubicBezier(mX1, mY1, mX2, mY2) {
+    var sampleValues = FLOAT_32_SUPPORTED ? new Float32Array(K_SPLINE_TABLE_SIZE) : new Array(K_SPLINE_TABLE_SIZE);
+    var binarySubdivide = function (aX, aA, aB) {
+        var i = 0;
+        var currentX;
+        var currentT;
+        do {
+            currentT = aA + (aB - aA) / 2.0;
+            currentX = calcBezier(currentT, mX1, mX2) - aX;
+            if (currentX > 0.0) {
+                aB = currentT;
+            } else {
+                aA = currentT;
+            }
+        } while (Math.abs(currentX) > SUBDIVISION_PRECISION && ++i < SUBDIVISION_MAX_ITERATIONS);
+        return currentT;
+    };
+    var newtonRaphsonIterate = function (aX, aGuessT) {
+        var i = 0;
+        var currentSlope = 0;
+        var currentX;
+        for (; i < NEWTON_ITERATIONS; ++i) {
+            currentSlope = getSlope(aGuessT, mX1, mX2);
+            if (currentSlope === 0.0) {
+                return aGuessT;
+            }
+            currentX = calcBezier(aGuessT, mX1, mX2) - aX;
+            aGuessT -= currentX / currentSlope;
+        }
+        return aGuessT;
+    };
+    var calcSampleValues = function () {
+        for (var i = 0; i < K_SPLINE_TABLE_SIZE; ++i) {
+            sampleValues[i] = calcBezier(i * K_SAMPLE_STEP_SIZE, mX1, mX2);
+        }
+    };
+    var getTForX = function (aX) {
+        var intervalStart = 0.0;
+        var currentSample = 1;
+        var lastSample = K_SPLINE_TABLE_SIZE - 1;
+        var dist = 0.0;
+        var guessForT = 0.0;
+        var initialSlope = 0.0;
+        for (; currentSample !== lastSample && sampleValues[currentSample] <= aX; ++currentSample) {
+            intervalStart += K_SAMPLE_STEP_SIZE;
+        }
+        --currentSample;
+        dist = (aX - sampleValues[currentSample]) / (sampleValues[currentSample + 1] - sampleValues[currentSample]);
+        guessForT = intervalStart + dist * K_SAMPLE_STEP_SIZE;
+        initialSlope = getSlope(guessForT, mX1, mX2);
+        if (initialSlope >= NEWTON_MIN_SLOPE) {
+            return newtonRaphsonIterate(aX, guessForT);
+        } else if (initialSlope === 0.0) {
+            return guessForT;
+        } else {
+            return binarySubdivide(aX, intervalStart, intervalStart + K_SAMPLE_STEP_SIZE);
+        }
+    };
+    calcSampleValues();
+    var resolver = function (aX) {
+        var returnValue;
+        if (mX1 === mY1 && mX2 === mY2) {
+            returnValue = aX;
+        } else if (aX === 0) {
+            returnValue = 0;
+        } else if (aX === 1) {
+            returnValue = 1;
+        } else {
+            returnValue = calcBezier(getTForX(aX), mY1, mY2);
+        }
+        return returnValue;
+    };
+    return resolver;
+}
+
+
+
+
+/***/ }),
+
+/***/ "./node_modules/@popmotion/popcorn/dist/popcorn.es.js":
+/*!************************************************************!*\
+  !*** ./node_modules/@popmotion/popcorn/dist/popcorn.es.js ***!
+  \************************************************************/
+/*! exports provided: createAnticipateEasing, createBackIn, createExpoIn, cubicBezier, linear, easeIn, easeOut, easeInOut, circIn, circOut, circInOut, backIn, backOut, backInOut, anticipate, reversed, mirrored, angle, applyOffset, clamp, conditional, degreesToRadians, distance, interpolate, isPoint, isPoint3D, mix, mixArray, mixColor, mixComplex, mixObject, pipe, pointFromVector, progress, radiansToDegrees, smooth, smoothFrame, snap, springForce, springForceExpo, springForceLinear, steps, toDecimal, velocityPerFrame, velocityPerSecond, wrap */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "angle", function() { return angle; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "applyOffset", function() { return applyOffset; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "clamp", function() { return clamp$1; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "conditional", function() { return conditional; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "degreesToRadians", function() { return degreesToRadians; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "distance", function() { return distance; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "interpolate", function() { return interpolate; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "isPoint", function() { return isPoint; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "isPoint3D", function() { return isPoint3D; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mix", function() { return mix; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mixArray", function() { return mixArray; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mixColor", function() { return mixColor; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mixComplex", function() { return mixComplex; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mixObject", function() { return mixObject; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pipe", function() { return pipe; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pointFromVector", function() { return pointFromVector; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "progress", function() { return progress; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "radiansToDegrees", function() { return radiansToDegrees; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "smooth", function() { return smooth; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "smoothFrame", function() { return smoothFrame; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "snap", function() { return snap; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "springForce", function() { return springForce; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "springForceExpo", function() { return springForceExpo; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "springForceLinear", function() { return springForceLinear; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "steps", function() { return steps; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "toDecimal", function() { return toDecimal; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "velocityPerFrame", function() { return velocityPerFrame; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "velocityPerSecond", function() { return velocityPerSecond; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "wrap", function() { return wrap$1; });
+/* harmony import */ var style_value_types__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! style-value-types */ "./node_modules/style-value-types/dist/style-value-types.es.js");
+/* harmony import */ var hey_listen__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! hey-listen */ "./node_modules/hey-listen/dist/hey-listen.es.js");
+/* harmony import */ var framesync__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! framesync */ "./node_modules/framesync/dist/framesync.es.js");
+/* harmony import */ var _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @popmotion/easing */ "./node_modules/@popmotion/easing/dist/easing.es.js");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "createAnticipateEasing", function() { return _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__["createAnticipateEasing"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "createBackIn", function() { return _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__["createBackIn"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "createExpoIn", function() { return _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__["createExpoIn"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "cubicBezier", function() { return _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__["cubicBezier"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "linear", function() { return _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__["linear"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeIn", function() { return _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__["easeIn"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeOut", function() { return _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__["easeOut"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "easeInOut", function() { return _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__["easeInOut"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "circIn", function() { return _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__["circIn"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "circOut", function() { return _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__["circOut"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "circInOut", function() { return _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__["circInOut"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "backIn", function() { return _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__["backIn"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "backOut", function() { return _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__["backOut"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "backInOut", function() { return _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__["backInOut"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "anticipate", function() { return _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__["anticipate"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "reversed", function() { return _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__["reversed"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "mirrored", function() { return _popmotion_easing__WEBPACK_IMPORTED_MODULE_3__["mirrored"]; });
+
+
+
+
+
+
+
+var zeroPoint = {
+    x: 0,
+    y: 0,
+    z: 0
+};
+var isNum = function (v) { return typeof v === 'number'; };
+
+var radiansToDegrees = (function (radians) { return (radians * 180) / Math.PI; });
+
+var angle = (function (a, b) {
+    if (b === void 0) { b = zeroPoint; }
+    return radiansToDegrees(Math.atan2(b.y - a.y, b.x - a.x));
+});
+
+var applyOffset = (function (from, to) {
+    var hasReceivedFrom = true;
+    if (to === undefined) {
+        to = from;
+        hasReceivedFrom = false;
+    }
+    return function (v) {
+        if (hasReceivedFrom) {
+            return v - from + to;
+        }
+        else {
+            from = v;
+            hasReceivedFrom = true;
+            return to;
+        }
+    };
+});
+
+var curryRange = (function (func) { return function (min, max, v) { return (v !== undefined ? func(min, max, v) : function (cv) { return func(min, max, cv); }); }; });
+
+var clamp = function (min, max, v) {
+    return Math.min(Math.max(v, min), max);
+};
+var clamp$1 = curryRange(clamp);
+
+var conditional = (function (check, apply) { return function (v) {
+    return check(v) ? apply(v) : v;
+}; });
+
+var degreesToRadians = (function (degrees) { return (degrees * Math.PI) / 180; });
+
+var isPoint = (function (point) {
+    return point.hasOwnProperty('x') && point.hasOwnProperty('y');
+});
+
+var isPoint3D = (function (point) {
+    return isPoint(point) && point.hasOwnProperty('z');
+});
+
+var distance1D = function (a, b) { return Math.abs(a - b); };
+var distance = (function (a, b) {
+    if (b === void 0) { b = zeroPoint; }
+    if (isNum(a) && isNum(b)) {
+        return distance1D(a, b);
+    }
+    else if (isPoint(a) && isPoint(b)) {
+        var xDelta = distance1D(a.x, b.x);
+        var yDelta = distance1D(a.y, b.y);
+        var zDelta = isPoint3D(a) && isPoint3D(b) ? distance1D(a.z, b.z) : 0;
+        return Math.sqrt(Math.pow(xDelta, 2) + Math.pow(yDelta, 2) + Math.pow(zDelta, 2));
+    }
+    return 0;
+});
+
+var progress = (function (from, to, value) {
+    var toFromDifference = to - from;
+    return toFromDifference === 0 ? 1 : (value - from) / toFromDifference;
+});
+
+var mix = (function (from, to, progress) {
+    return -progress * from + progress * to + from;
+});
+
+/*! *****************************************************************************
+Copyright (c) Microsoft Corporation. All rights reserved.
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+this file except in compliance with the License. You may obtain a copy of the
+License at http://www.apache.org/licenses/LICENSE-2.0
+
+THIS CODE IS PROVIDED ON AN *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE,
+MERCHANTABLITY OR NON-INFRINGEMENT.
+
+See the Apache Version 2.0 License for specific language governing permissions
+and limitations under the License.
+***************************************************************************** */
+
+var __assign = function() {
+    __assign = Object.assign || function __assign(t) {
+        for (var s, i = 1, n = arguments.length; i < n; i++) {
+            s = arguments[i];
+            for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p)) t[p] = s[p];
+        }
+        return t;
+    };
+    return __assign.apply(this, arguments);
+};
+
+var mixLinearColor = function (from, to, v) {
+    var fromExpo = from * from;
+    var toExpo = to * to;
+    return Math.sqrt(Math.max(0, v * (toExpo - fromExpo) + fromExpo));
+};
+var colorTypes = [style_value_types__WEBPACK_IMPORTED_MODULE_0__["hex"], style_value_types__WEBPACK_IMPORTED_MODULE_0__["rgba"], style_value_types__WEBPACK_IMPORTED_MODULE_0__["hsla"]];
+var getColorType = function (v) {
+    return colorTypes.find(function (type) { return type.test(v); });
+};
+var notAnimatable = function (color$$1) {
+    return "'" + color$$1 + "' is not an animatable color. Use the equivalent color code instead.";
+};
+var mixColor = (function (from, to) {
+    var fromColorType = getColorType(from);
+    var toColorType = getColorType(to);
+    Object(hey_listen__WEBPACK_IMPORTED_MODULE_1__["invariant"])(!!fromColorType, notAnimatable(from));
+    Object(hey_listen__WEBPACK_IMPORTED_MODULE_1__["invariant"])(!!toColorType, notAnimatable(to));
+    Object(hey_listen__WEBPACK_IMPORTED_MODULE_1__["invariant"])(fromColorType.transform === toColorType.transform, 'Both colors must be hex/RGBA, OR both must be HSLA.');
+    var fromColor = fromColorType.parse(from);
+    var toColor = toColorType.parse(to);
+    var blended = __assign({}, fromColor);
+    var mixFunc = fromColorType === style_value_types__WEBPACK_IMPORTED_MODULE_0__["hsla"] ? mix : mixLinearColor;
+    return function (v) {
+        for (var key in blended) {
+            if (key !== 'alpha') {
+                blended[key] = mixFunc(fromColor[key], toColor[key], v);
+            }
+        }
+        blended.alpha = mix(fromColor.alpha, toColor.alpha, v);
+        return fromColorType.transform(blended);
+    };
+});
+
+var combineFunctions = function (a, b) { return function (v) { return b(a(v)); }; };
+var pipe = (function () {
+    var transformers = [];
+    for (var _i = 0; _i < arguments.length; _i++) {
+        transformers[_i] = arguments[_i];
+    }
+    return transformers.reduce(combineFunctions);
+});
+
+function getMixer(origin, target) {
+    if (isNum(origin)) {
+        return function (v) { return mix(origin, target, v); };
+    }
+    else if (style_value_types__WEBPACK_IMPORTED_MODULE_0__["color"].test(origin)) {
+        return mixColor(origin, target);
+    }
+    else {
+        return mixComplex(origin, target);
+    }
+}
+var mixArray = function (from, to) {
+    var output = from.slice();
+    var numValues = output.length;
+    var blendValue = from.map(function (fromThis, i) { return getMixer(fromThis, to[i]); });
+    return function (v) {
+        for (var i = 0; i < numValues; i++) {
+            output[i] = blendValue[i](v);
+        }
+        return output;
+    };
+};
+var mixObject = function (origin, target) {
+    var output = __assign({}, origin, target);
+    var blendValue = {};
+    for (var key in output) {
+        if (origin[key] !== undefined && target[key] !== undefined) {
+            blendValue[key] = getMixer(origin[key], target[key]);
+        }
+    }
+    return function (v) {
+        for (var key in blendValue) {
+            output[key] = blendValue[key](v);
+        }
+        return output;
+    };
+};
+function analyse(value) {
+    var parsed = style_value_types__WEBPACK_IMPORTED_MODULE_0__["complex"].parse(value);
+    var numValues = parsed.length;
+    var numNumbers = 0;
+    var numRGB = 0;
+    var numHSL = 0;
+    for (var i = 0; i < numValues; i++) {
+        if (numNumbers || typeof parsed[i] === 'number') {
+            numNumbers++;
+        }
+        else {
+            if (parsed[i].hue !== undefined) {
+                numHSL++;
+            }
+            else {
+                numRGB++;
+            }
+        }
+    }
+    return { parsed: parsed, numNumbers: numNumbers, numRGB: numRGB, numHSL: numHSL };
+}
+var mixComplex = function (origin, target) {
+    var template = style_value_types__WEBPACK_IMPORTED_MODULE_0__["complex"].createTransformer(target);
+    var originStats = analyse(origin);
+    var targetStats = analyse(target);
+    Object(hey_listen__WEBPACK_IMPORTED_MODULE_1__["invariant"])(originStats.numHSL === targetStats.numHSL &&
+        originStats.numRGB === targetStats.numRGB &&
+        originStats.numNumbers >= targetStats.numNumbers, "Complex values '" + origin + "' and '" + target + "' too different to mix. Ensure all colors are of the same type.");
+    return pipe(mixArray(originStats.parsed, targetStats.parsed), template);
+};
+
+var mixNumber = function (from, to) { return function (p) { return mix(from, to, p); }; };
+function detectMixerFactory(v) {
+    if (typeof v === 'number') {
+        return mixNumber;
+    }
+    else if (typeof v === 'string') {
+        if (style_value_types__WEBPACK_IMPORTED_MODULE_0__["color"].test(v)) {
+            return mixColor;
+        }
+        else {
+            return mixComplex;
+        }
+    }
+    else if (Array.isArray(v)) {
+        return mixArray;
+    }
+    else if (typeof v === 'object') {
+        return mixObject;
+    }
+}
+function createMixers(output, ease, customMixer) {
+    var mixers = [];
+    var mixerFactory = customMixer || detectMixerFactory(output[0]);
+    var numMixers = output.length - 1;
+    for (var i = 0; i < numMixers; i++) {
+        var mixer = mixerFactory(output[i], output[i + 1]);
+        if (ease) {
+            var easingFunction = Array.isArray(ease) ? ease[i] : ease;
+            mixer = pipe(easingFunction, mixer);
+        }
+        mixers.push(mixer);
+    }
+    return mixers;
+}
+function fastInterpolate(_a, _b) {
+    var from = _a[0], to = _a[1];
+    var mixer = _b[0];
+    return function (v) { return mixer(progress(from, to, v)); };
+}
+function slowInterpolate(input, mixers) {
+    var inputLength = input.length;
+    var lastInputIndex = inputLength - 1;
+    return function (v) {
+        var mixerIndex = 0;
+        var foundMixerIndex = false;
+        if (v <= input[0]) {
+            foundMixerIndex = true;
+        }
+        else if (v >= input[lastInputIndex]) {
+            mixerIndex = lastInputIndex - 1;
+            foundMixerIndex = true;
+        }
+        if (!foundMixerIndex) {
+            var i = 1;
+            for (; i < inputLength; i++) {
+                if (input[i] > v || i === lastInputIndex) {
+                    break;
+                }
+            }
+            mixerIndex = i - 1;
+        }
+        var progressInRange = progress(input[mixerIndex], input[mixerIndex + 1], v);
+        return mixers[mixerIndex](progressInRange);
+    };
+}
+function interpolate(input, output, _a) {
+    var _b = _a === void 0 ? {} : _a, _c = _b.clamp, clamp = _c === void 0 ? true : _c, ease = _b.ease, mixer = _b.mixer;
+    var inputLength = input.length;
+    Object(hey_listen__WEBPACK_IMPORTED_MODULE_1__["invariant"])(inputLength === output.length, 'Both input and output ranges must be the same length');
+    Object(hey_listen__WEBPACK_IMPORTED_MODULE_1__["invariant"])(!ease || !Array.isArray(ease) || ease.length === inputLength - 1, 'Array of easing functions must be of length `input.length - 1`, as it applies to the transitions **between** the defined values.');
+    if (input[0] > input[inputLength - 1]) {
+        input = [].concat(input);
+        output = [].concat(output);
+        input.reverse();
+        output.reverse();
+    }
+    var mixers = createMixers(output, ease, mixer);
+    var interpolator = inputLength === 2
+        ? fastInterpolate(input, mixers)
+        : slowInterpolate(input, mixers);
+    return clamp
+        ? pipe(clamp$1(input[0], input[inputLength - 1]), interpolator)
+        : interpolator;
+}
+
+var pointFromVector = (function (origin, angle, distance) {
+    angle = degreesToRadians(angle);
+    return {
+        x: distance * Math.cos(angle) + origin.x,
+        y: distance * Math.sin(angle) + origin.y
+    };
+});
+
+var toDecimal = (function (num, precision) {
+    if (precision === void 0) { precision = 2; }
+    precision = Math.pow(10, precision);
+    return Math.round(num * precision) / precision;
+});
+
+var smoothFrame = (function (prevValue, nextValue, duration, smoothing) {
+    if (smoothing === void 0) { smoothing = 0; }
+    return toDecimal(prevValue +
+        (duration * (nextValue - prevValue)) / Math.max(smoothing, duration));
+});
+
+var smooth = (function (strength) {
+    if (strength === void 0) { strength = 50; }
+    var previousValue = 0;
+    var lastUpdated = 0;
+    return function (v) {
+        var currentFramestamp = Object(framesync__WEBPACK_IMPORTED_MODULE_2__["getFrameData"])().timestamp;
+        var timeDelta = currentFramestamp !== lastUpdated ? currentFramestamp - lastUpdated : 0;
+        var newValue = timeDelta
+            ? smoothFrame(previousValue, v, timeDelta, strength)
+            : previousValue;
+        lastUpdated = currentFramestamp;
+        previousValue = newValue;
+        return newValue;
+    };
+});
+
+var snap = (function (points) {
+    if (typeof points === 'number') {
+        return function (v) { return Math.round(v / points) * points; };
+    }
+    else {
+        var i_1 = 0;
+        var numPoints_1 = points.length;
+        return function (v) {
+            var lastDistance = Math.abs(points[0] - v);
+            for (i_1 = 1; i_1 < numPoints_1; i_1++) {
+                var point = points[i_1];
+                var distance = Math.abs(point - v);
+                if (distance === 0)
+                    return point;
+                if (distance > lastDistance)
+                    return points[i_1 - 1];
+                if (i_1 === numPoints_1 - 1)
+                    return point;
+                lastDistance = distance;
+            }
+        };
+    }
+});
+
+var identity = function (v) { return v; };
+var springForce = function (alterDisplacement) {
+    if (alterDisplacement === void 0) { alterDisplacement = identity; }
+    return curryRange(function (constant, origin, v) {
+        var displacement = origin - v;
+        var springModifiedDisplacement = -(0 - constant + 1) * (0 - alterDisplacement(Math.abs(displacement)));
+        return displacement <= 0
+            ? origin + springModifiedDisplacement
+            : origin - springModifiedDisplacement;
+    });
+};
+var springForceLinear = springForce();
+var springForceExpo = springForce(Math.sqrt);
+
+var velocityPerFrame = (function (xps, frameDuration) {
+    return isNum(xps) ? xps / (1000 / frameDuration) : 0;
+});
+
+var velocityPerSecond = (function (velocity, frameDuration) {
+    return frameDuration ? velocity * (1000 / frameDuration) : 0;
+});
+
+var wrap = function (min, max, v) {
+    var rangeSize = max - min;
+    return ((((v - min) % rangeSize) + rangeSize) % rangeSize) + min;
+};
+var wrap$1 = curryRange(wrap);
+
+var clampProgress = clamp$1(0, 1);
+var steps = (function (steps, direction) {
+    if (direction === void 0) { direction = 'end'; }
+    return function (progress) {
+        progress =
+            direction === 'end' ? Math.min(progress, 0.999) : Math.max(progress, 0.001);
+        var expanded = progress * steps;
+        var rounded = direction === 'end' ? Math.floor(expanded) : Math.ceil(expanded);
+        return clampProgress(rounded / steps);
+    };
+});
+
+
+
+
+/***/ }),
+
+/***/ "./node_modules/framer-motion/dist/framer-motion.es.js":
+/*!*************************************************************!*\
+  !*** ./node_modules/framer-motion/dist/framer-motion.es.js ***!
+  \*************************************************************/
+/*! exports provided: AnimatePresence, AnimationControls, DragControls, MotionContext, MotionPluginContext, MotionPlugins, MotionValue, Point, ReducedMotion, UnstableSyncLayout, animationControls, createMotionComponent, isValidMotionProp, motion, motionValue, transform, unwrapMotionValue, useAnimatedState, useAnimation, useCycle, useDomEvent, useDragControls, useExternalRef, useGestures, useInvertedScale, useMotionValue, usePanGesture, usePresence, useReducedMotion, useSpring, useTapGesture, useTransform, useViewportScroll */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AnimatePresence", function() { return AnimatePresence; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AnimationControls", function() { return AnimationControls; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "DragControls", function() { return DragControls; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "MotionContext", function() { return MotionContext; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "MotionPluginContext", function() { return MotionPluginContext; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "MotionPlugins", function() { return MotionPlugins; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "MotionValue", function() { return MotionValue; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Point", function() { return Point; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ReducedMotion", function() { return ReducedMotion; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "UnstableSyncLayout", function() { return UnstableSyncLayout; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "animationControls", function() { return animationControls; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "createMotionComponent", function() { return createMotionComponent; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "isValidMotionProp", function() { return isValidMotionProp; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "motion", function() { return motion; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "motionValue", function() { return motionValue; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "transform", function() { return transform; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "unwrapMotionValue", function() { return unwrapMotionValue; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "useAnimatedState", function() { return useAnimatedState; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "useAnimation", function() { return useAnimation; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "useCycle", function() { return useCycle; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "useDomEvent", function() { return useDomEvent; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "useDragControls", function() { return useDragControls; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "useExternalRef", function() { return useExternalRef; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "useGestures", function() { return useGestures; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "useInvertedScale", function() { return useInvertedScale; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "useMotionValue", function() { return useMotionValue; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "usePanGesture", function() { return usePanGesture; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "usePresence", function() { return usePresence; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "useReducedMotion", function() { return useReducedMotion; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "useSpring", function() { return useSpring; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "useTapGesture", function() { return useTapGesture; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "useTransform", function() { return useTransform; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "useViewportScroll", function() { return useViewportScroll; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var framesync__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! framesync */ "./node_modules/framesync/dist/framesync.es.js");
+/* harmony import */ var _popmotion_popcorn__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @popmotion/popcorn */ "./node_modules/@popmotion/popcorn/dist/popcorn.es.js");
+/* harmony import */ var stylefire__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! stylefire */ "./node_modules/stylefire/dist/stylefire.es.js");
+/* harmony import */ var hey_listen__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! hey-listen */ "./node_modules/hey-listen/dist/hey-listen.es.js");
+/* harmony import */ var style_value_types__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! style-value-types */ "./node_modules/style-value-types/dist/style-value-types.es.js");
+/* harmony import */ var popmotion__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! popmotion */ "./node_modules/popmotion/dist/popmotion.es.js");
+/* harmony import */ var _popmotion_easing__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @popmotion/easing */ "./node_modules/@popmotion/easing/dist/easing.es.js");
+
+
+
+
+
+
+
+
+
+
+
+var isFloat = function (value) {
+    return !isNaN(parseFloat(value));
+};
+/**
+ * `MotionValue` is used to track the state and velocity of motion values.
+ *
+ * @public
+ */
+var MotionValue = /** @class */ (function () {
+    /**
+     * @param init - The initiating value
+     * @param config - Optional configuration options
+     *
+     * -  `transformer`: A function to transform incoming values with.
+     *
+     * @internal
+     */
+    function MotionValue(init, _a) {
+        var _this = this;
+        var _b = _a === void 0 ? {} : _a, transformer = _b.transformer, parent = _b.parent;
+        /**
+         * Duration, in milliseconds, since last updating frame.
+         *
+         * @internal
+         */
+        this.timeDelta = 0;
+        /**
+         * Timestamp of the last time this `MotionValue` was updated.
+         *
+         * @internal
+         */
+        this.lastUpdated = 0;
+        /**
+         * Tracks whether this value can output a velocity. Currently this is only true
+         * if the value is numerical, but we might be able to widen the scope here and support
+         * other value types.
+         *
+         * @internal
+         */
+        this.canTrackVelocity = false;
+        this.updateAndNotify = function (v, render) {
+            if (render === void 0) { render = true; }
+            _this.prev = _this.current;
+            _this.current = _this.transformer ? _this.transformer(v) : v;
+            if (_this.updateSubscribers && _this.prev !== _this.current) {
+                _this.updateSubscribers.forEach(_this.notifySubscriber);
+            }
+            if (_this.children) {
+                _this.children.forEach(_this.setChild);
+            }
+            if (render && _this.renderSubscribers) {
+                _this.renderSubscribers.forEach(_this.notifySubscriber);
+            }
+            // Update timestamp
+            var _a = Object(framesync__WEBPACK_IMPORTED_MODULE_2__["getFrameData"])(), delta = _a.delta, timestamp = _a.timestamp;
+            if (_this.lastUpdated !== timestamp) {
+                _this.timeDelta = delta;
+                _this.lastUpdated = timestamp;
+                framesync__WEBPACK_IMPORTED_MODULE_2__["default"].postRender(_this.scheduleVelocityCheck);
+            }
+        };
+        /**
+         * Notify a subscriber with the latest value.
+         *
+         * This is an instanced and bound function to prevent generating a new
+         * function once per frame.
+         *
+         * @param subscriber - The subscriber to notify.
+         *
+         * @internal
+         */
+        this.notifySubscriber = function (subscriber) {
+            subscriber(_this.current);
+        };
+        /**
+         * Schedule a velocity check for the next frame.
+         *
+         * This is an instanced and bound function to prevent generating a new
+         * function once per frame.
+         *
+         * @internal
+         */
+        this.scheduleVelocityCheck = function () { return framesync__WEBPACK_IMPORTED_MODULE_2__["default"].postRender(_this.velocityCheck); };
+        /**
+         * Updates `prev` with `current` if the value hasn't been updated this frame.
+         * This ensures velocity calculations return `0`.
+         *
+         * This is an instanced and bound function to prevent generating a new
+         * function once per frame.
+         *
+         * @internal
+         */
+        this.velocityCheck = function (_a) {
+            var timestamp = _a.timestamp;
+            if (timestamp !== _this.lastUpdated) {
+                _this.prev = _this.current;
+            }
+        };
+        /**
+         * Updates child `MotionValue`.
+         *
+         * @param child - Child `MotionValue`.
+         *
+         * @internal
+         */
+        this.setChild = function (child) { return child.set(_this.current); };
+        this.parent = parent;
+        this.transformer = transformer;
+        this.set(init, false);
+        this.canTrackVelocity = isFloat(this.current);
+    }
+    /**
+     * Creates a new `MotionValue` that's subscribed to the output of this one.
+     *
+     * @param config - Optional configuration options
+     *
+     * -  `transformer`: A function to transform incoming values with.
+     *
+     * @internal
+     */
+    MotionValue.prototype.addChild = function (config) {
+        if (config === void 0) { config = {}; }
+        var child = new MotionValue(this.current, Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({ parent: this }, config));
+        if (!this.children)
+            this.children = new Set();
+        this.children.add(child);
+        return child;
+    };
+    /**
+     * Stops a `MotionValue` from being subscribed to this one.
+     *
+     * @param child - The subscribed `MotionValue`
+     *
+     * @internal
+     */
+    MotionValue.prototype.removeChild = function (child) {
+        if (!this.children) {
+            return;
+        }
+        this.children.delete(child);
+    };
+    /**
+     * Subscribes a subscriber function to a subscription list.
+     *
+     * @param subscriptions - A `Set` of subscribers.
+     * @param subscription - A subscriber function.
+     */
+    MotionValue.prototype.subscribeTo = function (subscriptions, subscription) {
+        var _this = this;
+        var updateSubscriber = function () { return subscription(_this.current); };
+        subscriptions.add(updateSubscriber);
+        return function () { return subscriptions.delete(updateSubscriber); };
+    };
+    /**
+     * Adds a function that will be notified when the `MotionValue` is updated.
+     *
+     * It returns a function that, when called, will cancel the subscription.
+     *
+     * When calling `onChange` inside a React component, it should be wrapped with the
+     * `useEffect` hook. As it returns an unsubscribe function, this should be returned
+     * from the `useEffect` function to ensure you don't add duplicate subscribers..
+     *
+     * @library
+     *
+     * ```jsx
+     * function MyComponent() {
+     *   const x = useMotionValue(0)
+     *   const y = useMotionValue(0)
+     *   const opacity = useMotionValue(1)
+     *
+     *   useEffect(() => {
+     *     function updateOpacity() {
+     *       const maxXY = Math.max(x.get(), y.get())
+     *       const newOpacity = transform(maxXY, [0, 100], [1, 0])
+     *       opacity.set(newOpacity)
+     *     }
+     *
+     *     const unsubscribeX = x.onChange(updateOpacity)
+     *     const unsubscribeY = y.onChange(updateOpacity)
+     *
+     *     return () => {
+     *       unsubscribeX()
+     *       unsubscribeY()
+     *     }
+     *   }, [])
+     *
+     *   return <Frame x={x} />
+     * }
+     * ```
+     *
+     * @motion
+     *
+     * ```jsx
+     * export const MyComponent = () => {
+     *   const x = useMotionValue(0)
+     *   const y = useMotionValue(0)
+     *   const opacity = useMotionValue(1)
+     *
+     *   useEffect(() => {
+     *     function updateOpacity() {
+     *       const maxXY = Math.max(x.get(), y.get())
+     *       const newOpacity = transform(maxXY, [0, 100], [1, 0])
+     *       opacity.set(newOpacity)
+     *     }
+     *
+     *     const unsubscribeX = x.onChange(updateOpacity)
+     *     const unsubscribeY = y.onChange(updateOpacity)
+     *
+     *     return () => {
+     *       unsubscribeX()
+     *       unsubscribeY()
+     *     }
+     *   }, [])
+     *
+     *   return <motion.div style={{ x }} />
+     * }
+     * ```
+     *
+     * @internalremarks
+     *
+     * We could look into a `useOnChange` hook if the above lifecycle management proves confusing.
+     *
+     * ```jsx
+     * useOnChange(x, () => {})
+     * ```
+     *
+     * @param subscriber - A function that receives the latest value.
+     * @returns A function that, when called, will cancel this subscription.
+     *
+     * @public
+     */
+    MotionValue.prototype.onChange = function (subscription) {
+        if (!this.updateSubscribers)
+            this.updateSubscribers = new Set();
+        return this.subscribeTo(this.updateSubscribers, subscription);
+    };
+    /**
+     * Adds a function that will be notified when the `MotionValue` requests a render.
+     *
+     * @param subscriber - A function that's provided the latest value.
+     * @returns A function that, when called, will cancel this subscription.
+     *
+     * @internal
+     */
+    MotionValue.prototype.onRenderRequest = function (subscription) {
+        if (!this.renderSubscribers)
+            this.renderSubscribers = new Set();
+        // Render immediately
+        this.notifySubscriber(subscription);
+        return this.subscribeTo(this.renderSubscribers, subscription);
+    };
+    /**
+     * Attaches a passive effect to the `MotionValue`.
+     *
+     * @internal
+     */
+    MotionValue.prototype.attach = function (passiveEffect) {
+        this.passiveEffect = passiveEffect;
+    };
+    /**
+     * Sets the state of the `MotionValue`.
+     *
+     * @remarks
+     *
+     * ```jsx
+     * const x = useMotionValue(0)
+     * x.set(10)
+     * ```
+     *
+     * @param latest - Latest value to set.
+     * @param render - Whether to notify render subscribers. Defaults to `true`
+     *
+     * @public
+     */
+    MotionValue.prototype.set = function (v, render) {
+        if (render === void 0) { render = true; }
+        if (!render || !this.passiveEffect) {
+            this.updateAndNotify(v, render);
+        }
+        else {
+            this.passiveEffect(v, this.updateAndNotify);
+        }
+    };
+    /**
+     * Returns the latest state of `MotionValue`
+     *
+     * @returns - The latest state of `MotionValue`
+     *
+     * @public
+     */
+    MotionValue.prototype.get = function () {
+        return this.current;
+    };
+    /**
+     * Returns the latest velocity of `MotionValue`
+     *
+     * @returns - The latest velocity of `MotionValue`. Returns `0` if the state is non-numerical.
+     *
+     * @public
+     */
+    MotionValue.prototype.getVelocity = function () {
+        // This could be isFloat(this.prev) && isFloat(this.current), but that would be wasteful
+        return this.canTrackVelocity
+            ? // These casts could be avoided if parseFloat would be typed better
+                Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_3__["velocityPerSecond"])(parseFloat(this.current) -
+                    parseFloat(this.prev), this.timeDelta)
+            : 0;
+    };
+    /**
+     * Registers a new animation to control this `MotionValue`. Only one
+     * animation can drive a `MotionValue` at one time.
+     *
+     * ```jsx
+     * value.start()
+     * ```
+     *
+     * @param animation - A function that starts the provided animation
+     *
+     * @internal
+     */
+    MotionValue.prototype.start = function (animation) {
+        var _this = this;
+        this.stop();
+        return new Promise(function (resolve) {
+            _this.stopAnimation = animation(resolve);
+        }).then(function () { return _this.clearAnimation(); });
+    };
+    /**
+     * Stop the currently active animation.
+     *
+     * @public
+     */
+    MotionValue.prototype.stop = function () {
+        if (this.stopAnimation)
+            this.stopAnimation();
+        this.clearAnimation();
+    };
+    /**
+     * Returns `true` if this value is currently animating.
+     *
+     * @public
+     */
+    MotionValue.prototype.isAnimating = function () {
+        return !!this.stopAnimation;
+    };
+    MotionValue.prototype.clearAnimation = function () {
+        this.stopAnimation = null;
+    };
+    /**
+     * Destroy and clean up subscribers to this `MotionValue`.
+     *
+     * The `MotionValue` hooks like `useMotionValue` and `useTransform` automatically
+     * handle the lifecycle of the returned `MotionValue`, so this method is only necessary if you've manually
+     * created a `MotionValue` via the `motionValue` function.
+     *
+     * @public
+     */
+    MotionValue.prototype.destroy = function () {
+        this.updateSubscribers && this.updateSubscribers.clear();
+        this.renderSubscribers && this.renderSubscribers.clear();
+        this.parent && this.parent.removeChild(this);
+        this.stop();
+    };
+    return MotionValue;
+}());
+/**
+ * @internal
+ */
+function motionValue(init, opts) {
+    return new MotionValue(init, opts);
+}
+
+/**
+ * Creates a constant value over the lifecycle of a component.
+ *
+ * Even if `useMemo` is provided an empty array as its final argument, it doesn't offer
+ * a guarantee that it won't re-run for performance reasons later on. By using `useConstant`
+ * you can ensure that initialisers don't execute twice or more.
+ */
+function useConstant(init) {
+    var ref = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(null);
+    if (ref.current === null) {
+        ref.current = init();
+    }
+    return ref.current;
+}
+
+var isMotionValue = function (value) {
+    return value instanceof MotionValue;
+};
+
+// Creating a styler factory for the `onUpdate` prop allows all values
+// to fire and the `onUpdate` prop will only fire once per frame
+var updateStyler = Object(stylefire__WEBPACK_IMPORTED_MODULE_4__["createStylerFactory"])({
+    onRead: function () { return null; },
+    onRender: function (state, _a) {
+        var onUpdate = _a.onUpdate;
+        return onUpdate(state);
+    },
+});
+var MotionValuesMap = /** @class */ (function () {
+    function MotionValuesMap() {
+        this.hasMounted = false;
+        this.values = new Map();
+        this.unsubscribers = new Map();
+    }
+    MotionValuesMap.prototype.has = function (key) {
+        return this.values.has(key);
+    };
+    MotionValuesMap.prototype.set = function (key, value) {
+        this.values.set(key, value);
+        if (this.hasMounted) {
+            this.bindValueToOutput(key, value);
+        }
+    };
+    MotionValuesMap.prototype.get = function (key, defaultValue) {
+        var value = this.values.get(key);
+        if (value === undefined && defaultValue !== undefined) {
+            value = new MotionValue(defaultValue);
+            this.set(key, value);
+        }
+        return value;
+    };
+    MotionValuesMap.prototype.forEach = function (callback) {
+        return this.values.forEach(callback);
+    };
+    MotionValuesMap.prototype.bindValueToOutput = function (key, value) {
+        var _this = this;
+        var onRender = function (v) { return _this.output && _this.output(key, v); };
+        var unsubscribeOnRender = value.onRenderRequest(onRender);
+        var onChange = function (v) {
+            _this.onUpdate && _this.onUpdate.set(key, v);
+        };
+        var unsubscribeOnChange = value.onChange(onChange);
+        if (this.unsubscribers.has(key)) {
+            this.unsubscribers.get(key)();
+        }
+        this.unsubscribers.set(key, function () {
+            unsubscribeOnRender();
+            unsubscribeOnChange();
+        });
+    };
+    MotionValuesMap.prototype.setOnUpdate = function (onUpdate) {
+        this.onUpdate = undefined;
+        if (onUpdate) {
+            this.onUpdate = updateStyler({ onUpdate: onUpdate });
+        }
+    };
+    MotionValuesMap.prototype.setTransformTemplate = function (transformTemplate) {
+        if (this.transformTemplate !== transformTemplate) {
+            this.transformTemplate = transformTemplate;
+            this.updateTransformTemplate();
+        }
+    };
+    MotionValuesMap.prototype.getTransformTemplate = function () {
+        return this.transformTemplate;
+    };
+    MotionValuesMap.prototype.updateTransformTemplate = function () {
+        if (this.output) {
+            this.output("transform", this.transformTemplate);
+        }
+    };
+    MotionValuesMap.prototype.mount = function (output) {
+        var _this = this;
+        this.hasMounted = true;
+        if (output)
+            this.output = output;
+        this.values.forEach(function (value, key) { return _this.bindValueToOutput(key, value); });
+        this.updateTransformTemplate();
+    };
+    MotionValuesMap.prototype.unmount = function () {
+        var _this = this;
+        this.values.forEach(function (_value, key) {
+            var unsubscribe = _this.unsubscribers.get(key);
+            unsubscribe && unsubscribe();
+        });
+    };
+    return MotionValuesMap;
+}());
+var specialMotionValueProps = new Set(["dragOriginX", "dragOriginY"]);
+var useMotionValues = function (props) {
+    var motionValues = useConstant(function () {
+        var map = new MotionValuesMap();
+        /**
+         * Loop through every prop and add any detected `MotionValue`s. This is SVG-specific
+         * code that should be extracted, perhaps considered hollistically with `useMotionStyles`.
+         *
+         * <motion.circle cx={motionValue(0)} />
+         */
+        for (var key in props) {
+            if (isMotionValue(props[key]) &&
+                !specialMotionValueProps.has(key)) {
+                map.set(key, props[key]);
+            }
+        }
+        return map;
+    });
+    motionValues.setOnUpdate(props.onUpdate);
+    motionValues.setTransformTemplate(props.transformTemplate);
+    return motionValues;
+};
+
+var session = null;
+var syncRenderSession = {
+    isOpen: function () { return session !== null; },
+    open: function () {
+        Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["invariant"])(!session, "Sync render session already open");
+        session = [];
+    },
+    flush: function () {
+        Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["invariant"])(session !== null, "No sync render session found");
+        session && session.forEach(function (styler) { return styler.render(); });
+        session = null;
+    },
+    push: function (styler) {
+        Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["invariant"])(session !== null, "No sync render session found");
+        session && session.push(styler);
+    },
+};
+
+/**
+ * `useEffect` gets resolved bottom-up. We defer some optional functionality to child
+ * components, so to ensure everything runs correctly we export the ref-binding logic
+ * to a new component rather than in `useMotionValues`.
+ */
+var MountComponent = function (_a) {
+    var ref = _a.innerRef, values = _a.values, isStatic = _a.isStatic;
+    Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () {
+        Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["invariant"])(ref.current instanceof Element, "No `ref` found. Ensure components created with `motion.custom` forward refs using `React.forwardRef`");
+        var domStyler = Object(stylefire__WEBPACK_IMPORTED_MODULE_4__["default"])(ref.current, {
+            preparseOutput: false,
+            enableHardwareAcceleration: !isStatic,
+        });
+        values.mount(function (key, value) {
+            domStyler.set(key, value);
+            if (syncRenderSession.isOpen()) {
+                syncRenderSession.push(domStyler);
+            }
+        });
+        return function () { return values.unmount(); };
+    }, []);
+    return null;
+};
+var Mount = Object(react__WEBPACK_IMPORTED_MODULE_1__["memo"])(MountComponent);
+
+var createValueResolver = function (resolver) { return function (values) {
+    var resolvedValues = {};
+    values.forEach(function (value, key) { return (resolvedValues[key] = resolver(value)); });
+    return resolvedValues;
+}; };
+var resolveCurrent = createValueResolver(function (value) { return value.get(); });
+
+var transformOriginProps = new Set(["originX", "originY", "originZ"]);
+var isTransformOriginProp = function (key) { return transformOriginProps.has(key); };
+var buildStyleAttr = function (values, styleProp, isStatic) {
+    var motionValueStyles = resolveCurrent(values);
+    var transformTemplate = values.getTransformTemplate();
+    if (transformTemplate) {
+        // If `transform` has been manually set as a string, pass that through the template
+        // otherwise pass it forward to Stylefire's style property builder
+        motionValueStyles.transform = styleProp.transform
+            ? transformTemplate({}, styleProp.transform)
+            : transformTemplate;
+    }
+    return Object(stylefire__WEBPACK_IMPORTED_MODULE_4__["buildStyleProperty"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, styleProp), motionValueStyles), !isStatic);
+};
+var useMotionStyles = function (values, styleProp, isStatic, transformValues) {
+    if (styleProp === void 0) { styleProp = {}; }
+    var style = {};
+    var prevMotionStyles = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])({}).current;
+    for (var key in styleProp) {
+        var thisStyle = styleProp[key];
+        if (isMotionValue(thisStyle)) {
+            // If this is a motion value, add it to our MotionValuesMap
+            values.set(key, thisStyle);
+        }
+        else if (!isStatic &&
+            (Object(stylefire__WEBPACK_IMPORTED_MODULE_4__["isTransformProp"])(key) || isTransformOriginProp(key))) {
+            // Or if it's a transform prop, create a motion value (or update an existing one)
+            // to ensure Stylefire can reconcile all the transform values together.
+            // A further iteration on this would be to create a single styler per component that gets
+            // used in the DOM renderer's buildStyleAttr *and* animations, then we would only
+            // have to convert animating values to `MotionValues` (we could probably remove this entire function).
+            // The only architectural consideration is to allow Stylefire to have elements mounted after
+            // a styler is created.
+            if (!values.has(key)) {
+                // If it doesn't exist as a motion value, create it
+                values.set(key, motionValue(thisStyle));
+            }
+            else {
+                // Otherwise only update it if it's changed from a previous render
+                if (thisStyle !== prevMotionStyles[key]) {
+                    var value = values.get(key);
+                    value.set(thisStyle);
+                }
+            }
+            prevMotionStyles[key] = thisStyle;
+        }
+        else {
+            style[key] = thisStyle;
+        }
+    }
+    return transformValues ? transformValues(style) : style;
+};
+
+var isKeyframesTarget = function (v) {
+    return Array.isArray(v);
+};
+
+var isCustomValue = function (v) {
+    return Boolean(v && typeof v === "object" && v.mix && v.toValue);
+};
+var resolveFinalValueInKeyframes = function (v) {
+    // TODO maybe throw if v.length - 1 is placeholder token?
+    return isKeyframesTarget(v) ? v[v.length - 1] || 0 : v;
+};
+
+var auto = {
+    test: function (v) { return v === "auto"; },
+    parse: function (v) { return v; },
+};
+var dimensionTypes = [style_value_types__WEBPACK_IMPORTED_MODULE_6__["number"], style_value_types__WEBPACK_IMPORTED_MODULE_6__["px"], style_value_types__WEBPACK_IMPORTED_MODULE_6__["percent"], style_value_types__WEBPACK_IMPORTED_MODULE_6__["degrees"], style_value_types__WEBPACK_IMPORTED_MODULE_6__["vw"], style_value_types__WEBPACK_IMPORTED_MODULE_6__["vh"], auto];
+var valueTypes = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__spreadArrays"])(dimensionTypes, [style_value_types__WEBPACK_IMPORTED_MODULE_6__["color"], style_value_types__WEBPACK_IMPORTED_MODULE_6__["complex"]]);
+var testValueType = function (v) { return function (type) { return type.test(v); }; };
+var getDimensionValueType = function (v) {
+    return dimensionTypes.find(testValueType(v));
+};
+var getValueType = function (v) { return valueTypes.find(testValueType(v)); };
+
+var underDampedSpring = function () { return ({
+    type: "spring",
+    stiffness: 500,
+    damping: 25,
+    restDelta: 0.5,
+    restSpeed: 10,
+}); };
+var overDampedSpring = function (to) { return ({
+    type: "spring",
+    stiffness: 700,
+    damping: to === 0 ? 100 : 35,
+}); };
+var linearTween = function () { return ({
+    ease: "linear",
+    duration: 0.3,
+}); };
+var keyframes = function (values) { return ({
+    type: "keyframes",
+    duration: 0.8,
+    values: values,
+}); };
+var defaultTransitions = {
+    x: underDampedSpring,
+    y: underDampedSpring,
+    z: underDampedSpring,
+    rotate: underDampedSpring,
+    rotateX: underDampedSpring,
+    rotateY: underDampedSpring,
+    rotateZ: underDampedSpring,
+    scaleX: overDampedSpring,
+    scaleY: overDampedSpring,
+    scale: overDampedSpring,
+    opacity: linearTween,
+    backgroundColor: linearTween,
+    color: linearTween,
+    default: overDampedSpring,
+};
+var getDefaultTransition = function (valueKey, to) {
+    var transitionFactory;
+    if (isKeyframesTarget(to)) {
+        transitionFactory = keyframes;
+    }
+    else {
+        transitionFactory =
+            defaultTransitions[valueKey] || defaultTransitions.default;
+    }
+    return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({ to: to }, transitionFactory(to));
+};
+
+/**
+ * A Popmotion action that accepts a single `to` prop. When it starts, it immediately
+ * updates with `to` and then completes. By using this we can compose instant transitions
+ * in with the same logic that applies `delay` or returns a `Promise` etc.
+ *
+ * Accepting `duration` is a little bit of a hack that simply defers the completetion of
+ * the animation until after the duration finishes. This is for situations when you're **only**
+ * animating non-animatable values and then setting something on `transitionEnd`. Really
+ * you want this to fire after the "animation" finishes, rather than instantly.
+ *
+ * ```
+ * animate={{
+ *   display: 'block',
+ *   transitionEnd: { display: 'none' }
+ * }}
+ * ```
+ */
+var just = function (_a) {
+    var to = _a.to, duration = _a.duration;
+    return Object(popmotion__WEBPACK_IMPORTED_MODULE_7__["action"])(function (_a) {
+        var update = _a.update, complete = _a.complete;
+        update(to);
+        duration ? Object(popmotion__WEBPACK_IMPORTED_MODULE_7__["delay"])(duration).start({ complete: complete }) : complete();
+    });
+};
+
+var easingDefinitionToFunction = function (definition) {
+    if (Array.isArray(definition)) {
+        // If cubic bezier definition, create bezier curve
+        Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["invariant"])(definition.length === 4, "Cubic bezier arrays must contain four numerical values.");
+        var x1 = definition[0], y1 = definition[1], x2 = definition[2], y2 = definition[3];
+        return Object(_popmotion_easing__WEBPACK_IMPORTED_MODULE_8__["cubicBezier"])(x1, y1, x2, y2);
+    }
+    else if (typeof definition === "string") {
+        // Else lookup from table
+        Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["invariant"])(_popmotion_easing__WEBPACK_IMPORTED_MODULE_8__[definition] !== undefined, "Invalid easing type '" + definition + "'");
+        return _popmotion_easing__WEBPACK_IMPORTED_MODULE_8__[definition];
+    }
+    return definition;
+};
+var isEasingArray = function (ease) {
+    return Array.isArray(ease) && typeof ease[0] !== "number";
+};
+
+var isDurationAnimation = function (v) {
+    return v.hasOwnProperty("duration") || v.hasOwnProperty("repeatDelay");
+};
+
+/**
+ * Check if a value is animatable. Examples:
+ *
+ * ✅: 100, "100px", "#fff"
+ * ❌: "block", "url(2.jpg)"
+ * @param value
+ *
+ * @internal
+ */
+var isAnimatable = function (key, value) {
+    // If the list of keys tat might be non-animatable grows, replace with Set
+    if (key === "zIndex")
+        return false;
+    // If it's a number or a keyframes array, we can animate it. We might at some point
+    // need to do a deep isAnimatable check of keyframes, or let Popmotion handle this,
+    // but for now lets leave it like this for performance reasons
+    if (typeof value === "number" || Array.isArray(value))
+        return true;
+    if (typeof value === "string" && // It's animatable if we have a string
+        style_value_types__WEBPACK_IMPORTED_MODULE_6__["complex"].test(value) && // And it contains numbers and/or colors
+        !value.startsWith("url(") // Unless it starts with "url("
+    ) {
+        return true;
+    }
+    return false;
+};
+
+/**
+ * Converts seconds to milliseconds
+ *
+ * @param seconds - Time in seconds.
+ * @return milliseconds - Converted time in milliseconds.
+ */
+var secondsToMilliseconds = function (seconds) { return seconds * 1000; };
+
+var transitions = { tween: popmotion__WEBPACK_IMPORTED_MODULE_7__["tween"], spring: popmotion__WEBPACK_IMPORTED_MODULE_7__["spring"], keyframes: popmotion__WEBPACK_IMPORTED_MODULE_7__["keyframes"], inertia: popmotion__WEBPACK_IMPORTED_MODULE_7__["inertia"], just: just };
+var transitionOptionParser = {
+    tween: function (opts) {
+        if (opts.ease) {
+            var ease = isEasingArray(opts.ease) ? opts.ease[0] : opts.ease;
+            opts.ease = easingDefinitionToFunction(ease);
+        }
+        return opts;
+    },
+    keyframes: function (_a) {
+        var from = _a.from, to = _a.to, velocity = _a.velocity, opts = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, ["from", "to", "velocity"]);
+        if (opts.values && opts.values[0] === null) {
+            var values = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__spreadArrays"])(opts.values);
+            values[0] = from;
+            opts.values = values;
+        }
+        if (opts.ease) {
+            opts.easings = isEasingArray(opts.ease)
+                ? opts.ease.map(easingDefinitionToFunction)
+                : easingDefinitionToFunction(opts.ease);
+        }
+        opts.ease = _popmotion_easing__WEBPACK_IMPORTED_MODULE_8__["linear"];
+        return opts;
+    },
+};
+var isTransitionDefined = function (_a) {
+    var when = _a.when, delay = _a.delay, delayChildren = _a.delayChildren, staggerChildren = _a.staggerChildren, staggerDirection = _a.staggerDirection, transition = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, ["when", "delay", "delayChildren", "staggerChildren", "staggerDirection"]);
+    return Object.keys(transition).length;
+};
+var getTransitionDefinition = function (key, to, transitionDefinition) {
+    var delay = transitionDefinition ? transitionDefinition.delay : 0;
+    // If no object, return default transition
+    // A better way to handle this would be to deconstruct out all the shared Orchestration props
+    // and see if there's any props remaining
+    if (transitionDefinition === undefined ||
+        !isTransitionDefined(transitionDefinition)) {
+        return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({ delay: delay }, getDefaultTransition(key, to));
+    }
+    var valueTransitionDefinition = transitionDefinition[key] ||
+        transitionDefinition.default ||
+        transitionDefinition;
+    if (valueTransitionDefinition.type === false) {
+        return {
+            delay: valueTransitionDefinition.hasOwnProperty("delay")
+                ? valueTransitionDefinition.delay
+                : delay,
+            to: isKeyframesTarget(to)
+                ? to[to.length - 1]
+                : to,
+            type: "just",
+        };
+    }
+    else if (isKeyframesTarget(to)) {
+        return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({ values: to, duration: 0.8, delay: delay, ease: "linear" }, valueTransitionDefinition), { 
+            // This animation must be keyframes if we're animating through an array
+            type: "keyframes" });
+    }
+    else {
+        return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({ type: "tween", to: to,
+            delay: delay }, valueTransitionDefinition);
+    }
+};
+var preprocessOptions = function (type, opts) {
+    return transitionOptionParser[type]
+        ? transitionOptionParser[type](opts)
+        : opts;
+};
+var getAnimation = function (key, value, target, transition) {
+    var origin = value.get();
+    var isOriginAnimatable = isAnimatable(key, origin);
+    var isTargetAnimatable = isAnimatable(key, target);
+    // TODO we could probably improve this check to ensure both values are of the same type -
+    // for instance 100 to #fff. This might live better in Popmotion.
+    Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["warning"])(isOriginAnimatable === isTargetAnimatable, "You are trying to animate " + key + " from \"" + origin + "\" to " + target + ". \"" + origin + "\" is not an animatable value - to enable this animation set " + origin + " to a value animatable to " + target + " via the `style` property.");
+    // Parse the `transition` prop and return options for the Popmotion animation
+    var _a = getTransitionDefinition(key, target, transition), _b = _a.type, type = _b === void 0 ? "tween" : _b, transitionDefinition = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, ["type"]);
+    // If this is an animatable pair of values, return an animation, otherwise use `just`
+    var actionFactory = isOriginAnimatable && isTargetAnimatable
+        ? transitions[type]
+        : just;
+    var opts = preprocessOptions(type, Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({ from: origin, velocity: value.getVelocity() }, transitionDefinition));
+    // Convert duration from Framer Motion's seconds into Popmotion's milliseconds
+    if (isDurationAnimation(opts)) {
+        if (opts.duration) {
+            opts.duration = secondsToMilliseconds(opts.duration);
+        }
+        if (opts.repeatDelay) {
+            opts.repeatDelay = secondsToMilliseconds(opts.repeatDelay);
+        }
+    }
+    return [actionFactory, opts];
+};
+/**
+ * Start animation on a value. This function completely encapsulates Popmotion-specific logic.
+ *
+ * @internal
+ */
+function startAnimation(key, value, target, _a) {
+    var _b = _a.delay, delay$1 = _b === void 0 ? 0 : _b, transition = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, ["delay"]);
+    return value.start(function (complete) {
+        var activeAnimation;
+        var _a = getAnimation(key, value, target, transition), animationFactory = _a[0], _b = _a[1], valueDelay = _b.delay, options = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_b, ["delay"]);
+        if (valueDelay !== undefined) {
+            delay$1 = valueDelay;
+        }
+        var animate = function () {
+            var animation = animationFactory(options);
+            // Bind animation opts to animation
+            activeAnimation = animation.start({
+                update: function (v) { return value.set(v); },
+                complete: complete,
+            });
+        };
+        // If we're delaying this animation, only resolve it **after** the delay to
+        // ensure the value's resolve velocity is up-to-date.
+        if (delay$1) {
+            activeAnimation = Object(popmotion__WEBPACK_IMPORTED_MODULE_7__["delay"])(secondsToMilliseconds(delay$1)).start({
+                complete: animate,
+            });
+        }
+        else {
+            animate();
+        }
+        return function () {
+            if (activeAnimation)
+                activeAnimation.stop();
+        };
+    });
+}
+
+/**
+ * Get the current value of every `MotionValue`
+ * @param values -
+ */
+var getCurrent = function (values) {
+    var current = {};
+    values.forEach(function (value, key) { return (current[key] = value.get()); });
+    return current;
+};
+/**
+ * Get the current velocity of every `MotionValue`
+ * @param values -
+ */
+var getVelocity = function (values) {
+    var velocity = {};
+    values.forEach(function (value, key) { return (velocity[key] = value.getVelocity()); });
+    return velocity;
+};
+/**
+ * Check if value is a function that returns a `Target`. A generic typeof === 'function'
+ * check, just helps with typing.
+ * @param p -
+ */
+var isTargetResolver = function (p) {
+    return typeof p === "function";
+};
+/**
+ * Check if value is a list of variant labels
+ * @param v -
+ */
+var isVariantLabels = function (v) { return Array.isArray(v); };
+/**
+ * Check if value is a numerical string, ie "100" or "100px"
+ */
+var isNumericalString = function (v) { return /^\d*\.?\d+$/.test(v); };
+/**
+ * Control animations for a single component
+ *
+ * @internal
+ */
+var ValueAnimationControls = /** @class */ (function () {
+    function ValueAnimationControls(_a) {
+        var _this = this;
+        var values = _a.values, readValueFromSource = _a.readValueFromSource, makeTargetAnimatable = _a.makeTargetAnimatable;
+        /**
+         * A reference to the component's latest props. We could probably ditch this in
+         * favour to a reference to the `custom` prop now we don't send all props through
+         * to target resolvers.
+         */
+        this.props = {};
+        /**
+         * The component's variants, as provided by `variants`
+         */
+        this.variants = {};
+        /**
+         * A set of values that we animate back to when a value is cleared of all overrides.
+         */
+        this.baseTarget = {};
+        /**
+         * A series of target overrides that we can animate to/from when overrides are set/cleared.
+         */
+        this.overrides = [];
+        /**
+         * A series of target overrides as they were originally resolved.
+         */
+        this.resolvedOverrides = [];
+        /**
+         * A Set of currently active override indexes
+         */
+        this.activeOverrides = new Set();
+        /**
+         * A Set of value keys that are currently animating.
+         */
+        this.isAnimating = new Set();
+        /**
+         * Check if the associated `MotionValueMap` has a key with the provided string.
+         * Pre-bound to the class so we can provide directly to the `filter` in `checkForNewValues`.
+         */
+        this.hasValue = function (key) { return !_this.values.has(key); };
+        this.values = values;
+        this.readValueFromSource = readValueFromSource;
+        this.makeTargetAnimatable = makeTargetAnimatable;
+        this.values.forEach(function (value, key) { return (_this.baseTarget[key] = value.get()); });
+    }
+    /**
+     * Set the reference to the component's props.
+     * @param props -
+     */
+    ValueAnimationControls.prototype.setProps = function (props) {
+        this.props = props;
+    };
+    /**
+     * Set the reference to the component's variants
+     * @param variants -
+     */
+    ValueAnimationControls.prototype.setVariants = function (variants) {
+        if (variants)
+            this.variants = variants;
+    };
+    /**
+     * Set the component's default transition
+     * @param transition -
+     */
+    ValueAnimationControls.prototype.setDefaultTransition = function (transition) {
+        if (transition)
+            this.defaultTransition = transition;
+    };
+    /**
+     * Set motion values without animation.
+     *
+     * @param definition -
+     * @param isActive -
+     */
+    ValueAnimationControls.prototype.setValues = function (definition, _a) {
+        var _this = this;
+        var _b = _a === void 0 ? {} : _a, _c = _b.isActive, isActive = _c === void 0 ? new Set() : _c, priority = _b.priority;
+        var _d = this.resolveVariant(definition), target = _d.target, transitionEnd = _d.transitionEnd;
+        target = this.transformValues(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, target), transitionEnd));
+        return Object.keys(target).forEach(function (key) {
+            if (isActive.has(key))
+                return;
+            isActive.add(key);
+            if (target) {
+                var targetValue = resolveFinalValueInKeyframes(target[key]);
+                if (_this.values.has(key)) {
+                    var value = _this.values.get(key);
+                    value && value.set(targetValue);
+                }
+                else {
+                    _this.values.set(key, motionValue(targetValue));
+                }
+                if (!priority)
+                    _this.baseTarget[key] = targetValue;
+            }
+        });
+    };
+    /**
+     * Allows `transformValues` to be set by a component that allows us to
+     * transform the values in a given `Target`. This allows Framer Library
+     * to extend Framer Motion to animate `Color` variables etc. Currently we have
+     * to manually support these extended types here in Framer Motion.
+     *
+     * @param values -
+     */
+    ValueAnimationControls.prototype.transformValues = function (values) {
+        var transformValues = this.props.transformValues;
+        return transformValues ? transformValues(values) : values;
+    };
+    /**
+     * Check a `Target` for new values we haven't animated yet, and add them
+     * to the `MotionValueMap`.
+     *
+     * Currently there's functionality here that is DOM-specific, we should allow
+     * this functionality to be injected by the factory that creates DOM-specific
+     * components.
+     *
+     * @param target -
+     */
+    ValueAnimationControls.prototype.checkForNewValues = function (target) {
+        var newValueKeys = Object.keys(target).filter(this.hasValue);
+        var numNewValues = newValueKeys.length;
+        if (!numNewValues)
+            return;
+        for (var i = 0; i < numNewValues; i++) {
+            var key = newValueKeys[i];
+            var targetValue = target[key];
+            var value = null;
+            // If this is a keyframes value, we can attempt to use the first value in the
+            // array as that's going to be the first value of the animation anyway
+            if (Array.isArray(targetValue)) {
+                value = targetValue[0];
+            }
+            // If it isn't a keyframes or the first keyframes value was set as `null`, read the
+            // value from the DOM. It might be worth investigating whether to check props (for SVG)
+            // or props.style (for HTML) if the value exists there before attempting to read.
+            if (value === null) {
+                value = this.readValueFromSource(key);
+                Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["invariant"])(value !== null, "No initial value for \"" + key + "\" can be inferred. Ensure an initial value for \"" + key + "\" is defined on the component.");
+            }
+            if (typeof value === "string" && isNumericalString(value)) {
+                // If this is a number read as a string, ie "0" or "200", convert it to a number
+                value = parseFloat(value);
+            }
+            else if (!getValueType(value) && style_value_types__WEBPACK_IMPORTED_MODULE_6__["complex"].test(targetValue)) {
+                // If value is not recognised as animatable, ie "none", create an animatable version origin based on the target
+                value = style_value_types__WEBPACK_IMPORTED_MODULE_6__["complex"].getAnimatableNone(targetValue);
+            }
+            this.values.set(key, motionValue(value));
+            this.baseTarget[key] = value;
+        }
+    };
+    /**
+     * Resolve a variant from its label or resolver into an actual `Target` we can animate to.
+     * @param variant -
+     */
+    ValueAnimationControls.prototype.resolveVariant = function (variant) {
+        if (!variant) {
+            return {
+                target: undefined,
+                transition: undefined,
+                transitionEnd: undefined,
+            };
+        }
+        if (isTargetResolver(variant)) {
+            // resolve current and velocity
+            variant = variant(this.props.custom, getCurrent(this.values), getVelocity(this.values));
+        }
+        var _a = variant.transition, transition = _a === void 0 ? this.defaultTransition : _a, transitionEnd = variant.transitionEnd, target = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(variant, ["transition", "transitionEnd"]);
+        return { transition: transition, transitionEnd: transitionEnd, target: target };
+    };
+    /**
+     * Get the highest active override priority index
+     */
+    ValueAnimationControls.prototype.getHighestPriority = function () {
+        if (!this.activeOverrides.size)
+            return 0;
+        return Math.max.apply(Math, Array.from(this.activeOverrides));
+    };
+    /**
+     * Set an override. We add this layer of indirection so if, for instance, a tap gesture
+     * starts and overrides a hover gesture, when we clear the tap gesture and fallback to the
+     * hover gesture, if that hover gesture has changed in the meantime we can go to that rather
+     * than the one that was resolved when the hover gesture animation started.
+     *
+     * @param definition -
+     * @param overrideIndex -
+     */
+    ValueAnimationControls.prototype.setOverride = function (definition, overrideIndex) {
+        this.overrides[overrideIndex] = definition;
+        if (this.children) {
+            this.children.forEach(function (child) {
+                return child.setOverride(definition, overrideIndex);
+            });
+        }
+    };
+    /**
+     * Start an override animation.
+     * @param overrideIndex -
+     */
+    ValueAnimationControls.prototype.startOverride = function (overrideIndex) {
+        var override = this.overrides[overrideIndex];
+        if (override) {
+            return this.start(override, { priority: overrideIndex });
+        }
+    };
+    /**
+     * Clear an override. We check every value we animated to in this override to see if
+     * its present on any lower-priority overrides. If not, we animate it back to its base target.
+     * @param overrideIndex -
+     */
+    ValueAnimationControls.prototype.clearOverride = function (overrideIndex) {
+        var _this = this;
+        if (this.children) {
+            this.children.forEach(function (child) { return child.clearOverride(overrideIndex); });
+        }
+        var override = this.overrides[overrideIndex];
+        if (!override)
+            return;
+        this.activeOverrides.delete(overrideIndex);
+        var highest = this.getHighestPriority();
+        this.resetIsAnimating();
+        if (highest) {
+            var highestOverride = this.overrides[highest];
+            highestOverride && this.startOverride(highest);
+        }
+        // Figure out which remaining values were affected by the override and animate those
+        var overrideTarget = this.resolvedOverrides[overrideIndex];
+        if (!overrideTarget)
+            return;
+        var remainingValues = {};
+        for (var key in this.baseTarget) {
+            if (overrideTarget[key] !== undefined) {
+                remainingValues[key] = this.baseTarget[key];
+            }
+        }
+        this.onStart();
+        this.animate(remainingValues).then(function () { return _this.onComplete(); });
+    };
+    /**
+     * Apply a target/variant without any animation
+     */
+    ValueAnimationControls.prototype.apply = function (definition) {
+        if (Array.isArray(definition)) {
+            return this.applyVariantLabels(definition);
+        }
+        else if (typeof definition === "string") {
+            return this.applyVariantLabels([definition]);
+        }
+        else {
+            this.setValues(definition);
+        }
+    };
+    /**
+     * Apply variant labels without animation
+     */
+    ValueAnimationControls.prototype.applyVariantLabels = function (variantLabelList) {
+        var _this = this;
+        var isActive = new Set();
+        var reversedList = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__spreadArrays"])(variantLabelList).reverse();
+        reversedList.forEach(function (key) {
+            var _a = _this.resolveVariant(_this.variants[key]), target = _a.target, transitionEnd = _a.transitionEnd;
+            if (transitionEnd) {
+                _this.setValues(transitionEnd, { isActive: isActive });
+            }
+            if (target) {
+                _this.setValues(target, { isActive: isActive });
+            }
+            if (_this.children && _this.children.size) {
+                _this.children.forEach(function (child) {
+                    return child.applyVariantLabels(variantLabelList);
+                });
+            }
+        });
+    };
+    ValueAnimationControls.prototype.start = function (definition, opts) {
+        var _this = this;
+        if (opts === void 0) { opts = {}; }
+        if (opts.priority) {
+            this.activeOverrides.add(opts.priority);
+        }
+        this.resetIsAnimating(opts.priority);
+        var animation;
+        if (isVariantLabels(definition)) {
+            animation = this.animateVariantLabels(definition, opts);
+        }
+        else if (typeof definition === "string") {
+            animation = this.animateVariant(definition, opts);
+        }
+        else {
+            animation = this.animate(definition, opts);
+        }
+        this.onStart();
+        return animation.then(function () { return _this.onComplete(); });
+    };
+    ValueAnimationControls.prototype.animate = function (animationDefinition, _a) {
+        var _this = this;
+        var _b = _a === void 0 ? {} : _a, _c = _b.delay, delay = _c === void 0 ? 0 : _c, _d = _b.priority, priority = _d === void 0 ? 0 : _d, transitionOverride = _b.transitionOverride;
+        var _e = this.resolveVariant(animationDefinition), target = _e.target, transition = _e.transition, transitionEnd = _e.transitionEnd;
+        if (transitionOverride) {
+            transition = transitionOverride;
+        }
+        if (!target)
+            return Promise.resolve();
+        target = this.transformValues(target);
+        if (transitionEnd) {
+            transitionEnd = this.transformValues(transitionEnd);
+        }
+        this.checkForNewValues(target);
+        if (this.makeTargetAnimatable) {
+            var animatable = this.makeTargetAnimatable(target, transitionEnd);
+            target = animatable.target;
+            transitionEnd = animatable.transitionEnd;
+        }
+        if (priority) {
+            this.resolvedOverrides[priority] = target;
+        }
+        this.checkForNewValues(target);
+        var animations = [];
+        for (var key in target) {
+            var value = this.values.get(key);
+            if (!value || !target || target[key] === undefined)
+                continue;
+            var valueTarget = target[key];
+            if (!priority) {
+                this.baseTarget[key] = resolveFinalValueInKeyframes(valueTarget);
+            }
+            if (this.isAnimating.has(key))
+                continue;
+            this.isAnimating.add(key);
+            animations.push(startAnimation(key, value, valueTarget, Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({ delay: delay }, transition)));
+        }
+        var allAnimations = Promise.all(animations);
+        return transitionEnd
+            ? allAnimations.then(function () {
+                _this.setValues(transitionEnd, { priority: priority });
+            })
+            : allAnimations;
+    };
+    ValueAnimationControls.prototype.animateVariantLabels = function (variantLabels, opts) {
+        var _this = this;
+        var animations = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__spreadArrays"])(variantLabels).reverse()
+            .map(function (label) { return _this.animateVariant(label, opts); });
+        return Promise.all(animations);
+    };
+    ValueAnimationControls.prototype.animateVariant = function (variantLabel, opts) {
+        var _this = this;
+        var when = false;
+        var delayChildren = 0;
+        var staggerChildren = 0;
+        var staggerDirection = 1;
+        var priority = (opts && opts.priority) || 0;
+        var variant = this.variants[variantLabel];
+        var getAnimations = variant
+            ? function () { return _this.animate(variant, opts); }
+            : function () { return Promise.resolve(); };
+        var getChildrenAnimations = this.children
+            ? function () {
+                return _this.animateChildren(variantLabel, delayChildren, staggerChildren, staggerDirection, priority);
+            }
+            : function () { return Promise.resolve(); };
+        if (variant && this.children) {
+            var transition = this.resolveVariant(variant).transition;
+            if (transition) {
+                when = transition.when || when;
+                delayChildren = transition.delayChildren || delayChildren;
+                staggerChildren = transition.staggerChildren || staggerChildren;
+                staggerDirection =
+                    transition.staggerDirection || staggerDirection;
+            }
+        }
+        if (when) {
+            var _a = when === "beforeChildren"
+                ? [getAnimations, getChildrenAnimations]
+                : [getChildrenAnimations, getAnimations], first = _a[0], last = _a[1];
+            return first().then(last);
+        }
+        else {
+            return Promise.all([getAnimations(), getChildrenAnimations()]);
+        }
+    };
+    ValueAnimationControls.prototype.animateChildren = function (variantLabel, delayChildren, staggerChildren, staggerDirection, priority) {
+        if (delayChildren === void 0) { delayChildren = 0; }
+        if (staggerChildren === void 0) { staggerChildren = 0; }
+        if (staggerDirection === void 0) { staggerDirection = 1; }
+        if (priority === void 0) { priority = 0; }
+        if (!this.children) {
+            return Promise.resolve();
+        }
+        var animations = [];
+        var maxStaggerDuration = (this.children.size - 1) * staggerChildren;
+        var generateStaggerDuration = staggerDirection === 1
+            ? function (i) { return i * staggerChildren; }
+            : function (i) { return maxStaggerDuration - i * staggerChildren; };
+        Array.from(this.children).forEach(function (childControls, i) {
+            var animation = childControls.animateVariant(variantLabel, {
+                priority: priority,
+                delay: delayChildren + generateStaggerDuration(i),
+            });
+            animations.push(animation);
+        });
+        return Promise.all(animations);
+    };
+    ValueAnimationControls.prototype.onStart = function () {
+        var onAnimationStart = this.props.onAnimationStart;
+        onAnimationStart && onAnimationStart();
+    };
+    ValueAnimationControls.prototype.onComplete = function () {
+        var onAnimationComplete = this.props.onAnimationComplete;
+        onAnimationComplete && onAnimationComplete();
+    };
+    ValueAnimationControls.prototype.checkOverrideIsAnimating = function (priority) {
+        var numOverrides = this.overrides.length;
+        for (var i = priority + 1; i < numOverrides; i++) {
+            var resolvedOverride = this.resolvedOverrides[i];
+            if (resolvedOverride) {
+                for (var key in resolvedOverride) {
+                    this.isAnimating.add(key);
+                }
+            }
+        }
+    };
+    ValueAnimationControls.prototype.resetIsAnimating = function (priority) {
+        if (priority === void 0) { priority = 0; }
+        this.isAnimating.clear();
+        // If this isn't the highest priority gesture, block the animation
+        // of anything that's currently being animated
+        if (priority < this.getHighestPriority()) {
+            this.checkOverrideIsAnimating(priority);
+        }
+        if (this.children) {
+            this.children.forEach(function (child) { return child.resetIsAnimating(priority); });
+        }
+    };
+    ValueAnimationControls.prototype.stop = function () {
+        this.values.forEach(function (value) { return value.stop(); });
+    };
+    /**
+     * Add the controls of a child component.
+     * @param controls -
+     */
+    ValueAnimationControls.prototype.addChild = function (controls) {
+        if (!this.children) {
+            this.children = new Set();
+        }
+        this.children.add(controls);
+        // We set child overrides when `setOverride` is called, but also have to do it here
+        // as the first time `setOverride` is called all the children might not have been added yet.
+        this.overrides.forEach(function (override, i) {
+            override && controls.setOverride(override, i);
+        });
+    };
+    ValueAnimationControls.prototype.removeChild = function (controls) {
+        if (!this.children) {
+            return;
+        }
+        this.children.delete(controls);
+    };
+    ValueAnimationControls.prototype.resetChildren = function () {
+        if (this.children)
+            this.children.clear();
+    };
+    return ValueAnimationControls;
+}());
+
+/**
+ * Use callback either only on the initial render or on all renders. In concurrent mode
+ * the "initial" render might run multiple times
+ *
+ * @param callback - Callback to run
+ * @param isInitialOnly - Set to `true` to only run on initial render, or `false` for all renders. Defaults to `false`.
+ *
+ * @public
+ */
+function useInitialOrEveryRender(callback, isInitialOnly) {
+    if (isInitialOnly === void 0) { isInitialOnly = false; }
+    var isInitialRender = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(true);
+    if (!isInitialOnly || (isInitialOnly && isInitialRender.current)) {
+        callback();
+    }
+    isInitialRender.current = false;
+}
+
+/**
+ * Control animations on one or more components.
+ *
+ * @public
+ */
+var AnimationControls = /** @class */ (function () {
+    function AnimationControls() {
+        /**
+         * Track whether the host component has mounted.
+         *
+         * @internal
+         */
+        this.hasMounted = false;
+        /**
+         * Pending animations that are started before a component is mounted.
+         *
+         * @internal
+         */
+        this.pendingAnimations = [];
+        /**
+         * A collection of linked component animation controls.
+         *
+         * @internal
+         */
+        this.componentControls = new Set();
+    }
+    /**
+     * Set variants on this and all child components.
+     *
+     * @param variants - The variants to set
+     *
+     * @internal
+     */
+    AnimationControls.prototype.setVariants = function (variants) {
+        this.variants = variants;
+        this.componentControls.forEach(function (controls) {
+            return controls.setVariants(variants);
+        });
+    };
+    /**
+     * Set a default transition on this and all child components
+     *
+     * @param transition - The default transition to set
+     *
+     * @internal
+     */
+    AnimationControls.prototype.setDefaultTransition = function (transition) {
+        this.defaultTransition = transition;
+        this.componentControls.forEach(function (controls) {
+            return controls.setDefaultTransition(transition);
+        });
+    };
+    /**
+     * Subscribes a component's animation controls to this.
+     *
+     * @param controls - The controls to subscribe
+     * @returns An unsubscribe function.
+     *
+     * @internal
+     */
+    AnimationControls.prototype.subscribe = function (controls) {
+        var _this = this;
+        this.componentControls.add(controls);
+        if (this.variants)
+            controls.setVariants(this.variants);
+        if (this.defaultTransition)
+            controls.setDefaultTransition(this.defaultTransition);
+        return function () { return _this.componentControls.delete(controls); };
+    };
+    /**
+     * Starts an animation on all linked components.
+     *
+     * @remarks
+     *
+     * ```jsx
+     * controls.start("variantLabel")
+     * controls.start({
+     *   x: 0,
+     *   transition: { duration: 1 }
+     * })
+     * ```
+     *
+     * @param definition - Properties or variant label to animate to
+     * @param transition - Optional `transtion` to apply to a variant
+     * @returns - A `Promise` that resolves when all animations have completed.
+     *
+     * @public
+     */
+    AnimationControls.prototype.start = function (definition, transitionOverride) {
+        var _this = this;
+        if (this.hasMounted) {
+            var animations_1 = [];
+            this.componentControls.forEach(function (controls) {
+                var animation = controls.start(definition, {
+                    transitionOverride: transitionOverride,
+                });
+                animations_1.push(animation);
+            });
+            return Promise.all(animations_1);
+        }
+        else {
+            return new Promise(function (resolve) {
+                _this.pendingAnimations.push({
+                    animation: [definition, transitionOverride],
+                    resolve: resolve,
+                });
+            });
+        }
+    };
+    /**
+     * Instantly set to a set of properties or a variant.
+     *
+     * ```jsx
+     * // With properties
+     * controls.set({ opacity: 0 })
+     *
+     * // With variants
+     * controls.set("hidden")
+     * ```
+     *
+     * @internalremarks
+     * We could perform a similar trick to `.start` where this can be called before mount
+     * and we maintain a list of of pending actions that get applied on mount. But the
+     * expectation of `set` is that it happens synchronously and this would be difficult
+     * to do before any children have even attached themselves. It's also poor practise
+     * and we should discourage render-synchronous `.start` calls rather than lean into this.
+     *
+     * @public
+     */
+    AnimationControls.prototype.set = function (definition) {
+        Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["invariant"])(this.hasMounted, "controls.set() should only be called after a component has mounted. Consider calling within a useEffect hook.");
+        return this.componentControls.forEach(function (controls) {
+            return controls.apply(definition);
+        });
+    };
+    /**
+     * Stops animations on all linked components.
+     *
+     * ```jsx
+     * controls.stop()
+     * ```
+     *
+     * @public
+     */
+    AnimationControls.prototype.stop = function () {
+        this.componentControls.forEach(function (controls) { return controls.stop(); });
+    };
+    /**
+     * Initialises the animation controls.
+     *
+     * @internal
+     */
+    AnimationControls.prototype.mount = function () {
+        var _this = this;
+        this.hasMounted = true;
+        this.pendingAnimations.forEach(function (_a) {
+            var animation = _a.animation, resolve = _a.resolve;
+            return _this.start.apply(_this, animation).then(resolve);
+        });
+    };
+    /**
+     * Stops all child animations when the host component unmounts.
+     *
+     * @internal
+     */
+    AnimationControls.prototype.unmount = function () {
+        this.hasMounted = false;
+        this.stop();
+    };
+    return AnimationControls;
+}());
+/**
+ * @internal
+ */
+var animationControls = function () { return new AnimationControls(); };
+
+/**
+ * @internal
+ */
+var MotionContext = Object(react__WEBPACK_IMPORTED_MODULE_1__["createContext"])({
+    static: false,
+});
+var isVariantLabel = function (v) {
+    return typeof v === "string" || Array.isArray(v);
+};
+var isAnimationControls = function (v) {
+    return v instanceof AnimationControls;
+};
+/**
+ * Set up the context for children motion components.
+ *
+ * We also use this opportunity to apply `initial` values
+ */
+var useMotionContext = function (parentContext, controls, values, isStatic, _a) {
+    if (isStatic === void 0) { isStatic = false; }
+    var initial = _a.initial, animate = _a.animate, variants = _a.variants, whileTap = _a.whileTap, whileHover = _a.whileHover;
+    // Override initial with that from a parent context, if defined
+    if (parentContext.exitProps &&
+        parentContext.exitProps.initial !== undefined) {
+        initial = parentContext.exitProps.initial;
+    }
+    var initialState;
+    if (initial === false && !isAnimationControls(animate)) {
+        initialState = animate;
+    }
+    else if (typeof initial !== "boolean") {
+        initialState = initial;
+    }
+    // Track mounted status so children can detect whether they were present during their
+    // parent's first render
+    var hasMounted = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(false);
+    // We propagate this component's ValueAnimationControls *if* we're being provided variants,
+    // if we're being used to control variants, or if we're being passed animation controls.
+    // Otherwise this component should be "invisible" to variant propagation. This is a slight concession
+    // to Framer X where every `Frame` is a `motion` component and it might be if we change that in the future
+    // that this restriction is removed.
+    var shouldPropagateControls = variants ||
+        isVariantLabel(animate) ||
+        isVariantLabel(whileTap) ||
+        isVariantLabel(whileHover) ||
+        isAnimationControls(animate);
+    // If this component's `initial` prop is a variant label, propagate it. Otherwise pass the parent's.
+    var targetInitial = isVariantLabel(initialState)
+        ? initialState
+        : parentContext.initial;
+    // If this is a variant tree we need to propagate the `animate` prop in case new children are added after
+    // the tree initially animates.
+    var targetAnimate = isVariantLabel(animate)
+        ? animate
+        : parentContext.animate;
+    // Only allow `initial` to trigger context re-renders if this is a `static` component (ie we're on the Framer canvas)
+    // or in another non-animation/interaction environment.
+    var initialDependency = isStatic ? targetInitial : null;
+    // Only allow `animate` to trigger context re-renders if it's a variant label. If this is an array of
+    // variant labels there's probably an optimisation to deep-compare but it might be an over-optimisation.
+    // We want to do this as we rely on React's component rendering order each render cycle to determine
+    // the new order of any child components for the `staggerChildren` functionality.
+    var animateDependency = shouldPropagateControls && isVariantLabel(targetAnimate)
+        ? targetAnimate
+        : null;
+    // The context to provide to the child. We `useMemo` because although `controls` and `initial` are
+    // unlikely to change, by making the context an object it'll be considered a new value every render.
+    // So all child motion components will re-render as a result.
+    var context = Object(react__WEBPACK_IMPORTED_MODULE_1__["useMemo"])(function () { return ({
+        controls: shouldPropagateControls
+            ? controls
+            : parentContext.controls,
+        initial: targetInitial,
+        animate: targetAnimate,
+        values: values,
+        hasMounted: hasMounted,
+        isReducedMotion: parentContext.isReducedMotion,
+    }); }, [initialDependency, animateDependency, parentContext.isReducedMotion]);
+    // Update the `static` property every render. This is unlikely to change but also essentially free.
+    context.static = isStatic;
+    // Set initial state. If this is a static component (ie in Framer canvas), respond to updates
+    // in `initial`.
+    useInitialOrEveryRender(function () {
+        var initialToApply = initialState || parentContext.initial;
+        initialToApply && controls.apply(initialToApply);
+    }, !isStatic);
+    Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () {
+        hasMounted.current = true;
+    }, []);
+    return context;
+};
+
+/**
+ * Creates an imperative set of controls to trigger animations.
+ *
+ * This allows a consolidated, uniform API for animations, to be triggered by other APIs like the `animate` prop, or the gesture handlers.
+ *
+ * @param values
+ * @param props
+ * @param ref
+ * @param subscribeToParentControls
+ *
+ * @internal
+ */
+function useValueAnimationControls(config, props, subscribeToParentControls, parentContext) {
+    var variants = props.variants, transition = props.transition;
+    var parentControls = Object(react__WEBPACK_IMPORTED_MODULE_1__["useContext"])(MotionContext).controls;
+    var controls = useConstant(function () { return new ValueAnimationControls(config); });
+    // Reset and resubscribe children every render to ensure stagger order is correct
+    if (!parentContext ||
+        !parentContext.exitProps ||
+        !parentContext.exitProps.isExiting) {
+        controls.resetChildren();
+        controls.setProps(props);
+        controls.setVariants(variants);
+        controls.setDefaultTransition(transition);
+    }
+    // We have to subscribe to the parent controls within a useEffect rather than during render,
+    // as
+    Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () {
+        if (subscribeToParentControls && parentControls) {
+            parentControls.addChild(controls);
+        }
+    });
+    Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () {
+        return function () {
+            // Remove reference to onAnimationComplete from controls. All the MotionValues
+            // are unsubscribed from this component separately. We let animations run out
+            // as they might be animating other components.
+            var onAnimationComplete = props.onAnimationComplete, unmountProps = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(props, ["onAnimationComplete"]);
+            controls.setProps(unmountProps);
+            parentControls && parentControls.removeChild(controls);
+        };
+    }, []);
+    return controls;
+}
+
+var checkShouldInheritVariant = function (_a) {
+    var animate = _a.animate, variants = _a.variants, _b = _a.inherit, inherit = _b === void 0 ? true : _b;
+    return (inherit &&
+        !!variants &&
+        (!animate || animate instanceof AnimationControls));
+};
+
+/**
+ * Uses the ref that is passed in, or creates a new one
+ * @param external - External ref
+ * @internal
+ */
+function useExternalRef(externalRef) {
+    // We're conditionally calling `useRef` here which is sort of naughty as hooks
+    // shouldn't be called conditionally. However, Framer Motion will break if this
+    // condition changes anyway. It might be possible to use an invariant here to
+    // make it explicit, but I expect changing `ref` is not normal behaviour.
+    var ref = !externalRef || typeof externalRef === "function"
+        ? Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(null)
+        : externalRef;
+    // Handle `ref` functions. Again, calling the hook conditionally is kind of naughty
+    // but `ref` types changing between renders would break Motion anyway. If we receive
+    // bug reports about this, we should track the provided ref and throw an invariant
+    // rather than move the conditional to inside the useEffect as this will be fired
+    // for every Frame component within Framer.
+    if (externalRef && typeof externalRef === "function") {
+        Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () {
+            externalRef(ref.current);
+            return function () { return externalRef(null); };
+        }, []);
+    }
+    return ref;
+}
+
+/**
+ * @internal
+ */
+var createMotionComponent = function (_a) {
+    var getValueControlsConfig = _a.getValueControlsConfig, loadFunctionalityComponents = _a.loadFunctionalityComponents, renderComponent = _a.renderComponent;
+    function MotionComponent(props, externalRef) {
+        var ref = useExternalRef(externalRef);
+        var parentContext = Object(react__WEBPACK_IMPORTED_MODULE_1__["useContext"])(MotionContext);
+        var isStatic = parentContext.static || props.static || false;
+        var values = useMotionValues(props);
+        var style = useMotionStyles(values, props.style, isStatic, props.transformValues);
+        var shouldInheritVariant = checkShouldInheritVariant(props);
+        var controlsConfig = useConstant(function () {
+            return getValueControlsConfig(ref, values);
+        });
+        var controls = useValueAnimationControls(controlsConfig, props, shouldInheritVariant, parentContext);
+        var context = useMotionContext(parentContext, controls, values, isStatic, props);
+        var functionality = isStatic
+            ? null
+            : loadFunctionalityComponents(ref, values, props, parentContext, controls, shouldInheritVariant);
+        var renderedComponent = renderComponent(ref, style, values, props, isStatic);
+        return (Object(react__WEBPACK_IMPORTED_MODULE_1__["createElement"])(react__WEBPACK_IMPORTED_MODULE_1__["Fragment"], null,
+            Object(react__WEBPACK_IMPORTED_MODULE_1__["createElement"])(MotionContext.Provider, { value: context }, renderedComponent),
+            Object(react__WEBPACK_IMPORTED_MODULE_1__["createElement"])(react__WEBPACK_IMPORTED_MODULE_1__["Fragment"], null,
+                Object(react__WEBPACK_IMPORTED_MODULE_1__["createElement"])(Mount, { innerRef: ref, values: values, isStatic: isStatic }),
+                functionality)));
+    }
+    return Object(react__WEBPACK_IMPORTED_MODULE_1__["forwardRef"])(MotionComponent);
+};
+
+/**
+ * @internal
+ */
+var htmlElements = [
+    "a",
+    "abbr",
+    "address",
+    "area",
+    "article",
+    "aside",
+    "audio",
+    "b",
+    "base",
+    "bdi",
+    "bdo",
+    "big",
+    "blockquote",
+    "body",
+    "br",
+    "button",
+    "canvas",
+    "caption",
+    "cite",
+    "code",
+    "col",
+    "colgroup",
+    "data",
+    "datalist",
+    "dd",
+    "del",
+    "details",
+    "dfn",
+    "dialog",
+    "div",
+    "dl",
+    "dt",
+    "em",
+    "embed",
+    "fieldset",
+    "figcaption",
+    "figure",
+    "footer",
+    "form",
+    "h1",
+    "h2",
+    "h3",
+    "h4",
+    "h5",
+    "h6",
+    "head",
+    "header",
+    "hgroup",
+    "hr",
+    "html",
+    "i",
+    "iframe",
+    "img",
+    "input",
+    "ins",
+    "kbd",
+    "keygen",
+    "label",
+    "legend",
+    "li",
+    "link",
+    "main",
+    "map",
+    "mark",
+    "menu",
+    "menuitem",
+    "meta",
+    "meter",
+    "nav",
+    "noscript",
+    "object",
+    "ol",
+    "optgroup",
+    "option",
+    "output",
+    "p",
+    "param",
+    "picture",
+    "pre",
+    "progress",
+    "q",
+    "rp",
+    "rt",
+    "ruby",
+    "s",
+    "samp",
+    "script",
+    "section",
+    "select",
+    "small",
+    "source",
+    "span",
+    "strong",
+    "style",
+    "sub",
+    "summary",
+    "sup",
+    "table",
+    "tbody",
+    "td",
+    "textarea",
+    "tfoot",
+    "th",
+    "thead",
+    "time",
+    "title",
+    "tr",
+    "track",
+    "u",
+    "ul",
+    "var",
+    "video",
+    "wbr",
+    "webview",
+];
+/**
+ * @internal
+ */
+var svgElements = [
+    "animate",
+    "circle",
+    "clipPath",
+    "defs",
+    "desc",
+    "ellipse",
+    "feBlend",
+    "feColorMatrix",
+    "feComponentTransfer",
+    "feComposite",
+    "feConvolveMatrix",
+    "feDiffuseLighting",
+    "feDisplacementMap",
+    "feDistantLight",
+    "feDropShadow",
+    "feFlood",
+    "feFuncA",
+    "feFuncB",
+    "feFuncG",
+    "feFuncR",
+    "feGaussianBlur",
+    "feImage",
+    "feMerge",
+    "feMergeNode",
+    "feMorphology",
+    "feOffset",
+    "fePointLight",
+    "feSpecularLighting",
+    "feSpotLight",
+    "feTile",
+    "feTurbulence",
+    "filter",
+    "foreignObject",
+    "g",
+    "image",
+    "line",
+    "linearGradient",
+    "marker",
+    "mask",
+    "metadata",
+    "path",
+    "pattern",
+    "polygon",
+    "polyline",
+    "radialGradient",
+    "rect",
+    "stop",
+    "svg",
+    "switch",
+    "symbol",
+    "text",
+    "textPath",
+    "tspan",
+    "use",
+    "view",
+];
+
+/**
+ * @internal
+ */
+var MotionPluginContext = Object(react__WEBPACK_IMPORTED_MODULE_1__["createContext"])({
+    transformPagePoint: function (p) { return p; },
+});
+/**
+ * @remarks For now I think this should remain a private API for our own use
+ * until we can figure out a nicer way of allowing people to add these
+ *
+ * @internal
+ */
+function MotionPlugins(_a) {
+    var children = _a.children, props = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, ["children"]);
+    var pluginContext = Object(react__WEBPACK_IMPORTED_MODULE_1__["useContext"])(MotionPluginContext);
+    var value = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, pluginContext)).current;
+    // Mutative to prevent triggering rerenders in all listening
+    // components every time this component renders
+    for (var key in props) {
+        value[key] = props[key];
+    }
+    return (Object(react__WEBPACK_IMPORTED_MODULE_1__["createElement"])(MotionPluginContext.Provider, { value: value }, children));
+}
+
+function useUnmountEffect(callback) {
+    return Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () { return function () { return callback(); }; }, []);
+}
+
+function addDomEvent(target, eventName, handler, options) {
+    if (!handler)
+        return;
+    target.addEventListener(eventName, handler, options);
+    return function () { return target.removeEventListener(eventName, handler, options); };
+}
+/**
+ * Attaches an event listener directly to the provided DOM element.
+ *
+ * Bypassing React's event system can be desirable, for instance when attaching non-passive
+ * event handlers.
+ *
+ * ```jsx
+ * const ref = useRef(null)
+ *
+ * useDomEvent(ref, 'wheel', onWheel, { passive: false })
+ *
+ * return <div ref={ref} />
+ * ```
+ *
+ * @param ref - React.RefObject that's been provided to the element you want to bind the listener to.
+ * @param eventName - Name of the event you want listen for.
+ * @param handler - Function to fire when receiving the event.
+ * @param options - Options to pass to `Event.addEventListener`.
+ *
+ * @public
+ */
+function useDomEvent(ref, eventName, handler, options) {
+    Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () {
+        var element = ref.current;
+        if (handler && element) {
+            return addDomEvent(element, eventName, handler, options);
+        }
+    }, [ref, eventName, handler, options]);
+}
+
+function isMouseEvent(event) {
+    // PointerEvent inherits from MouseEvent so we can't use a straight instanceof check.
+    if (typeof PointerEvent !== "undefined" && event instanceof PointerEvent) {
+        return !!(event.pointerType === "mouse");
+    }
+    return event instanceof MouseEvent;
+}
+function isTouchEvent(event) {
+    var hasTouches = !!event.touches;
+    return hasTouches;
+}
+
+/**
+ * Filters out events not attached to the primary pointer (currently left mouse button)
+ * @param eventHandler
+ */
+function filterPrimaryPointer(eventHandler) {
+    if (!eventHandler)
+        return undefined;
+    return function (event) {
+        var isMouseEvent = event instanceof MouseEvent;
+        var isPrimaryPointer = !isMouseEvent ||
+            (isMouseEvent && event.button === 0);
+        if (isPrimaryPointer) {
+            eventHandler(event);
+        }
+    };
+}
+var defaultPagePoint = { pageX: 0, pageY: 0 };
+function pointFromTouch(e) {
+    var primaryTouch = e.touches[0] || e.changedTouches[0];
+    var _a = primaryTouch || defaultPagePoint, pageX = _a.pageX, pageY = _a.pageY;
+    return { x: pageX, y: pageY };
+}
+function pointFromMouse(_a) {
+    var _b = _a.pageX, pageX = _b === void 0 ? 0 : _b, _c = _a.pageY, pageY = _c === void 0 ? 0 : _c;
+    return { x: pageX, y: pageY };
+}
+function extractEventInfo(event) {
+    return {
+        point: isTouchEvent(event)
+            ? pointFromTouch(event)
+            : pointFromMouse(event),
+    };
+}
+var wrapHandler = function (handler, shouldFilterPrimaryPointer) {
+    if (shouldFilterPrimaryPointer === void 0) { shouldFilterPrimaryPointer = false; }
+    if (!handler)
+        return;
+    var listener = function (event) { return handler(event, extractEventInfo(event)); };
+    return shouldFilterPrimaryPointer
+        ? filterPrimaryPointer(listener)
+        : listener;
+};
+
+var isBrowser = typeof window !== "undefined";
+// We check for event support via functions in case they've been mocked by a testing suite.
+var supportsPointerEvents = function () {
+    return isBrowser && window.onpointerdown === null;
+};
+var supportsTouchEvents = function () {
+    return isBrowser && window.ontouchstart === null;
+};
+var supportsMouseEvents = function () {
+    return isBrowser && window.onmousedown === null;
+};
+
+var mouseEventNames = {
+    pointerdown: "mousedown",
+    pointermove: "mousemove",
+    pointerup: "mouseup",
+    pointercancel: "mousecancel",
+    pointerover: "mouseover",
+    pointerout: "mouseout",
+    pointerenter: "mouseenter",
+    pointerleave: "mouseleave",
+};
+var touchEventNames = {
+    pointerdown: "touchstart",
+    pointermove: "touchmove",
+    pointerup: "touchend",
+    pointercancel: "touchcancel",
+};
+function getPointerEventName(name) {
+    if (supportsPointerEvents()) {
+        return name;
+    }
+    else if (supportsTouchEvents()) {
+        return touchEventNames[name];
+    }
+    else if (supportsMouseEvents()) {
+        return mouseEventNames[name];
+    }
+    return name;
+}
+function addPointerEvent(target, eventName, handler, options) {
+    return addDomEvent(target, getPointerEventName(eventName), wrapHandler(handler, eventName === "pointerdown"), options);
+}
+function usePointerEvent(ref, eventName, handler, options) {
+    return useDomEvent(ref, getPointerEventName(eventName), wrapHandler(handler, eventName === "pointerdown"), options);
+}
+
+/** @public */
+var Point;
+(function (Point) {
+    /** @beta */
+    Point.subtract = function (a, b) {
+        return { x: a.x - b.x, y: a.y - b.y };
+    };
+    /** @beta */
+    Point.relativeTo = function (idOrElem) {
+        var elem;
+        var getElem = function () {
+            // Caching element here could be leaky because of React lifecycle
+            if (elem !== undefined)
+                return elem;
+            if (typeof idOrElem === "string") {
+                elem = document.getElementById(idOrElem);
+            }
+            else {
+                elem = idOrElem;
+            }
+            return elem;
+        };
+        return function (_a) {
+            var x = _a.x, y = _a.y;
+            var localElem = getElem();
+            if (!localElem)
+                return undefined;
+            var rect = localElem.getBoundingClientRect();
+            return {
+                x: x - rect.left - window.scrollX,
+                y: y - rect.top - window.scrollY,
+            };
+        };
+    };
+})(Point || (Point = {}));
+
+var isViewportScrollBlocked = false;
+var isBrowser$1 = typeof window !== "undefined";
+if (isBrowser$1) {
+    document.addEventListener("touchmove", function (event) {
+        if (isViewportScrollBlocked) {
+            event.preventDefault();
+        }
+    }, { passive: false });
+}
+var blockViewportScroll = function () { return (isViewportScrollBlocked = true); };
+var unblockViewportScroll = function () { return (isViewportScrollBlocked = false); };
+
+/**
+ * @internal
+ */
+var PanSession = /** @class */ (function () {
+    function PanSession(event, handlers, _a) {
+        var _this = this;
+        var transformPagePoint = (_a === void 0 ? {} : _a).transformPagePoint;
+        /**
+         * @internal
+         */
+        this.startEvent = null;
+        /**
+         * @internal
+         */
+        this.lastMoveEvent = null;
+        /**
+         * @internal
+         */
+        this.lastMoveEventInfo = null;
+        /**
+         * @internal
+         */
+        this.handlers = {};
+        this.updatePoint = function () {
+            if (!(_this.lastMoveEvent && _this.lastMoveEventInfo))
+                return;
+            var info = getPanInfo(_this.lastMoveEventInfo, _this.history);
+            var isPanStarted = _this.startEvent !== null;
+            // Only start panning if the offset is larger than 3 pixels. If we make it
+            // any larger than this we'll want to reset the pointer history
+            // on the first update to avoid visual snapping to the cursoe.
+            var isDistancePastThreshold = Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_3__["distance"])(info.offset, { x: 0, y: 0 }) >= 3;
+            if (!isPanStarted && !isDistancePastThreshold)
+                return;
+            var point = info.point;
+            var timestamp = Object(framesync__WEBPACK_IMPORTED_MODULE_2__["getFrameData"])().timestamp;
+            _this.history.push(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, point), { timestamp: timestamp }));
+            var _a = _this.handlers, onStart = _a.onStart, onMove = _a.onMove;
+            if (!isPanStarted) {
+                onStart && onStart(_this.lastMoveEvent, info);
+                _this.startEvent = _this.lastMoveEvent;
+            }
+            onMove && onMove(_this.lastMoveEvent, info);
+        };
+        // If we have more than one touch, don't start detecting this gesture
+        if (isTouchEvent(event) && event.touches.length > 1)
+            return;
+        this.handlers = handlers;
+        this.transformPagePoint = transformPagePoint;
+        var info = extractEventInfo(event);
+        var initialInfo = transformPoint(info, this.transformPagePoint);
+        var point = initialInfo.point;
+        var timestamp = Object(framesync__WEBPACK_IMPORTED_MODULE_2__["getFrameData"])().timestamp;
+        this.history = [Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, point), { timestamp: timestamp })];
+        var onSessionStart = handlers.onSessionStart;
+        onSessionStart &&
+            onSessionStart(event, getPanInfo(initialInfo, this.history));
+        var removeOnPointerMove = addPointerEvent(window, "pointermove", function (event, info) { return _this.handlePointerMove(event, info); });
+        var removeOnPointerUp = addPointerEvent(window, "pointerup", function (event, info) { return _this.handlePointerUp(event, info); });
+        this.removeListeners = function () {
+            removeOnPointerMove && removeOnPointerMove();
+            removeOnPointerUp && removeOnPointerUp();
+        };
+    }
+    PanSession.prototype.handlePointerMove = function (event, info) {
+        this.lastMoveEvent = event;
+        this.lastMoveEventInfo = transformPoint(info, this.transformPagePoint);
+        // Because Safari doesn't trigger mouseup events when it's above a `<select>`
+        if (isMouseEvent(event) && event.buttons === 0) {
+            this.handlePointerUp(event, info);
+            return;
+        }
+        // Throttle mouse move event to once per frame
+        framesync__WEBPACK_IMPORTED_MODULE_2__["default"].update(this.updatePoint, true);
+    };
+    PanSession.prototype.handlePointerUp = function (event, info) {
+        this.end();
+        var onEnd = this.handlers.onEnd;
+        if (!onEnd)
+            return;
+        var panInfo = getPanInfo(transformPoint(info, this.transformPagePoint), this.history);
+        onEnd && onEnd(event, panInfo);
+    };
+    PanSession.prototype.updateHandlers = function (handlers) {
+        this.handlers = handlers;
+    };
+    PanSession.prototype.end = function () {
+        this.removeListeners && this.removeListeners();
+        framesync__WEBPACK_IMPORTED_MODULE_2__["cancelSync"].update(this.updatePoint);
+        unblockViewportScroll();
+    };
+    return PanSession;
+}());
+function transformPoint(info, transformPagePoint) {
+    return transformPagePoint ? { point: transformPagePoint(info.point) } : info;
+}
+function getPanInfo(_a, history) {
+    var point = _a.point;
+    return {
+        point: point,
+        delta: Point.subtract(point, lastDevicePoint(history)),
+        offset: Point.subtract(point, startDevicePoint(history)),
+        velocity: getVelocity$1(history, 0.1),
+    };
+}
+function startDevicePoint(history) {
+    return history[0];
+}
+function lastDevicePoint(history) {
+    return history[history.length - 1];
+}
+function getVelocity$1(history, timeDelta) {
+    if (history.length < 2) {
+        return { x: 0, y: 0 };
+    }
+    var i = history.length - 1;
+    var timestampedPoint = null;
+    var lastPoint = lastDevicePoint(history);
+    while (i >= 0) {
+        timestampedPoint = history[i];
+        if (lastPoint.timestamp - timestampedPoint.timestamp >
+            secondsToMilliseconds(timeDelta)) {
+            break;
+        }
+        i--;
+    }
+    if (!timestampedPoint) {
+        return { x: 0, y: 0 };
+    }
+    var time = (lastPoint.timestamp - timestampedPoint.timestamp) / 1000;
+    if (time === 0) {
+        return { x: 0, y: 0 };
+    }
+    var currentVelocity = {
+        x: (lastPoint.x - timestampedPoint.x) / time,
+        y: (lastPoint.y - timestampedPoint.y) / time,
+    };
+    if (currentVelocity.x === Infinity) {
+        currentVelocity.x = 0;
+    }
+    if (currentVelocity.y === Infinity) {
+        currentVelocity.y = 0;
+    }
+    return currentVelocity;
+}
+
+/**
+ *
+ * @param handlers -
+ * @param ref -
+ *
+ * @internalremarks
+ * Currently this sets new pan gesture functions every render. The memo route has been explored
+ * in the past but ultimately we're still creating new functions every render. An optimisation
+ * to explore is creating the pan gestures and loading them into a `ref`.
+ *
+ * @internal
+ */
+function usePanGesture(_a, ref) {
+    var onPan = _a.onPan, onPanStart = _a.onPanStart, onPanEnd = _a.onPanEnd, onPanSessionStart = _a.onPanSessionStart;
+    var hasPanEvents = onPan || onPanStart || onPanEnd || onPanSessionStart;
+    var panSession = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(null);
+    var transformPagePoint = Object(react__WEBPACK_IMPORTED_MODULE_1__["useContext"])(MotionPluginContext).transformPagePoint;
+    var handlers = {
+        onSessionStart: onPanSessionStart,
+        onStart: onPanStart,
+        onMove: onPan,
+        onEnd: function (event, info) {
+            panSession.current = null;
+            onPanEnd && onPanEnd(event, info);
+        },
+    };
+    if (panSession.current !== null) {
+        panSession.current.updateHandlers(handlers);
+    }
+    function onPointerDown(event) {
+        panSession.current = new PanSession(event, handlers, {
+            transformPagePoint: transformPagePoint,
+        });
+    }
+    usePointerEvent(ref, "pointerdown", hasPanEvents && onPointerDown);
+    useUnmountEffect(function () { return panSession.current && panSession.current.end(); });
+}
+
+/**
+ * Recursively traverse up the tree to check whether the provided child node
+ * is the parent or a descendant of it.
+ *
+ * @param parent - Element to find
+ * @param child - Element to test against parent
+ */
+var isNodeOrChild = function (parent, child) {
+    if (!child) {
+        return false;
+    }
+    else if (parent === child) {
+        return true;
+    }
+    else {
+        return isNodeOrChild(parent, child.parentElement);
+    }
+};
+
+var order = ["whileHover", "whileTap", "whileDrag"];
+var getGesturePriority = function (gesture) {
+    return order.indexOf(gesture) + 1;
+};
+
+function createLock(name) {
+    var lock = null;
+    return function () {
+        var openLock = function () {
+            lock = null;
+        };
+        if (lock === null) {
+            lock = name;
+            return openLock;
+        }
+        return false;
+    };
+}
+var globalHorizontalLock = createLock("dragHorizontal");
+var globalVerticalLock = createLock("dragVertical");
+function getGlobalLock(drag) {
+    var lock = false;
+    if (drag === "y") {
+        lock = globalVerticalLock();
+    }
+    else if (drag === "x") {
+        lock = globalHorizontalLock();
+    }
+    else {
+        var openHorizontal_1 = globalHorizontalLock();
+        var openVertical_1 = globalVerticalLock();
+        if (openHorizontal_1 && openVertical_1) {
+            lock = function () {
+                openHorizontal_1();
+                openVertical_1();
+            };
+        }
+        else {
+            // Release the locks because we don't use them
+            if (openHorizontal_1)
+                openHorizontal_1();
+            if (openVertical_1)
+                openVertical_1();
+        }
+    }
+    return lock;
+}
+
+var tapGesturePriority = getGesturePriority("whileTap");
+/**
+ * @param handlers -
+ * @internal
+ */
+function useTapGesture(_a, ref) {
+    var onTap = _a.onTap, onTapStart = _a.onTapStart, onTapCancel = _a.onTapCancel, whileTap = _a.whileTap, controls = _a.controls;
+    var hasTapListeners = onTap || onTapStart || onTapCancel || whileTap;
+    var isTapping = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(false);
+    var cancelPointerEventListener = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(null);
+    function removePointerUp() {
+        cancelPointerEventListener.current &&
+            cancelPointerEventListener.current();
+        cancelPointerEventListener.current = null;
+    }
+    if (whileTap && controls) {
+        controls.setOverride(whileTap, tapGesturePriority);
+    }
+    // We load this event handler into a ref so we can later refer to
+    // onPointerUp.current which will always have reference to the latest props
+    var onPointerUp = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(null);
+    onPointerUp.current = function (event, info) {
+        var element = ref.current;
+        removePointerUp();
+        if (!isTapping.current || !element)
+            return;
+        isTapping.current = false;
+        if (controls && whileTap) {
+            controls.clearOverride(tapGesturePriority);
+        }
+        // Check the gesture lock - if we get it, it means no drag gesture is active
+        // and we can safely fire the tap gesture.
+        var openGestureLock = getGlobalLock(true);
+        if (!openGestureLock)
+            return;
+        openGestureLock();
+        if (!isNodeOrChild(element, event.target)) {
+            onTapCancel && onTapCancel(event, info);
+        }
+        else {
+            onTap && onTap(event, info);
+        }
+    };
+    function onPointerDown(event, info) {
+        removePointerUp();
+        cancelPointerEventListener.current = addPointerEvent(window, "pointerup", function (event, info) { return onPointerUp.current(event, info); });
+        var element = ref.current;
+        if (!element || isTapping.current)
+            return;
+        isTapping.current = true;
+        onTapStart && onTapStart(event, info);
+        if (controls && whileTap) {
+            controls.startOverride(tapGesturePriority);
+        }
+    }
+    usePointerEvent(ref, "pointerdown", hasTapListeners ? onPointerDown : undefined);
+    useUnmountEffect(removePointerUp);
+}
+
+var hoverPriority = getGesturePriority("whileHover");
+var filterTouch = function (listener) { return function (event, info) {
+    if (isMouseEvent(event))
+        listener(event, info);
+}; };
+/**
+ *
+ * @param props
+ * @param ref
+ * @internal
+ */
+function useHoverGesture(_a, ref) {
+    var whileHover = _a.whileHover, onHoverStart = _a.onHoverStart, onHoverEnd = _a.onHoverEnd, controls = _a.controls;
+    if (whileHover && controls) {
+        controls.setOverride(whileHover, hoverPriority);
+    }
+    usePointerEvent(ref, "pointerenter", filterTouch(function (event, info) {
+        if (onHoverStart)
+            onHoverStart(event, info);
+        if (whileHover && controls) {
+            controls.startOverride(hoverPriority);
+        }
+    }));
+    usePointerEvent(ref, "pointerleave", filterTouch(function (event, info) {
+        if (onHoverEnd)
+            onHoverEnd(event, info);
+        if (whileHover && controls) {
+            controls.clearOverride(hoverPriority);
+        }
+    }));
+}
+
+/**
+ * Add pan and tap gesture recognition to an element.
+ *
+ * @param props - Gesture event handlers
+ * @param ref - React `ref` containing a DOM `Element`
+ * @public
+ */
+function useGestures(props, ref) {
+    usePanGesture(props, ref);
+    useTapGesture(props, ref);
+    useHoverGesture(props, ref);
+}
+
+var makeRenderlessComponent = function (hook) { return function (props) {
+    hook(props);
+    return null;
+}; };
+
+var gestureProps = [
+    "onPan",
+    "onPanStart",
+    "onPanEnd",
+    "onPanSessionStart",
+    "onTap",
+    "onTapStart",
+    "onTapCancel",
+    "whileTap",
+    "whileHover",
+    "onHoverStart",
+    "onHoverEnd",
+];
+var Gestures = {
+    key: "gestures",
+    shouldRender: function (props) {
+        return gestureProps.some(function (key) { return props.hasOwnProperty(key); });
+    },
+    Component: makeRenderlessComponent(function (_a) {
+        var innerRef = _a.innerRef, props = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, ["innerRef"]);
+        useGestures(props, innerRef);
+    }),
+};
+
+var isRefObject = function (ref) {
+    return typeof ref === "object" && ref.hasOwnProperty("current");
+};
+
+var noop = function (v) { return v; };
+/**
+ * Don't block the default pointerdown behaviour of these elements.
+ */
+var allowDefaultPointerDown = new Set(["INPUT", "TEXTAREA", "SELECT"]);
+var ComponentDragControls = /** @class */ (function () {
+    function ComponentDragControls(_a) {
+        var ref = _a.ref, values = _a.values, controls = _a.controls;
+        /**
+         * Track whether we're currently dragging.
+         *
+         * @internal
+         */
+        this.isDragging = false;
+        /**
+         * The current direction of drag, or `null` if both.
+         *
+         * @internal
+         */
+        this.currentDirection = null;
+        /**
+         * The permitted t/r/b/l boundaries of travel, in pixels.
+         *
+         * @internal
+         */
+        this.constraints = false;
+        /**
+         * A reference to the host component's latest props.
+         *
+         * @internal
+         */
+        this.props = {
+            transformPagePoint: noop,
+        };
+        /**
+         * References to the MotionValues used for tracking the current dragged point.
+         *
+         * @internal
+         */
+        this.point = {};
+        /**
+         * The origin point for the current drag gesture.
+         *
+         * @internal
+         */
+        this.origin = {
+            x: motionValue(0),
+            y: motionValue(0),
+        };
+        // This is a reference to the global drag gesture lock, ensuring only one component
+        // can "capture" the drag of one or both axes.
+        // TODO: Look into moving this into pansession?
+        this.openGlobalLock = null;
+        /**
+         * @internal
+         */
+        this.panSession = null;
+        /**
+         * A reference to the previous constraints bounding box
+         *
+         * @internal
+         */
+        this.prevConstraintsBox = {
+            width: 0,
+            height: 0,
+            x: 0,
+            y: 0,
+        };
+        this.ref = ref;
+        this.values = values;
+        this.controls = controls;
+    }
+    /**
+     * Start dragging the host component.
+     *
+     * @param event - The originating pointer event.
+     * @param options -
+     *
+     * @public
+     */
+    ComponentDragControls.prototype.start = function (originEvent, _a) {
+        var _this = this;
+        var _b = (_a === void 0 ? {} : _a).snapToCursor, snapToCursor = _b === void 0 ? false : _b;
+        snapToCursor && this.snapToCursor(originEvent);
+        var onSessionStart = function (event) {
+            // Prevent browser-specific behaviours like text selection or Chrome's image dragging.
+            if (event.target &&
+                !allowDefaultPointerDown.has(event.target.tagName)) {
+                // On iOS it's important to not `preventDefault` the `touchstart`
+                // event, as otherwise clicks won't fire inside the draggable element.
+                if (!supportsTouchEvents()) {
+                    event.preventDefault();
+                    // Make sure input elements loose focus when we prevent the default.
+                    if (document.activeElement instanceof HTMLElement) {
+                        document.activeElement.blur();
+                    }
+                }
+            }
+            // Initiate viewport scroll blocking on touch start. This is a very aggressive approach
+            // which has come out of the difficulty in us being able to do this once a scroll gesture
+            // has initiated in mobile browsers. This means if there's a horizontally-scrolling carousel
+            // on a page we can't let a user scroll the page itself from it. Ideally what we'd do is
+            // trigger this once we've got a scroll direction determined. This approach sort-of worked
+            // but if the component was dragged too far in a single frame page scrolling would initiate.
+            blockViewportScroll();
+            // Stop any animations on both axis values immediately. This allows the user to throw and catch
+            // the component.
+            bothAxis(function (axis) {
+                var axisPoint = _this.point[axis];
+                axisPoint && axisPoint.stop();
+            });
+        };
+        var onStart = function (event, info) {
+            // If constraints are an element, resolve them again in case they've updated.
+            if (_this.constraintsNeedResolution) {
+                var _a = _this.props, dragConstraints = _a.dragConstraints, transformPagePoint_1 = _a.transformPagePoint;
+                _this.constraints = calculateConstraintsFromDom(dragConstraints, _this.ref, _this.point, transformPagePoint_1);
+                _this.applyConstraintsToPoint();
+            }
+            // Set point origin and stop any existing animations.
+            bothAxis(function (axis) {
+                var axisPoint = _this.point[axis];
+                if (!axisPoint)
+                    return;
+                _this.origin[axis].set(axisPoint.get());
+            });
+            // Attempt to grab the global drag gesture lock - maybe make this part of PanSession
+            var _b = _this.props, drag = _b.drag, dragPropagation = _b.dragPropagation;
+            if (drag && !dragPropagation) {
+                if (_this.openGlobalLock)
+                    _this.openGlobalLock();
+                _this.openGlobalLock = getGlobalLock(drag);
+                if (!_this.openGlobalLock)
+                    return;
+            }
+            _this.isDragging = true;
+            _this.currentDirection = null;
+            var onDragStart = _this.props.onDragStart;
+            onDragStart &&
+                onDragStart(event, convertPanToDrag(info, _this.point));
+        };
+        var onMove = function (event, info) {
+            var _a = _this.props, dragPropagation = _a.dragPropagation, dragDirectionLock = _a.dragDirectionLock;
+            // If we didn't successfully receive the gesture lock, early return.
+            if (!dragPropagation && !_this.openGlobalLock)
+                return;
+            var offset = info.offset;
+            // Attempt to detect drag direction if directionLock is true
+            if (dragDirectionLock && _this.currentDirection === null) {
+                _this.currentDirection = getCurrentDirection(offset);
+                // If we've successfully set a direction, notify listener
+                if (_this.currentDirection !== null) {
+                    var onDirectionLock = _this.props.onDirectionLock;
+                    onDirectionLock && onDirectionLock(_this.currentDirection);
+                }
+                return;
+            }
+            _this.updatePoint("x", offset);
+            _this.updatePoint("y", offset);
+            var onDrag = _this.props.onDrag;
+            onDrag && onDrag(event, convertPanToDrag(info, _this.point));
+        };
+        var onEnd = function (event, info) {
+            _this.stop(event, info);
+        };
+        var transformPagePoint = this.props.transformPagePoint;
+        this.panSession = new PanSession(originEvent, {
+            onSessionStart: onSessionStart,
+            onStart: onStart,
+            onMove: onMove,
+            onEnd: onEnd,
+        }, { transformPagePoint: transformPagePoint });
+    };
+    ComponentDragControls.prototype.cancelDrag = function () {
+        unblockViewportScroll();
+        this.isDragging = false;
+        this.panSession && this.panSession.end();
+        this.panSession = null;
+        if (!this.props.dragPropagation && this.openGlobalLock) {
+            this.openGlobalLock();
+            this.openGlobalLock = null;
+        }
+    };
+    ComponentDragControls.prototype.stop = function (event, info) {
+        var _a;
+        (_a = this.panSession) === null || _a === void 0 ? void 0 : _a.end();
+        this.panSession = null;
+        var isDragging = this.isDragging;
+        this.cancelDrag();
+        if (!isDragging)
+            return;
+        var _b = this.props, dragMomentum = _b.dragMomentum, dragElastic = _b.dragElastic, onDragEnd = _b.onDragEnd;
+        if (dragMomentum || dragElastic) {
+            var velocity = info.velocity;
+            this.animateDragEnd(velocity);
+        }
+        else {
+            this.recordBoxInfo(this.constraints);
+        }
+        onDragEnd && onDragEnd(event, convertPanToDrag(info, this.point));
+    };
+    ComponentDragControls.prototype.recordBoxInfo = function (constraints) {
+        if (constraints) {
+            var right = constraints.right, left = constraints.left, bottom = constraints.bottom, top_1 = constraints.top;
+            this.prevConstraintsBox.width = (right || 0) - (left || 0);
+            this.prevConstraintsBox.height = (bottom || 0) - (top_1 || 0);
+        }
+        if (this.point.x)
+            this.prevConstraintsBox.x = this.point.x.get();
+        if (this.point.y)
+            this.prevConstraintsBox.y = this.point.y.get();
+    };
+    ComponentDragControls.prototype.snapToCursor = function (event) {
+        var _this = this;
+        var transformPagePoint = this.props.transformPagePoint;
+        var point = extractEventInfo(event).point;
+        var boundingBox = getBoundingBox(this.ref, transformPagePoint);
+        var center = {
+            x: boundingBox.width / 2 + boundingBox.left + window.scrollX,
+            y: boundingBox.height / 2 + boundingBox.top + window.scrollY,
+        };
+        var offset = {
+            x: point.x - center.x,
+            y: point.y - center.y,
+        };
+        bothAxis(function (axis) {
+            var point = _this.point[axis];
+            if (!point)
+                return;
+            _this.origin[axis].set(point.get());
+        });
+        this.updatePoint("x", offset);
+        this.updatePoint("y", offset);
+    };
+    ComponentDragControls.prototype.setPoint = function (axis, value) {
+        this.point[axis] = value;
+    };
+    ComponentDragControls.prototype.updatePoint = function (axis, offset) {
+        var _a = this.props, drag = _a.drag, dragElastic = _a.dragElastic;
+        var axisPoint = this.point[axis];
+        // If we're not dragging this axis, do an early return.
+        if (!shouldDrag(axis, drag, this.currentDirection) || !axisPoint)
+            return;
+        var current = applyConstraints(axis, this.origin[axis].get() + offset[axis], this.constraints, dragElastic);
+        axisPoint.set(current);
+    };
+    ComponentDragControls.prototype.updateProps = function (_a) {
+        var _this = this;
+        var _b = _a.drag, drag = _b === void 0 ? false : _b, _c = _a.dragDirectionLock, dragDirectionLock = _c === void 0 ? false : _c, _d = _a.dragPropagation, dragPropagation = _d === void 0 ? false : _d, _e = _a.dragConstraints, dragConstraints = _e === void 0 ? false : _e, _f = _a.dragElastic, dragElastic = _f === void 0 ? true : _f, _g = _a.dragMomentum, dragMomentum = _g === void 0 ? true : _g, remainingProps = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, ["drag", "dragDirectionLock", "dragPropagation", "dragConstraints", "dragElastic", "dragMomentum"]);
+        this.props = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({ drag: drag,
+            dragDirectionLock: dragDirectionLock,
+            dragPropagation: dragPropagation,
+            dragConstraints: dragConstraints,
+            dragElastic: dragElastic,
+            dragMomentum: dragMomentum }, remainingProps);
+        var _dragValueX = remainingProps._dragValueX, _dragValueY = remainingProps._dragValueY, dragOriginX = remainingProps.dragOriginX, dragOriginY = remainingProps.dragOriginY;
+        if (dragOriginX)
+            this.origin.x = dragOriginX;
+        if (dragOriginY)
+            this.origin.y = dragOriginY;
+        // Get the `MotionValue` for both draggable axes, or create them if they don't already
+        // exist on this component.
+        bothAxis(function (axis) {
+            if (!shouldDrag(axis, drag, _this.currentDirection))
+                return;
+            var defaultValue = axis === "x" ? _dragValueX : _dragValueY;
+            _this.setPoint(axis, defaultValue || _this.values.get(axis, 0));
+        });
+        // If `dragConstraints` is a React `ref`, we should resolve the constraints once the
+        // component has rendered.
+        this.constraintsNeedResolution = isRefObject(dragConstraints);
+        this.constraints = this.constraintsNeedResolution
+            ? this.constraints || false
+            : dragConstraints;
+    };
+    ComponentDragControls.prototype.applyConstraintsToPoint = function (constraints) {
+        var _this = this;
+        if (constraints === void 0) { constraints = this.constraints; }
+        return bothAxis(function (axis) {
+            var axisPoint = _this.point[axis];
+            axisPoint &&
+                !axisPoint.isAnimating() &&
+                applyConstraints(axis, axisPoint, constraints, 0);
+        });
+    };
+    ComponentDragControls.prototype.animateDragEnd = function (velocity) {
+        var _this = this;
+        var _a = this.props, drag = _a.drag, dragMomentum = _a.dragMomentum, dragElastic = _a.dragElastic, dragTransition = _a.dragTransition, _dragTransitionControls = _a._dragTransitionControls;
+        var momentumAnimations = bothAxis(function (axis) {
+            var _a;
+            if (!shouldDrag(axis, drag, _this.currentDirection)) {
+                return;
+            }
+            var transition = _this.constraints
+                ? getConstraints(axis, _this.constraints)
+                : {};
+            /**
+             * Overdamp the boundary spring if `dragElastic` is disabled. There's still a frame
+             * of spring animations so we should look into adding a disable spring option to `inertia`.
+             * We could do something here where we affect the `bounceStiffness` and `bounceDamping`
+             * using the value of `dragElastic`.
+             */
+            var bounceStiffness = dragElastic ? 200 : 1000000;
+            var bounceDamping = dragElastic ? 40 : 10000000;
+            var animationControls = _dragTransitionControls || _this.controls;
+            return animationControls.start((_a = {},
+                _a[axis] = 0,
+                // TODO: It might be possible to allow `type` animations to be set as
+                // Popmotion animations as well as strings. Then people could define their own
+                // and it'd open another route for us to code-split.
+                _a.transition = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({ type: "inertia", velocity: dragMomentum ? velocity[axis] : 0, bounceStiffness: bounceStiffness,
+                    bounceDamping: bounceDamping, timeConstant: 750, restDelta: 1 }, dragTransition), transition),
+                _a));
+        });
+        // Run all animations and then resolve the new drag constraints.
+        return Promise.all(momentumAnimations).then(function () {
+            _this.recordBoxInfo(_this.constraints);
+            _this.scalePoint();
+            var onDragTransitionEnd = _this.props.onDragTransitionEnd;
+            onDragTransitionEnd && onDragTransitionEnd();
+        });
+    };
+    ComponentDragControls.prototype.scalePoint = function () {
+        var _this = this;
+        var _a = this.props, dragConstraints = _a.dragConstraints, transformPagePoint = _a.transformPagePoint;
+        if (!isRefObject(dragConstraints))
+            return;
+        var constraintsBox = getBoundingBox(dragConstraints, transformPagePoint);
+        var draggableBox = getBoundingBox(this.ref, transformPagePoint);
+        // Scale a point relative to the transformation of a constraints-providing element.
+        var scaleAxisPoint = function (axis, dimension) {
+            var pointToScale = _this.point[axis];
+            if (!pointToScale)
+                return;
+            // Stop any current animations as they bug out if you resize during one
+            if (pointToScale.isAnimating()) {
+                pointToScale.stop();
+                _this.recordBoxInfo();
+                return;
+            }
+            // If the previous dimension was `0` (default), set `scale` to `1` to prevent
+            // divide by zero errors.
+            var scale = _this.prevConstraintsBox[dimension]
+                ? (constraintsBox[dimension] - draggableBox[dimension]) /
+                    _this.prevConstraintsBox[dimension]
+                : 1;
+            pointToScale.set(_this.prevConstraintsBox[axis] * scale);
+        };
+        scaleAxisPoint("x", "width");
+        scaleAxisPoint("y", "height");
+    };
+    ComponentDragControls.prototype.mount = function (element) {
+        var _this = this;
+        var stopPointerListener = addPointerEvent(element, "pointerdown", function (event) {
+            var _a = _this.props, drag = _a.drag, _b = _a.dragListener, dragListener = _b === void 0 ? true : _b;
+            drag && dragListener && _this.start(event);
+        });
+        var stopResizeListener = addDomEvent(window, "resize", function () {
+            return _this.scalePoint();
+        });
+        if (this.constraintsNeedResolution) {
+            var _a = this.props, dragConstraints = _a.dragConstraints, transformPagePoint = _a.transformPagePoint;
+            var constraints = calculateConstraintsFromDom(dragConstraints, this.ref, this.point, transformPagePoint);
+            this.applyConstraintsToPoint(constraints);
+            this.recordBoxInfo(constraints);
+        }
+        else if (!this.isDragging && this.constraints) {
+            this.applyConstraintsToPoint();
+        }
+        return function () {
+            stopPointerListener && stopPointerListener();
+            stopResizeListener && stopResizeListener();
+            _this.cancelDrag();
+        };
+    };
+    return ComponentDragControls;
+}());
+// Call a handler once for each axis
+function bothAxis(handler) {
+    return [handler("x"), handler("y")];
+}
+function convertPanToDrag(info, point) {
+    return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, info), { point: {
+            x: point.x ? point.x.get() : 0,
+            y: point.y ? point.y.get() : 0,
+        } });
+}
+function getConstraints(axis, _a) {
+    var top = _a.top, right = _a.right, bottom = _a.bottom, left = _a.left;
+    if (axis === "x") {
+        return { min: left, max: right };
+    }
+    else {
+        return { min: top, max: bottom };
+    }
+}
+function shouldDrag(direction, drag, currentDirection) {
+    return ((drag === true || drag === direction) &&
+        (currentDirection === null || currentDirection === direction));
+}
+/**
+ * Based on an x/y offset determine the current drag direction. If both axis' offsets are lower
+ * than the provided threshold, return `null`.
+ *
+ * @param offset - The x/y offset from origin.
+ * @param lockThreshold - (Optional) - the minimum absolute offset before we can determine a drag direction.
+ */
+function getCurrentDirection(offset, lockThreshold) {
+    if (lockThreshold === void 0) { lockThreshold = 10; }
+    var direction = null;
+    if (Math.abs(offset.y) > lockThreshold) {
+        direction = "y";
+    }
+    else if (Math.abs(offset.x) > lockThreshold) {
+        direction = "x";
+    }
+    return direction;
+}
+/**
+ * Takes a parent Element and a draggable Element and returns pixel-based drag constraints.
+ *
+ * @param constraintsRef
+ * @param draggableRef
+ */
+function calculateConstraintsFromDom(constraintsRef, draggableRef, point, transformPagePoint) {
+    Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["invariant"])(constraintsRef.current !== null && draggableRef.current !== null, "If `dragConstraints` is set as a React ref, that ref must be passed to another component's `ref` prop.");
+    var parentBoundingBox = getBoundingBox(constraintsRef, transformPagePoint);
+    var draggableBoundingBox = getBoundingBox(draggableRef, transformPagePoint);
+    var left = parentBoundingBox.left -
+        draggableBoundingBox.left +
+        getCurrentOffset(point.x);
+    var top = parentBoundingBox.top -
+        draggableBoundingBox.top +
+        getCurrentOffset(point.y);
+    var right = parentBoundingBox.width - draggableBoundingBox.width + left;
+    var bottom = parentBoundingBox.height - draggableBoundingBox.height + top;
+    return { top: top, left: left, right: right, bottom: bottom };
+}
+function getBoundingBox(ref, transformPagePoint) {
+    var rect = ref.current.getBoundingClientRect();
+    var _a = transformPagePoint({
+        x: rect.left,
+        y: rect.top,
+    }), left = _a.x, top = _a.y;
+    var _b = transformPagePoint({
+        x: rect.width,
+        y: rect.height,
+    }), width = _b.x, height = _b.y;
+    return { left: left, top: top, width: width, height: height };
+}
+function getCurrentOffset(point) {
+    return point ? point.get() : 0;
+}
+function applyConstraints(axis, value, constraints, dragElastic) {
+    var constrainedValue = value instanceof MotionValue ? value.get() : value;
+    if (!constraints) {
+        return constrainedValue;
+    }
+    var _a = getConstraints(axis, constraints), min = _a.min, max = _a.max;
+    if (min !== undefined && constrainedValue < min) {
+        constrainedValue = dragElastic
+            ? applyOverdrag(min, constrainedValue, dragElastic)
+            : Math.max(min, constrainedValue);
+    }
+    else if (max !== undefined && constrainedValue > max) {
+        constrainedValue = dragElastic
+            ? applyOverdrag(max, constrainedValue, dragElastic)
+            : Math.min(max, constrainedValue);
+    }
+    if (value instanceof MotionValue) {
+        value.set(constrainedValue);
+    }
+    return constrainedValue;
+}
+function applyOverdrag(origin, current, dragElastic) {
+    var dragFactor = typeof dragElastic === "number" ? dragElastic : 0.35;
+    return Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_3__["mix"])(origin, current, dragFactor);
+}
+
+/**
+ * A hook that allows an element to be dragged.
+ *
+ * @param param
+ * @param ref
+ * @param values
+ * @param controls
+ *
+ * @internal
+ */
+function useDrag(props, ref, values, controls) {
+    var groupDragControls = props.dragControls;
+    var transformPagePoint = Object(react__WEBPACK_IMPORTED_MODULE_1__["useContext"])(MotionPluginContext).transformPagePoint;
+    var dragControls = useConstant(function () { return new ComponentDragControls({ ref: ref, values: values, controls: controls }); });
+    dragControls.updateProps(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, props), { transformPagePoint: transformPagePoint }));
+    Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () { return groupDragControls && groupDragControls.subscribe(dragControls); }, [dragControls]);
+    Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () { return dragControls.mount(ref.current); }, []);
+}
+
+var Drag = {
+    key: "drag",
+    shouldRender: function (props) { return !!props.drag; },
+    Component: makeRenderlessComponent(function (_a) {
+        var innerRef = _a.innerRef, values = _a.values, controls = _a.controls, props = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, ["innerRef", "values", "controls"]);
+        return useDrag(props, innerRef, values, controls);
+    }),
+};
+
+function isCSSVariable(value) {
+    return typeof value === "string" && value.startsWith("var(--");
+}
+/**
+ * Parse Framer's special CSS variable format into a CSS token and a fallback.
+ *
+ * ```
+ * `var(--foo, #fff)` => [`--foo`, '#fff']
+ * ```
+ *
+ * @param current
+ */
+var cssVariableRegex = /var\((--[a-zA-Z0-9-_]+),? ?([a-zA-Z0-9 ()%#.,-]+)?\)/;
+function parseCSSVariable(current) {
+    var match = cssVariableRegex.exec(current);
+    if (!match)
+        return [,];
+    var token = match[1], fallback = match[2];
+    return [token, fallback];
+}
+var maxDepth = 4;
+function getVariableValue(current, element, depth) {
+    if (depth === void 0) { depth = 1; }
+    Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["invariant"])(depth <= maxDepth, "Max CSS variable fallback depth detected in property \"" + current + "\". This may indicate a circular fallback dependency.");
+    var _a = parseCSSVariable(current), token = _a[0], fallback = _a[1];
+    // No CSS variable detected
+    if (!token)
+        return;
+    // Attempt to read this CSS variable off the element
+    var resolved = window.getComputedStyle(element).getPropertyValue(token);
+    if (resolved) {
+        return resolved;
+    }
+    else if (isCSSVariable(fallback)) {
+        // The fallback might itself be a CSS variable, in which case we attempt to resolve it too.
+        return getVariableValue(fallback, element, depth + 1);
+    }
+    else {
+        return fallback;
+    }
+}
+/**
+ * Resolve CSS variables from
+ *
+ * @internal
+ */
+function resolveCSSVariables(values, ref, _a, transitionEnd) {
+    var target = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, []);
+    var element = ref.current;
+    if (!(element instanceof HTMLElement))
+        return { target: target, transitionEnd: transitionEnd };
+    // If `transitionEnd` isn't `undefined`, clone it. We could clone `target` and `transitionEnd`
+    // only if they change but I think this reads clearer and this isn't a performance-critical path.
+    if (transitionEnd) {
+        transitionEnd = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, transitionEnd);
+    }
+    // Go through existing `MotionValue`s and ensure any existing CSS variables are resolved
+    values.forEach(function (value) {
+        var current = value.get();
+        if (!isCSSVariable(current))
+            return;
+        var resolved = getVariableValue(current, element);
+        if (resolved)
+            value.set(resolved);
+    });
+    // Cycle through every target property and resolve CSS variables. Currently
+    // we only read single-var properties like `var(--foo)`, not `calc(var(--foo) + 20px)`
+    for (var key in target) {
+        var current = target[key];
+        if (!isCSSVariable(current))
+            continue;
+        var resolved = getVariableValue(current, element);
+        if (!resolved)
+            continue;
+        // Clone target if it hasn't already been
+        target[key] = resolved;
+        // If the user hasn't already set this key on `transitionEnd`, set it to the unresolved
+        // CSS variable. This will ensure that after the animation the component will reflect
+        // changes in the value of the CSS variable.
+        if (transitionEnd && transitionEnd[key] === undefined) {
+            transitionEnd[key] = current;
+        }
+    }
+    return { target: target, transitionEnd: transitionEnd };
+}
+
+var positionalKeys = new Set([
+    "width",
+    "height",
+    "top",
+    "left",
+    "right",
+    "bottom",
+    "x",
+    "y",
+]);
+var isPositionalKey = function (key) { return positionalKeys.has(key); };
+var hasPositionalKey = function (target) {
+    return Object.keys(target).some(isPositionalKey);
+};
+var setAndResetVelocity = function (value, to) {
+    // Looks odd but setting it twice doesn't render, it'll just
+    // set both prev and current to the latest value
+    value.set(to, false);
+    value.set(to);
+};
+var isNumOrPxType = function (v) {
+    return v === style_value_types__WEBPACK_IMPORTED_MODULE_6__["number"] || v === style_value_types__WEBPACK_IMPORTED_MODULE_6__["px"];
+};
+var BoundingBoxDimension;
+(function (BoundingBoxDimension) {
+    BoundingBoxDimension["width"] = "width";
+    BoundingBoxDimension["height"] = "height";
+    BoundingBoxDimension["left"] = "left";
+    BoundingBoxDimension["right"] = "right";
+    BoundingBoxDimension["top"] = "top";
+    BoundingBoxDimension["bottom"] = "bottom";
+})(BoundingBoxDimension || (BoundingBoxDimension = {}));
+var getPosFromMatrix = function (matrix, pos) {
+    return parseFloat(matrix.split(", ")[pos]);
+};
+var getTranslateFromMatrix = function (pos2, pos3) { return function (_bbox, _a) {
+    var transform = _a.transform;
+    if (transform === "none" || !transform)
+        return 0;
+    var matrix3d = transform.match(/^matrix3d\((.+)\)$/);
+    if (matrix3d) {
+        return getPosFromMatrix(matrix3d[1], pos3);
+    }
+    else {
+        var matrix = transform.match(/^matrix\((.+)\)$/);
+        return getPosFromMatrix(matrix[1], pos2);
+    }
+}; };
+var transformKeys = new Set(["x", "y", "z"]);
+var nonTranslationalTransformKeys = stylefire__WEBPACK_IMPORTED_MODULE_4__["transformProps"].filter(function (key) { return !transformKeys.has(key); });
+function removeNonTranslationalTransform(values, elementStyler) {
+    var removedTransforms = [];
+    nonTranslationalTransformKeys.forEach(function (key) {
+        var value = values.get(key);
+        if (value !== undefined) {
+            removedTransforms.push([key, value.get()]);
+            value.set(key.startsWith("scale") ? 1 : 0);
+        }
+    });
+    // Apply changes to element before measurement
+    if (removedTransforms.length)
+        elementStyler.render();
+    return removedTransforms;
+}
+var positionalValues = {
+    // Dimensions
+    width: function (_a) {
+        var width = _a.width;
+        return width;
+    },
+    height: function (_a) {
+        var height = _a.height;
+        return height;
+    },
+    top: function (_bbox, _a) {
+        var top = _a.top;
+        return parseFloat(top);
+    },
+    left: function (_bbox, _a) {
+        var left = _a.left;
+        return parseFloat(left);
+    },
+    bottom: function (_a, _b) {
+        var height = _a.height;
+        var top = _b.top;
+        return parseFloat(top) + height;
+    },
+    right: function (_a, _b) {
+        var width = _a.width;
+        var left = _b.left;
+        return parseFloat(left) + width;
+    },
+    // Transform
+    x: getTranslateFromMatrix(4, 13),
+    y: getTranslateFromMatrix(5, 14),
+};
+var convertChangedValueTypes = function (target, values, element, elementStyler, changedKeys) {
+    var originBbox = element.getBoundingClientRect();
+    var elementComputedStyle = getComputedStyle(element);
+    var display = elementComputedStyle.display, top = elementComputedStyle.top, left = elementComputedStyle.left, bottom = elementComputedStyle.bottom, right = elementComputedStyle.right, transform = elementComputedStyle.transform;
+    var originComputedStyle = { top: top, left: left, bottom: bottom, right: right, transform: transform };
+    // If the element is currently set to display: "none", make it visible before
+    // measuring the target bounding box
+    if (display === "none") {
+        elementStyler.set("display", target.display || "block");
+    }
+    // Apply the latest values (as set in checkAndConvertChangedValueTypes)
+    elementStyler.render();
+    var targetBbox = element.getBoundingClientRect();
+    changedKeys.forEach(function (key) {
+        // Restore styles to their **calculated computed style**, not their actual
+        // originally set style. This allows us to animate between equivalent pixel units.
+        var value = values.get(key);
+        setAndResetVelocity(value, positionalValues[key](originBbox, originComputedStyle));
+        target[key] = positionalValues[key](targetBbox, elementComputedStyle);
+    });
+    return target;
+};
+var checkAndConvertChangedValueTypes = function (values, ref, target, transitionEnd) {
+    if (transitionEnd === void 0) { transitionEnd = {}; }
+    target = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, target);
+    transitionEnd = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, transitionEnd);
+    var element = ref.current;
+    var elementStyler = Object(stylefire__WEBPACK_IMPORTED_MODULE_4__["default"])(element);
+    var targetPositionalKeys = Object.keys(target).filter(isPositionalKey);
+    // We want to remove any transform values that could affect the element's bounding box before
+    // it's measured. We'll reapply these later.
+    var removedTransformValues = [];
+    var hasAttemptedToRemoveTransformValues = false;
+    var changedValueTypeKeys = targetPositionalKeys.reduce(function (acc, key) {
+        var value = values.get(key);
+        if (!value)
+            return acc;
+        var from = value.get();
+        var to = target[key];
+        var fromType = getDimensionValueType(from);
+        var toType;
+        // TODO: The current implementation of this basically throws an error
+        // if you try and do value conversion via keyframes. There's probably
+        // a way of doing this but the performance implications would need greater scrutiny,
+        // as it'd be doing multiple resize-remeasure operations.
+        if (isKeyframesTarget(to)) {
+            var numKeyframes = to.length;
+            for (var i = to[0] === null ? 1 : 0; i < numKeyframes; i++) {
+                if (!toType) {
+                    toType = getDimensionValueType(to[i]);
+                    Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["invariant"])(toType === fromType ||
+                        (isNumOrPxType(fromType) &&
+                            isNumOrPxType(toType)), "Keyframes must be of the same dimension as the current value");
+                }
+                else {
+                    Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["invariant"])(getDimensionValueType(to[i]) === toType, "All keyframes must be of the same type");
+                }
+            }
+        }
+        else {
+            toType = getDimensionValueType(to);
+        }
+        if (fromType !== toType) {
+            // If they're both just number or px, convert them both to numbers rather than
+            // relying on resize/remeasure to convert (which is wasteful in this situation)
+            if (isNumOrPxType(fromType) && isNumOrPxType(toType)) {
+                var current = value.get();
+                if (typeof current === "string") {
+                    value.set(parseFloat(current));
+                }
+                if (typeof to === "string") {
+                    target[key] = parseFloat(to);
+                }
+                else if (Array.isArray(to) && toType === style_value_types__WEBPACK_IMPORTED_MODULE_6__["px"]) {
+                    target[key] = to.map(parseFloat);
+                }
+            }
+            else {
+                // If we're going to do value conversion via DOM measurements, we first
+                // need to remove non-positional transform values that could affect the bbox measurements.
+                if (!hasAttemptedToRemoveTransformValues) {
+                    removedTransformValues = removeNonTranslationalTransform(values, elementStyler);
+                    hasAttemptedToRemoveTransformValues = true;
+                }
+                acc.push(key);
+                transitionEnd[key] =
+                    transitionEnd[key] !== undefined
+                        ? transitionEnd[key]
+                        : target[key];
+                setAndResetVelocity(value, to);
+            }
+        }
+        return acc;
+    }, []);
+    if (changedValueTypeKeys.length) {
+        var convertedTarget = convertChangedValueTypes(target, values, element, elementStyler, changedValueTypeKeys);
+        // If we removed transform values, reapply them before the next render
+        if (removedTransformValues.length) {
+            removedTransformValues.forEach(function (_a) {
+                var key = _a[0], value = _a[1];
+                values.get(key).set(value);
+            });
+        }
+        // Reapply original values
+        elementStyler.render();
+        return { target: convertedTarget, transitionEnd: transitionEnd };
+    }
+    else {
+        return { target: target, transitionEnd: transitionEnd };
+    }
+};
+/**
+ * Convert value types for x/y/width/height/top/left/bottom/right
+ *
+ * Allows animation between `'auto'` -> `'100%'` or `0` -> `'calc(50% - 10vw)'`
+ *
+ * @param values
+ * @param ref
+ * @param target
+ * @param transitionEnd
+ * @internal
+ */
+function unitConversion(values, ref, target, transitionEnd) {
+    return hasPositionalKey(target)
+        ? checkAndConvertChangedValueTypes(values, ref, target, transitionEnd)
+        : { target: target, transitionEnd: transitionEnd };
+}
+
+var parseDomVariant = function (values, ref) {
+    return function (target, transitionEnd) {
+        var resolved = resolveCSSVariables(values, ref, target, transitionEnd);
+        target = resolved.target;
+        transitionEnd = resolved.transitionEnd;
+        return unitConversion(values, ref, target, transitionEnd);
+    };
+};
+
+function useForceUpdate() {
+    var _a = Object(react__WEBPACK_IMPORTED_MODULE_1__["useState"])(0), forcedRenderCount = _a[0], setForcedRenderCount = _a[1];
+    return Object(react__WEBPACK_IMPORTED_MODULE_1__["useCallback"])(function () { return setForcedRenderCount(forcedRenderCount + 1); }, [
+        forcedRenderCount,
+    ]);
+}
+
+var SyncLayoutContext = Object(react__WEBPACK_IMPORTED_MODULE_1__["createContext"])(null);
+/**
+ * When layout changes happen asynchronously to their instigating render (ie when exiting
+ * children of `AnimatePresence` are removed), `SyncLayout` can wrap parent and sibling
+ * components that need to animate as a result of this layout change.
+ *
+ * @motion
+ *
+ * ```jsx
+ * const MyComponent = ({ isVisible }) => {
+ *   return (
+ *     <SyncLayout>
+ *       <AnimatePresence>
+ *         {isVisible && (
+ *           <motion.div exit={{ opacity: 0 }} />
+ *         )}
+ *       </AnimatePresence>
+ *       <motion.div positionTransition />
+ *     </SyncLayout>
+ *   )
+ * }
+ * ```
+ *
+ * @internalremarks
+ *
+ * The way this component works is by memoising a function and passing it down via context.
+ * The function, when called, updates the local state, which is used to invalidate the
+ * memoisation cache. A new function is called, performing a synced re-render of components
+ * that are using the SyncLayoutContext.
+ *
+ * @internal
+ */
+var UnstableSyncLayout = function (_a) {
+    var children = _a.children;
+    var forceUpdate = useForceUpdate();
+    return (Object(react__WEBPACK_IMPORTED_MODULE_1__["createElement"])(SyncLayoutContext.Provider, { value: forceUpdate }, children));
+};
+
+var _a;
+var StepName;
+(function (StepName) {
+    StepName["Prepare"] = "prepare";
+    StepName["Read"] = "read";
+    StepName["Render"] = "render";
+})(StepName || (StepName = {}));
+var stepOrder = [StepName.Prepare, StepName.Read, StepName.Render];
+var jobs = stepOrder.reduce(function (acc, key) {
+    acc[key] = [];
+    return acc;
+}, {});
+var jobsNeedProcessing = false;
+function flushCallbackList(list) {
+    var numJobs = list.length;
+    for (var i = 0; i < numJobs; i++) {
+        list[i]();
+    }
+    list.length = 0;
+}
+function flushAllJobs() {
+    if (!jobsNeedProcessing)
+        return;
+    flushCallbackList(jobs.prepare);
+    flushCallbackList(jobs.read);
+    flushCallbackList(jobs.render);
+    jobsNeedProcessing = false;
+}
+// Note: The approach of schedulng jobs during the render step is incompatible with concurrent mode
+// where multiple renders might happen without a DOM update. This would result in unneccessary batched
+// jobs. But this was already a problem with our previous approach to positionTransition.
+// Hopefully the React team offer a getSnapshotBeforeUpdate-esque hook and we can move to that.
+var createUseSyncEffect = function (stepName) { return function (callback) {
+    if (!callback)
+        return;
+    jobsNeedProcessing = true;
+    jobs[stepName].push(callback);
+}; };
+var layoutSync = (_a = {},
+    _a[StepName.Prepare] = createUseSyncEffect(StepName.Prepare),
+    _a[StepName.Read] = createUseSyncEffect(StepName.Read),
+    _a[StepName.Render] = createUseSyncEffect(StepName.Render),
+    _a.flush = flushAllJobs,
+    _a);
+
+function isHTMLElement(element) {
+    return element instanceof HTMLElement;
+}
+
+var defaultLayoutTransition = {
+    duration: 0.8,
+    ease: [0.45, 0.05, 0.19, 1.0],
+};
+var defaultPositionTransition = underDampedSpring();
+function getDefaultLayoutTransition(isPositionOnly) {
+    return isPositionOnly ? defaultPositionTransition : defaultLayoutTransition;
+}
+function isResolver(transition) {
+    return typeof transition === "function";
+}
+var axisLabels = {
+    x: {
+        id: "x",
+        size: "width",
+        min: "left",
+        max: "right",
+        origin: "originX",
+    },
+    y: {
+        id: "y",
+        size: "height",
+        min: "top",
+        max: "bottom",
+        origin: "originY",
+    },
+};
+function centerOf(min, max) {
+    return (min + max) / 2;
+}
+function calcAxisDelta(prev, next, names) {
+    var _a;
+    var sizeDelta = prev[names.size] - next[names.size];
+    var origin = 0.5;
+    // If the element has changed size we want to check whether either side is in
+    // the same position before/after the layout transition. If so, we can anchor
+    // the element to that position and only animate its size.
+    if (sizeDelta) {
+        if (prev[names.min] === next[names.min]) {
+            origin = 0;
+        }
+        else if (prev[names.max] === next[names.max]) {
+            origin = 1;
+        }
+    }
+    var delta = (_a = {},
+        _a[names.size] = sizeDelta,
+        _a[names.origin] = origin,
+        _a[names.id] = 
+        // Only measure a position delta if we haven't anchored to one side
+        origin === 0.5
+            ? centerOf(prev[names.min], prev[names.max]) -
+                centerOf(next[names.min], next[names.max])
+            : 0,
+        _a);
+    return delta;
+}
+function calcDelta(prev, next) {
+    var delta = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, calcAxisDelta(prev, next, axisLabels.x)), calcAxisDelta(prev, next, axisLabels.y));
+    return delta;
+}
+var offset = {
+    getLayout: function (_a) {
+        var offset = _a.offset;
+        return offset;
+    },
+    measure: function (element) {
+        var offsetLeft = element.offsetLeft, offsetTop = element.offsetTop, offsetWidth = element.offsetWidth, offsetHeight = element.offsetHeight;
+        return {
+            left: offsetLeft,
+            top: offsetTop,
+            right: offsetLeft + offsetWidth,
+            bottom: offsetTop + offsetHeight,
+            width: offsetWidth,
+            height: offsetHeight,
+        };
+    },
+};
+var boundingBox = {
+    getLayout: function (_a) {
+        var boundingBox = _a.boundingBox;
+        return boundingBox;
+    },
+    measure: function (element) {
+        var _a = element.getBoundingClientRect(), left = _a.left, top = _a.top, width = _a.width, height = _a.height, right = _a.right, bottom = _a.bottom;
+        return { left: left, top: top, width: width, height: height, right: right, bottom: bottom };
+    },
+};
+function readPositionStyle(element) {
+    return window.getComputedStyle(element).position;
+}
+function getLayoutType(prev, next, isPositionOnly) {
+    return isPositionOnly && prev === next ? offset : boundingBox;
+}
+function isSizeKey(key) {
+    return key === "width" || key === "height";
+}
+function getTransition(_a) {
+    var layoutTransition = _a.layoutTransition, positionTransition = _a.positionTransition;
+    return layoutTransition || positionTransition;
+}
+var LayoutAnimation = /** @class */ (function (_super) {
+    Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__extends"])(LayoutAnimation, _super);
+    function LayoutAnimation() {
+        return _super !== null && _super.apply(this, arguments) || this;
+    }
+    // Measure the current state of the DOM before it's updated, and schedule checks to see
+    // if it's changed as a result of a React render.
+    LayoutAnimation.prototype.getSnapshotBeforeUpdate = function () {
+        var _a = this.props, innerRef = _a.innerRef, positionTransition = _a.positionTransition, values = _a.values, controls = _a.controls;
+        var element = innerRef.current;
+        if (!isHTMLElement(element))
+            return;
+        var layoutTransition = getTransition(this.props);
+        var isPositionOnly = !!positionTransition;
+        var positionStyle = readPositionStyle(element);
+        var prev = {
+            offset: offset.measure(element),
+            boundingBox: boundingBox.measure(element),
+        };
+        var transform;
+        var next;
+        var compare;
+        // We split the unsetting, read and reapplication of the `transform` style prop into
+        // different steps via useSyncEffect. Multiple components might all be doing the same
+        // thing and by splitting these jobs and flushing them in batches we prevent layout thrashing.
+        layoutSync.prepare(function () {
+            // Unset the transform of all layoutTransition components so we can accurately measure
+            // the target bounding box
+            transform = element.style.transform;
+            element.style.transform = "";
+        });
+        layoutSync.read(function () {
+            // Read the target VisualInfo of all layoutTransition components
+            next = {
+                offset: offset.measure(element),
+                boundingBox: boundingBox.measure(element),
+            };
+            var nextPosition = readPositionStyle(element);
+            compare = getLayoutType(positionStyle, nextPosition, isPositionOnly);
+        });
+        layoutSync.render(function () {
+            // Reverse the layout delta of all newly laid-out layoutTransition components into their
+            // prev visual state and then animate them into their new one using transforms.
+            var prevLayout = compare.getLayout(prev);
+            var nextLayout = compare.getLayout(next);
+            var delta = calcDelta(prevLayout, nextLayout);
+            var hasAnyChanged = delta.x || delta.y || delta.width || delta.height;
+            if (!hasAnyChanged) {
+                // If layout hasn't changed, reapply the transform and get out of here.
+                transform && (element.style.transform = transform);
+                return;
+            }
+            Object(stylefire__WEBPACK_IMPORTED_MODULE_4__["default"])(element).set({
+                originX: delta.originX,
+                originY: delta.originY,
+            });
+            syncRenderSession.open();
+            var target = {};
+            var transition = {};
+            var transitionDefinition = isResolver(layoutTransition)
+                ? layoutTransition({ delta: delta })
+                : layoutTransition;
+            function makeTransition(layoutKey, transformKey, targetValue, visualOrigin) {
+                // If this dimension hasn't changed, early return
+                var deltaKey = isSizeKey(layoutKey) ? layoutKey : transformKey;
+                if (!delta[deltaKey])
+                    return;
+                var baseTransition = typeof transitionDefinition === "boolean"
+                    ? Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, getDefaultLayoutTransition(isPositionOnly)) : transitionDefinition;
+                var value = values.get(transformKey, targetValue);
+                var velocity = value.getVelocity();
+                transition[transformKey] = baseTransition[transformKey]
+                    ? Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, baseTransition[transformKey]) : Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, baseTransition);
+                if (transition[transformKey].velocity === undefined) {
+                    transition[transformKey].velocity = velocity || 0;
+                }
+                // The target value of all transforms is the default value of that prop (ie x = 0, scaleX = 1)
+                // This is because we're inverting the layout change with `transform` and then animating to `transform: none`
+                target[transformKey] = targetValue;
+                var offsetToApply = !isSizeKey(layoutKey) && compare === offset
+                    ? value.get()
+                    : 0;
+                value.set(visualOrigin + offsetToApply);
+            }
+            makeTransition("left", "x", 0, delta.x);
+            makeTransition("top", "y", 0, delta.y);
+            if (!isPositionOnly) {
+                makeTransition("width", "scaleX", 1, prev.boundingBox.width / next.boundingBox.width);
+                makeTransition("height", "scaleY", 1, prev.boundingBox.height / next.boundingBox.height);
+            }
+            target.transition = transition;
+            // Only start the transition if `transitionDefinition` isn't `false`. Otherwise we want
+            // to leave the values in their newly-inverted state and let the user cope with the rest.
+            transitionDefinition && controls.start(target);
+            // Force a render to ensure there's no visual flickering
+            syncRenderSession.flush();
+        });
+        return null;
+    };
+    LayoutAnimation.prototype.componentDidUpdate = function () {
+        layoutSync.flush();
+    };
+    LayoutAnimation.prototype.render = function () {
+        return null;
+    };
+    LayoutAnimation.contextType = SyncLayoutContext;
+    return LayoutAnimation;
+}(react__WEBPACK_IMPORTED_MODULE_1__["Component"]));
+var Layout = {
+    key: "layout",
+    shouldRender: function (_a) {
+        var positionTransition = _a.positionTransition, layoutTransition = _a.layoutTransition;
+        Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["invariant"])(!(positionTransition && layoutTransition), "Don't set both positionTransition and layoutTransition on the same component");
+        return (typeof window !== "undefined" &&
+            !!(positionTransition || layoutTransition));
+    },
+    Component: LayoutAnimation,
+};
+
+/**
+ * A list of all valid MotionProps
+ *
+ * @internalremarks
+ * This doesn't throw if a `MotionProp` name is missing - it should.
+ */
+var validMotionProps = new Set([
+    "initial",
+    "animate",
+    "exit",
+    "style",
+    "variants",
+    "transition",
+    "transformTemplate",
+    "transformValues",
+    "custom",
+    "inherit",
+    "static",
+    "positionTransition",
+    "layoutTransition",
+    "onAnimationStart",
+    "onAnimationComplete",
+    "onUpdate",
+    "onDragStart",
+    "onDrag",
+    "onDragEnd",
+    "onDirectionLock",
+    "onDragTransitionEnd",
+    "drag",
+    "dragControls",
+    "dragListener",
+    "dragConstraints",
+    "dragDirectionLock",
+    "dragElastic",
+    "dragMomentum",
+    "dragPropagation",
+    "dragTransition",
+    "_dragValueX",
+    "_dragValueY",
+    "_dragTransitionControls",
+    "dragOriginX",
+    "dragOriginY",
+    "onPan",
+    "onPanStart",
+    "onPanEnd",
+    "onPanSessionStart",
+    "onTap",
+    "onTapStart",
+    "onTapCancel",
+    "whileHover",
+    "whileTap",
+    "onHoverEnd",
+    "onHoverStart",
+]);
+/**
+ * Check whether a prop name is a valid `MotionProp` key.
+ *
+ * @param key - Name of the property to check
+ * @returns `true` is key is a valid `MotionProp`.
+ *
+ * @public
+ */
+function isValidMotionProp(key) {
+    return validMotionProps.has(key);
+}
+
+var AnimatePropType;
+(function (AnimatePropType) {
+    AnimatePropType["Target"] = "Target";
+    AnimatePropType["VariantLabel"] = "VariantLabel";
+    AnimatePropType["AnimationSubscription"] = "AnimationSubscription";
+})(AnimatePropType || (AnimatePropType = {}));
+
+function shallowCompare(next, prev) {
+    if (prev === null)
+        return false;
+    var prevLength = prev.length;
+    if (prevLength !== next.length)
+        return false;
+    for (var i = 0; i < prevLength; i++) {
+        if (prev[i] !== next[i])
+            return false;
+    }
+    return true;
+}
+
+var hasUpdated = function (prev, next) {
+    return (next !== undefined &&
+        (Array.isArray(prev) && Array.isArray(next)
+            ? !shallowCompare(next, prev)
+            : prev !== next));
+};
+function targetWithoutTransition(_a, mergeTransitionEnd) {
+    if (mergeTransitionEnd === void 0) { mergeTransitionEnd = false; }
+    var transition = _a.transition, transitionEnd = _a.transitionEnd, target = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, ["transition", "transitionEnd"]);
+    return mergeTransitionEnd
+        ? Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, target), transitionEnd)
+        : target;
+}
+/**
+ * Handle the `animate` prop when its an object of values, ie:
+ *
+ * ```jsx
+ * <motion.div animate={{ opacity: 1 }} />
+ * ```
+ *
+ * @internalremarks
+ * It might be worth consolidating this with `use-variants`
+ *
+ * ```jsx
+ * <motion.div animate="visible" />
+ * ```
+ *
+ * @param target
+ * @param controls
+ * @param values
+ * @param transition
+ *
+ * @internal
+ */
+function useAnimateProp(targetAndTransition, controls, values, defaultTransition) {
+    var isInitialRender = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(true);
+    var prevValues = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(null);
+    if (!prevValues.current) {
+        prevValues.current = targetWithoutTransition(targetAndTransition, true);
+    }
+    Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () {
+        var targetToAnimate = {};
+        // These are the values we're actually animating
+        var animatingTarget = targetWithoutTransition(targetAndTransition);
+        // This is the target as it'll be once transitionEnd values are applied
+        var finalTarget = targetWithoutTransition(targetAndTransition, true);
+        // Detect which values have changed between renders
+        for (var key in animatingTarget) {
+            // This value should animate on mount if this value doesn't already exist (wasn't
+            // defined in `style` or `initial`) or if it does exist and it's already changed.
+            var shouldAnimateOnMount = isInitialRender.current &&
+                (!values.has(key) ||
+                    values.get(key).get() !== finalTarget[key]);
+            // If this value has updated between renders or it's we're animating this value on mount,
+            // add it to the animate target.
+            var isValidValue = finalTarget[key] !== null;
+            var valueHasUpdated = hasUpdated(prevValues.current[key], finalTarget[key]);
+            if (isValidValue && (valueHasUpdated || shouldAnimateOnMount)) {
+                targetToAnimate[key] = animatingTarget[key];
+            }
+        }
+        isInitialRender.current = false;
+        prevValues.current = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, prevValues.current), finalTarget);
+        if (Object.keys(targetToAnimate).length) {
+            controls.start(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, targetToAnimate), { transition: targetAndTransition.transition || defaultTransition, transitionEnd: targetAndTransition.transitionEnd }));
+        }
+    }, [targetAndTransition]);
+}
+
+var labelsToArray = function (label) {
+    if (!label) {
+        return [];
+    }
+    if (Array.isArray(label)) {
+        return label;
+    }
+    return [label];
+};
+var resolveVariantLabels = function (variant) {
+    var unresolvedVariant = variant instanceof MotionValue ? variant.get() : variant;
+    return Array.from(new Set(labelsToArray(unresolvedVariant)));
+};
+/**
+ * Hooks in React sometimes accept a dependency array as their final argument. (ie useEffect/useMemo)
+ * When values in this array change, React re-runs the dependency. However if the array
+ * contains a variable number of items, React throws an error.
+ */
+var asDependencyList = function (list) { return [
+    list.join(","),
+]; };
+
+var hasVariantChanged = function (oldVariant, newVariant) {
+    return oldVariant.join(",") !== newVariant.join(",");
+};
+/**
+ * Handle variants and the `animate` prop when its set as variant labels.
+ *
+ * @param initial - Initial variant(s)
+ * @param animate - Variant(s) to animate to
+ * @param inherit - `true` is inheriting animations from parent
+ * @param controls - Animation controls
+ *
+ * @internal
+ */
+function useVariants(initial, animate, inherit, controls) {
+    var targetVariants = resolveVariantLabels(animate);
+    var context = Object(react__WEBPACK_IMPORTED_MODULE_1__["useContext"])(MotionContext);
+    var parentAlreadyMounted = context.hasMounted && context.hasMounted.current;
+    var hasMounted = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(false);
+    Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () {
+        var shouldAnimate = false;
+        if (inherit) {
+            // If we're inheriting variant changes and the parent has already
+            // mounted when this component loads, we need to manually trigger
+            // this animation.
+            shouldAnimate = !!parentAlreadyMounted;
+            targetVariants = resolveVariantLabels(context.animate);
+        }
+        else {
+            shouldAnimate =
+                hasMounted.current ||
+                    hasVariantChanged(resolveVariantLabels(initial), targetVariants);
+        }
+        shouldAnimate && controls.start(targetVariants);
+        hasMounted.current = true;
+    }, asDependencyList(targetVariants));
+}
+
+/**
+ * `useAnimationGroupSubscription` allows a component to subscribe to an
+ * externally-created `AnimationControls`, created by the `useAnimation` hook.
+ *
+ * @param animation
+ * @param controls
+ *
+ * @internal
+ */
+function useAnimationGroupSubscription(animation, controls) {
+    var unsubscribe = Object(react__WEBPACK_IMPORTED_MODULE_1__["useMemo"])(function () { return animation.subscribe(controls); }, [
+        animation,
+    ]);
+    Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () { return function () {
+        unsubscribe && unsubscribe();
+    }; }, [unsubscribe]);
+}
+
+var _a$1, _b;
+var AnimatePropComponents = (_a$1 = {},
+    _a$1[AnimatePropType.Target] = makeRenderlessComponent(function (_a) {
+        var animate = _a.animate, controls = _a.controls, values = _a.values, transition = _a.transition;
+        return useAnimateProp(animate, controls, values, transition);
+    }),
+    _a$1[AnimatePropType.VariantLabel] = makeRenderlessComponent(function (_a) {
+        var animate = _a.animate, _b = _a.inherit, inherit = _b === void 0 ? true : _b, controls = _a.controls, initial = _a.initial;
+        return useVariants(initial, animate, inherit, controls);
+    }),
+    _a$1[AnimatePropType.AnimationSubscription] = makeRenderlessComponent(function (_a) {
+        var animate = _a.animate, controls = _a.controls;
+        return useAnimationGroupSubscription(animate, controls);
+    }),
+    _a$1);
+var isVariantLabel$1 = function (prop) {
+    return Array.isArray(prop) || typeof prop === "string";
+};
+var isAnimationSubscription = function (_a) {
+    var animate = _a.animate;
+    return animate instanceof AnimationControls;
+};
+var animationProps = ["initial", "animate", "whileTap", "whileHover"];
+var animatePropTypeTests = (_b = {},
+    _b[AnimatePropType.Target] = function (props) {
+        return (props.animate !== undefined &&
+            !isVariantLabel$1(props.animate) &&
+            !isAnimationSubscription(props));
+    },
+    _b[AnimatePropType.VariantLabel] = function (props) {
+        return (props.variants !== undefined ||
+            animationProps.some(function (key) { return typeof props[key] === "string"; }));
+    },
+    _b[AnimatePropType.AnimationSubscription] = isAnimationSubscription,
+    _b);
+var getAnimationComponent = function (props) {
+    var animatePropType = undefined;
+    for (var key in AnimatePropType) {
+        if (animatePropTypeTests[key](props)) {
+            animatePropType = key;
+        }
+    }
+    return animatePropType ? AnimatePropComponents[animatePropType] : undefined;
+};
+
+var Exit = {
+    key: "exit",
+    shouldRender: function (_a, _b) {
+        var exit = _a.exit;
+        var exitProps = _b.exitProps;
+        var hasExitProps = !!exitProps;
+        var hasExitAnimation = !!exit;
+        Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["invariant"])(!hasExitProps || (hasExitProps && hasExitAnimation), "No exit prop defined on a child of AnimatePresence.");
+        return hasExitProps && hasExitAnimation;
+    },
+    Component: makeRenderlessComponent(function (props) {
+        var animate = props.animate, controls = props.controls, parentContext = props.parentContext, exit = props.exit;
+        var exitProps = parentContext.exitProps;
+        var isPlayingExitAnimation = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(false);
+        // This early return is more for types - it won't actually run because of the `shouldRender` above.
+        if (!exitProps || !exit)
+            return;
+        var isExiting = exitProps.isExiting, custom = exitProps.custom, onExitComplete = exitProps.onExitComplete;
+        Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () {
+            if (isExiting) {
+                if (!isPlayingExitAnimation.current && exit) {
+                    controls.setProps(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, props), { custom: custom !== undefined ? custom : props.custom }));
+                    controls.start(exit).then(onExitComplete);
+                }
+                isPlayingExitAnimation.current = true;
+            }
+            else if (isPlayingExitAnimation.current &&
+                animate &&
+                !(animate instanceof AnimationControls)) {
+                controls.start(animate);
+            }
+            if (!isExiting) {
+                isPlayingExitAnimation.current = false;
+            }
+        }, [isExiting]);
+    }),
+};
+
+var isPropValid = function (key) { return !isValidMotionProp(key); };
+/**
+ * Emotion and Styled Components both allow users to pass through arbitrary props to their components
+ * to dynamically generate CSS. They both use the `@emotion/is-prop-valid` package to determine which
+ * of these should be passed to the underlying DOM node.
+ *
+ * However, when styling a Motion component `styled(motion.div)`, both packages pass through *all* props
+ * as it's seen as an arbitrary component rather than a DOM node. Motion only allows arbitrary props
+ * passed through the `custom` prop so it doesn't *need* the payload or computational overhead of
+ * `@emotion/is-prop-valid`, however to fix this problem we need to use it.
+ *
+ * By making it an optionalDependency we can offer this functionality only in the situations where it's
+ * actually required.
+ */
+try {
+    var emotionIsPropValid_1 = __webpack_require__(/*! @emotion/is-prop-valid */ "./node_modules/@emotion/is-prop-valid/dist/is-prop-valid.browser.esm.js").default;
+    isPropValid = function (key) {
+        // Handle events explicitly as Emotion validates them all as true
+        if (key.startsWith("on")) {
+            return !isValidMotionProp(key);
+        }
+        else {
+            return emotionIsPropValid_1(key);
+        }
+    };
+}
+catch (_a) {
+    // We don't need to actually do anything here - the fallback is the existing `isPropValid`.
+}
+function filterValidProps(props) {
+    var domProps = {};
+    for (var key in props) {
+        if (isPropValid(key)) {
+            domProps[key] = props[key];
+        }
+    }
+    return domProps;
+}
+var buildSVGProps = function (values, style) {
+    var motionValueStyles = resolveCurrent(values);
+    var props = Object(stylefire__WEBPACK_IMPORTED_MODULE_4__["buildSVGAttrs"])(motionValueStyles, undefined, undefined, undefined, undefined, false);
+    props.style = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, style), props.style);
+    return props;
+};
+var functionalityComponents = [Layout, Drag, Gestures, Exit];
+var numFunctionalityComponents = functionalityComponents.length;
+/**
+ * Create a configuration for `motion` components that provides DOM-specific functionality.
+ *
+ * @internal
+ */
+function createDomMotionConfig(Component) {
+    var isDOM = typeof Component === "string";
+    var isSVG = isDOM && svgElements.indexOf(Component) !== -1;
+    return {
+        renderComponent: function (ref, style, values, props, isStatic) {
+            var forwardedProps = isDOM ? filterValidProps(props) : props;
+            var staticVisualStyles = isSVG
+                ? buildSVGProps(values, style)
+                : { style: buildStyleAttr(values, style, isStatic) };
+            return Object(react__WEBPACK_IMPORTED_MODULE_1__["createElement"])(Component, Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, forwardedProps), { ref: ref }), staticVisualStyles));
+        },
+        /**
+         * loadFunctionalityComponents gets used by the `motion` component
+         *
+         * Each functionality component gets provided the `ref`, animation controls and the `MotionValuesMap`
+         * generated for that component, as well as all the `props` passed to it by the user.
+         *
+         * The pattern used to determine whether to load and use each piece of functionality is
+         * consistent (should render? Then push component) and could be used to extend functionality.
+         *
+         * By exposing a mutable piece of memory via an API like `extendMotionComponent` we could
+         * allow users to add `FunctionalComponentDefinition`s. This would allow us to offer file size
+         * reductions by shipping an entry point that doesn't load gesture and drag functionality, and
+         * also offer a way for users to develop plugins/other functionality. Because these functionalities
+         * are loaded as components, we can look into using Suspense for this purpose.
+         *
+         * For user-defined functionality we'd need to allow
+         *  1) User-defined prop typing (extending `P`)
+         *  2) User-defined "clean props" function that removes their plugin's props before being passed to the DOM.
+         */
+        loadFunctionalityComponents: function (ref, values, props, context, controls, inherit) {
+            var activeComponents = [];
+            // TODO: Consolidate Animation functionality loading strategy with other functionality components
+            var Animation = getAnimationComponent(props);
+            if (Animation) {
+                activeComponents.push(Object(react__WEBPACK_IMPORTED_MODULE_1__["createElement"])(Animation, { key: "animation", initial: props.initial, animate: props.animate, variants: props.variants, transition: props.transition, controls: controls, inherit: inherit, values: values }));
+            }
+            for (var i = 0; i < numFunctionalityComponents; i++) {
+                var _a = functionalityComponents[i], shouldRender = _a.shouldRender, key = _a.key, Component_1 = _a.Component;
+                if (shouldRender(props, context)) {
+                    activeComponents.push(Object(react__WEBPACK_IMPORTED_MODULE_1__["createElement"])(Component_1, Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({ key: key }, props, { parentContext: context, values: values, controls: controls, innerRef: ref })));
+                }
+            }
+            return activeComponents;
+        },
+        getValueControlsConfig: function (ref, values) {
+            return {
+                values: values,
+                readValueFromSource: function (key) {
+                    return Object(stylefire__WEBPACK_IMPORTED_MODULE_4__["default"])(ref.current).get(key);
+                },
+                // TODO: This is a good second source of plugins. This function contains the CSS variable
+                // and unit conversion support. These functions share a common signature. We could make another
+                // API for adding these.
+                makeTargetAnimatable: parseDomVariant(values, ref),
+            };
+        },
+    };
+}
+
+var htmlMotionComponents = htmlElements.reduce(function (acc, Component) {
+    var config = createDomMotionConfig(Component);
+    // Suppress "Expression produces a union type that is too complex to represent" error
+    // @ts-ignore
+    acc[Component] = createMotionComponent(config);
+    return acc;
+}, {});
+var svgMotionComponents = svgElements.reduce(function (acc, Component) {
+    // Suppress "Expression produces a union type that is too complex to represent" error
+    // @ts-ignore
+    acc[Component] = createMotionComponent(createDomMotionConfig(Component));
+    return acc;
+}, {});
+/**
+ * HTML & SVG components, optimised for use with gestures and animation. These can be used as
+ * drop-in replacements for any HTML & SVG component, all CSS & SVG properties are supported.
+ *
+ * @internalremarks
+ *
+ * I'd like to make it possible for these to be loaded "on demand" - to reduce bundle size by only
+ * including HTML/SVG stylers, animation and/or gesture support when necessary.
+ *
+ * ```jsx
+ * <motion.div animate={{ x: 100 }} />
+ *
+ * <motion.p animate={{ height: 200 }} />
+ *
+ * <svg><motion.circle r={10} animate={{ r: 20 }} /></svg>
+ * ```
+ *
+ * @public
+ */
+var motion = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({ 
+    /**
+     * Convert a custom React component into a `motion` component.
+     *
+     * It can also accept a string, to create [custom DOM elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements).
+     *
+     * ```jsx
+     * const Component = React.forwardRef((props: Props, ref) => {
+     *   return <div ref={ref} />
+     * })
+     *
+     * const MotionComponent = motion.custom<Props>(Component)
+     * ```
+     *
+     * @param Component -
+     */
+    custom: function custom(Component) {
+        return createMotionComponent(createDomMotionConfig(Component));
+    } }, htmlMotionComponents), svgMotionComponents);
+
+/**
+ * Creates a `MotionValue` to track the state and velocity of a value.
+ *
+ * Usually, these are created automatically. For advanced use-cases, like use with `useTransform`, you can create `MotionValue`s externally and pass them into the animated component via the `style` prop.
+ *
+ * @library
+ *
+ * ```jsx
+ * export function MyComponent() {
+ *   const scale = useMotionValue(1)
+ *
+ *   return <Frame scale={scale} />
+ * }
+ * ```
+ *
+ * @motion
+ *
+ * ```jsx
+ * export const MyComponent = () => {
+ *   const scale = useMotionValue(1)
+ *
+ *   return <motion.div style={{ scale }} />
+ * }
+ * ```
+ *
+ * @param initial - The initial state.
+ *
+ * @public
+ */
+function useMotionValue(initial) {
+    return useConstant(function () { return motionValue(initial); });
+}
+
+/**
+ * If the provided value is a MotionValue, this returns the actual value, otherwise just the value itself
+ *
+ * TODO: Remove and move to library
+ *
+ * @internal
+ */
+function unwrapMotionValue(value) {
+    var unwrappedValue = value instanceof MotionValue ? value.get() : value;
+    return isCustomValue(unwrappedValue)
+        ? unwrappedValue.toValue()
+        : unwrappedValue;
+}
+
+var isCustomValueType = function (v) {
+    return typeof v === "object" && v.mix;
+};
+var getMixer = function (v) { return (isCustomValueType(v) ? v.mix : undefined); };
+function transform() {
+    var args = [];
+    for (var _i = 0; _i < arguments.length; _i++) {
+        args[_i] = arguments[_i];
+    }
+    var useImmediate = !Array.isArray(args[0]);
+    var argOffset = useImmediate ? 0 : -1;
+    var inputValue = args[0 + argOffset];
+    var inputRange = args[1 + argOffset];
+    var outputRange = args[2 + argOffset];
+    var options = args[3 + argOffset];
+    var interpolator = Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_3__["interpolate"])(inputRange, outputRange, Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({ mixer: getMixer(outputRange[0]) }, options));
+    return useImmediate ? interpolator(inputValue) : interpolator;
+}
+
+var isTransformer = function (v) {
+    return typeof v === "function";
+};
+var noop$1 = function (v) { return v; };
+function useTransform(parent, customTransform, to, options) {
+    var value = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(null);
+    var comparitor = [parent];
+    var transformer = noop$1;
+    if (isTransformer(customTransform)) {
+        transformer = customTransform;
+    }
+    else if (Array.isArray(to)) {
+        var from = customTransform;
+        transformer = transform(from, to, options);
+        comparitor = [parent, from.join(","), to.join(",")];
+    }
+    return Object(react__WEBPACK_IMPORTED_MODULE_1__["useMemo"])(function () {
+        if (value.current)
+            value.current.destroy();
+        value.current = parent.addChild({ transformer: transformer });
+        return value.current;
+    }, comparitor);
+}
+
+// Keep things reasonable and avoid scale: Infinity. In practise we might need
+// to add another value, opacity, that could interpolate scaleX/Y [0,0.01] => [0,1]
+// to simply hide content at unreasonable scales.
+var maxScale = 100000;
+var invertScale = function (scale) { return (scale > 0.001 ? 1 / scale : maxScale); };
+/**
+ * Returns a `MotionValue` each for `scaleX` and `scaleY` that update with the inverse
+ * of their respective parent scales.
+ *
+ * This is useful for undoing the distortion of content when scaling a parent component.
+ *
+ * By default, `useInvertedScale` will automatically fetch `scaleX` and `scaleY` from the nearest parent.
+ * By passing other `MotionValue`s in as `useInvertedScale({ scaleX, scaleY })`, it will invert the output
+ * of those instead.
+ *
+ * @motion
+ *
+ * ```jsx
+ * const MyComponent = () => {
+ *   const { scaleX, scaleY } = useInvertedScale()
+ *   return <motion.div style={{ scaleX, scaleY }} />
+ * }
+ * ```
+ *
+ * @library
+ *
+ * ```jsx
+ * function MyComponent() {
+ *   const { scaleX, scaleY } = useInvertedScale()
+ *   return <Frame scaleX={scaleX} scaleY={scaleY} />
+ * }
+ * ```
+ *
+ * @public
+ */
+function useInvertedScale(scale) {
+    var parentScaleX = useMotionValue(1);
+    var parentScaleY = useMotionValue(1);
+    var values = Object(react__WEBPACK_IMPORTED_MODULE_1__["useContext"])(MotionContext).values;
+    Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["invariant"])(!!(scale || values), "If no scale values are provided, useInvertedScale must be used within a child of another motion component.");
+    if (scale) {
+        parentScaleX = scale.scaleX || parentScaleX;
+        parentScaleY = scale.scaleY || parentScaleY;
+    }
+    else if (values) {
+        parentScaleX = values.get("scaleX", 1);
+        parentScaleY = values.get("scaleY", 1);
+    }
+    var scaleX = useTransform(parentScaleX, invertScale);
+    var scaleY = useTransform(parentScaleY, invertScale);
+    return { scaleX: scaleX, scaleY: scaleY };
+}
+
+function useOnChange(value, callback) {
+    Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () { return (isMotionValue(value) ? value.onChange(callback) : undefined); }, [value]);
+}
+
+/**
+ * Creates a `MotionValue` that, when `set`, will use a spring animation to animate to its new state.
+ *
+ * It can either work as a stand-alone `MotionValue` by initialising it with a value, or as a subscriber
+ * to another `MotionValue`.
+ *
+ * @remarks
+ *
+ * ```jsx
+ * const x = useSpring(0, { stiffness: 300 })
+ * const y = useSpring(x, { damping: 10 })
+ * ```
+ *
+ * @param inputValue - `MotionValue` or number. If provided a `MotionValue`, when the input `MotionValue` changes, the created `MotionValue` will spring towards that value.
+ * @param springConfig - Configuration options for the spring.
+ * @returns `MotionValue`
+ *
+ * @public
+ */
+function useSpring(source, config) {
+    if (config === void 0) { config = {}; }
+    var activeSpringAnimation = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(null);
+    var value = useMotionValue(isMotionValue(source) ? source.get() : source);
+    Object(react__WEBPACK_IMPORTED_MODULE_1__["useMemo"])(function () {
+        return value.attach(function (v, set) {
+            if (activeSpringAnimation.current) {
+                activeSpringAnimation.current.stop();
+            }
+            activeSpringAnimation.current = Object(popmotion__WEBPACK_IMPORTED_MODULE_7__["spring"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({ from: value.get(), to: v, velocity: value.getVelocity() }, config)).start(set);
+            return value.get();
+        });
+    }, Object.values(config));
+    useOnChange(source, function (v) { return value.set(parseFloat(v)); });
+    return value;
+}
+
+var scrollX = motionValue(0);
+var scrollY = motionValue(0);
+var scrollXProgress = motionValue(0);
+var scrollYProgress = motionValue(0);
+var setProgress = function (offset, maxOffset, value) {
+    value.set(!maxOffset || !offset ? 0 : offset / maxOffset);
+};
+var hasEventListener = false;
+var addScrollListener = function () {
+    hasEventListener = true;
+    if (typeof window === "undefined")
+        return;
+    var updateScrollValues = function () {
+        var xOffset = window.pageXOffset;
+        var yOffset = window.pageYOffset;
+        // Set absolute positions
+        scrollX.set(xOffset);
+        scrollY.set(yOffset);
+        // Set 0-1 progress
+        setProgress(xOffset, document.body.clientWidth - window.innerWidth, scrollXProgress);
+        setProgress(yOffset, document.body.clientHeight - window.innerHeight, scrollYProgress);
+    };
+    updateScrollValues();
+    window.addEventListener("resize", updateScrollValues);
+    window.addEventListener("scroll", updateScrollValues, { passive: true });
+};
+var viewportMotionValues = {
+    scrollX: scrollX,
+    scrollY: scrollY,
+    scrollXProgress: scrollXProgress,
+    scrollYProgress: scrollYProgress,
+};
+/**
+ * Provides `MotionValue`s that update when the viewport scrolls:
+ *
+ * - `scrollX` — Horizontal scroll distance in pixels.
+ * - `scrollY` — Vertical scroll distance in pixels.
+ * - `scrollXProgress` — Horizontal scroll progress between `0` and `1`.
+ * - `scrollYProgress` — Vertical scroll progress between `0` and `1`.
+ *
+ * **Note:** If the returned scroll `MotionValue`s don't seem to be updating,
+ * double check if the `body` tag styles are set to `width: 100%; height: 100%` or
+ * similar, as this can break accurate measurement of viewport scroll.
+ *
+ * @library
+ *
+ * ```jsx
+ * import * as React from "react"
+ * import {
+ *   Frame,
+ *   useViewportScroll,
+ *   useTransform
+ * } from "framer"
+ *
+ * export function MyComponent() {
+ *   const { scrollYProgress } = useViewportScroll()
+ *   return <Frame scaleX={scrollYProgress} />
+ * }
+ * ```
+ *
+ * @motion
+ *
+ * ```jsx
+ * export const MyComponent = () => {
+ *   const { scrollYProgress } = useViewportScroll()
+ *   return <motion.div style={{ scaleX: scrollYProgress }} />
+ * }
+ * ```
+ *
+ * @internalremarks
+ * This isn't technically a hook yet, but in the future it might be nice
+ * to accept refs to elements and add scroll listeners to those, which
+ * may involve the use of lifecycle.
+ *
+ * @public
+ */
+function useViewportScroll() {
+    if (!hasEventListener) {
+        addScrollListener();
+    }
+    return viewportMotionValues;
+}
+
+/**
+ * Creates `AnimationControls`, which can be used to manually start, stop
+ * and sequence animations on one or more components.
+ *
+ * The returned `AnimationControls` should be passed to the `animate` property
+ * of the components you want to animate.
+ *
+ * These components can then be animated with the `start` method.
+ *
+ * @library
+ *
+ * ```jsx
+ * import * as React from 'react'
+ * import { Frame, useAnimation } from 'framer'
+ *
+ * export function MyComponent(props) {
+ *    const controls = useAnimation()
+ *
+ *    controls.start({
+ *        x: 100,
+ *        transition: { duration: 0.5 },
+ *    })
+ *
+ *    return <Frame animate={controls} />
+ * }
+ * ```
+ *
+ * @motion
+ *
+ * ```jsx
+ * import * as React from 'react'
+ * import { motion, useAnimation } from 'framer-motion'
+ *
+ * export function MyComponent(props) {
+ *    const controls = useAnimation()
+ *
+ *    controls.start({
+ *        x: 100,
+ *        transition: { duration: 0.5 },
+ *    })
+ *
+ *    return <motion.div animate={controls} />
+ * }
+ * ```
+ *
+ * @returns Animation controller with `start` and `stop` methods
+ *
+ * @public
+ */
+function useAnimation() {
+    var animationControls = useConstant(function () { return new AnimationControls(); });
+    Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () {
+        animationControls.mount();
+        return function () { return animationControls.unmount(); };
+    }, []);
+    return animationControls;
+}
+
+/**
+ * Experimental API.
+ *
+ * Makes an animated version of `useState`.
+ *
+ * @remarks
+ *
+ * When the returned state setter is called, values will be animated to their new target.
+ *
+ * This allows the animation of arbitrary React components.
+ *
+ * **Note:** When animating DOM components, it's always preferable to use the `animate` prop, as Framer
+ * will bypass React's rendering cycle with one optimised for 60fps motion. This Hook is specifically
+ * for animating props on arbitrary React components, or for animating text content.
+ *
+ * ```jsx
+ * const [state, setState] = useAnimatedState({ percentage: 0 })
+ *
+ * return (
+ *   <Graph
+ *     percentage={state.percentage}
+ *     onTap={() => setState({ percentage: 50 })}
+ *   />
+ * )
+ * ```
+ *
+ * @internalremarks
+ *
+ * TODO:
+ * - Make hook accept a typed version of Target that accepts any value (not just DOM values)
+ * - Allow hook to accept single values. ie useAnimatedState(0)
+ * - Allow providing MotionValues via initialState.
+ *
+ * @beta
+ */
+function useAnimatedState(initialState) {
+    var _a = Object(react__WEBPACK_IMPORTED_MODULE_1__["useState"])(initialState), animationState = _a[0], onUpdate = _a[1];
+    var config = useConstant(function () { return ({ onUpdate: onUpdate }); });
+    var values = useMotionValues(config);
+    var controls = useValueAnimationControls({
+        values: values,
+        readValueFromSource: function (key) { return animationState[key]; },
+    }, {}, false);
+    var startAnimation = useConstant(function () { return function (animationDefinition) {
+        return controls.start(animationDefinition);
+    }; });
+    Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () {
+        values.mount();
+        return function () { return values.unmount(); };
+    }, []);
+    return [animationState, startAnimation];
+}
+
+/**
+ * Cycles through a series of visual properties. Can be used to toggle between or cycle through animations. It works similar to `useState` in React. It is provided an initial array of possible states, and returns an array of two arguments.
+ *
+ * @library
+ *
+ * ```jsx
+ * import * as React from "react"
+ * import { Frame, useCycle } from "framer"
+ *
+ * export function MyComponent() {
+ *   const [x, cycleX] = useCycle(0, 50, 100)
+ *
+ *   return (
+ *     <Frame
+ *       animate={{ x: x }}
+ *       onTap={() => cycleX()}
+ *      />
+ *    )
+ * }
+ * ```
+ *
+ * @motion
+ *
+ * An index value can be passed to the returned `cycle` function to cycle to a specific index.
+ *
+ * ```jsx
+ * import * as React from "react"
+ * import { motion, useCycle } from "framer-motion"
+ *
+ * export const MyComponent = () => {
+ *   const [x, cycleX] = useCycle(0, 50, 100)
+ *
+ *   return (
+ *     <motion.div
+ *       animate={{ x: x }}
+ *       onTap={() => cycleX()}
+ *      />
+ *    )
+ * }
+ * ```
+ *
+ * @param items - items to cycle through
+ * @returns [currentState, cycleState]
+ *
+ * @public
+ */
+function useCycle() {
+    var items = [];
+    for (var _i = 0; _i < arguments.length; _i++) {
+        items[_i] = arguments[_i];
+    }
+    // TODO: After Framer X beta, remove this warning
+    Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["warning"])(items.length > 1, "useCycle syntax has changed. `useCycle([0, 1, 2])` becomes `useCycle(0, 1, 2)`");
+    var index = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(0);
+    var _a = Object(react__WEBPACK_IMPORTED_MODULE_1__["useState"])(items[index.current]), item = _a[0], setItem = _a[1];
+    return [
+        item,
+        function (next) {
+            index.current =
+                typeof next !== "number"
+                    ? Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_3__["wrap"])(0, items.length, index.current + 1)
+                    : next;
+            setItem(items[index.current]);
+        },
+    ];
+}
+
+/**
+ * Can manually trigger a drag gesture on one or more `drag`-enabled `motion` components.
+ *
+ * @library
+ *
+ * ```jsx
+ * const dragControls = useDragControls()
+ *
+ * function startDrag(event) {
+ *   dragControls.start(event, { snapToCursor: true })
+ * }
+ *
+ * return (
+ *   <>
+ *     <Frame onTapStart={startDrag} />
+ *     <Frame drag="x" dragControls={dragControls} />
+ *   </>
+ * )
+ * ```
+ *
+ * @motion
+ *
+ * ```jsx
+ * const dragControls = useDragControls()
+ *
+ * function startDrag(event) {
+ *   dragControls.start(event, { snapToCursor: true })
+ * }
+ *
+ * return (
+ *   <>
+ *     <div onMouseDown={startDrag} />
+ *     <motion.div drag="x" dragControls={dragControls} />
+ *   </>
+ * )
+ * ```
+ *
+ * @public
+ */
+var DragControls = /** @class */ (function () {
+    function DragControls() {
+        this.componentControls = new Set();
+    }
+    /**
+     * Subscribe a component's internal `ComponentDragControls` to the user-facing API.
+     *
+     * @internal
+     */
+    DragControls.prototype.subscribe = function (controls) {
+        var _this = this;
+        this.componentControls.add(controls);
+        return function () { return _this.componentControls.delete(controls); };
+    };
+    /**
+     * Start a drag gesture on every `motion` component that has this set of drag controls
+     * passed into it via the `dragControls` prop.
+     *
+     * ```jsx
+     * dragControls.start(e, {
+     *   snapToCursor: true
+     * })
+     * ```
+     *
+     * @param event - A mouse/touch/pointer event.
+     * @param options - Options
+     *
+     * @public
+     */
+    DragControls.prototype.start = function (event, options) {
+        this.componentControls.forEach(function (controls) {
+            controls.start(event.nativeEvent || event, options);
+        });
+    };
+    return DragControls;
+}());
+var createDragControls = function () { return new DragControls(); };
+/**
+ * Usually, dragging is initiated by pressing down on a `motion` component with a `drag` prop
+ * and moving it. For some use-cases, for instance clicking at an arbitrary point on a video scrubber, we
+ * might want to initiate that dragging from a different component than the draggable one.
+ *
+ * By creating a `dragControls` using the `useDragControls` hook, we can pass this into
+ * the draggable component's `dragControls` prop. It exposes a `start` method
+ * that can start dragging from pointer events on other components.
+ *
+ * @library
+ *
+ * ```jsx
+ * const dragControls = useDragControls()
+ *
+ * function startDrag(event) {
+ *   dragControls.start(event, { snapToCursor: true })
+ * }
+ *
+ * return (
+ *   <>
+ *     <Frame onTapStart={startDrag} />
+ *     <Frame drag="x" dragControls={dragControls} />
+ *   </>
+ * )
+ * ```
+ *
+ * @motion
+ *
+ * ```jsx
+ * const dragControls = useDragControls()
+ *
+ * function startDrag(event) {
+ *   dragControls.start(event, { snapToCursor: true })
+ * }
+ *
+ * return (
+ *   <>
+ *     <div onMouseDown={startDrag} />
+ *     <motion.div drag="x" dragControls={dragControls} />
+ *   </>
+ * )
+ * ```
+ *
+ * @public
+ */
+function useDragControls() {
+    return useConstant(createDragControls);
+}
+
+var PresenceChild = function (_a) {
+    var children = _a.children, exitProps = _a.exitProps;
+    var context = Object(react__WEBPACK_IMPORTED_MODULE_1__["useContext"])(MotionContext);
+    // Create a new `value` in all instances to ensure `motion` children re-render
+    // and detect any layout changes that might have occurred.
+    context = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, context), { exitProps: exitProps || {} });
+    return (Object(react__WEBPACK_IMPORTED_MODULE_1__["createElement"])(MotionContext.Provider, { value: context }, children));
+};
+function getChildKey(child) {
+    return child.key || "";
+}
+function updateChildLookup(children, allChildren) {
+    var seenChildren =  true ? new Set() : undefined;
+    children.forEach(function (child) {
+        var key = getChildKey(child);
+        if ( true && seenChildren) {
+            if (seenChildren.has(key)) {
+                console.warn("Children of AnimatePresence require unique keys. \"" + key + "\" is a duplicate.");
+            }
+            seenChildren.add(key);
+        }
+        allChildren.set(key, child);
+    });
+}
+function onlyElements(children) {
+    var filtered = [];
+    // We use forEach here instead of map as map mutates the component key by preprending `.$`
+    react__WEBPACK_IMPORTED_MODULE_1__["Children"].forEach(children, function (child) {
+        if (Object(react__WEBPACK_IMPORTED_MODULE_1__["isValidElement"])(child))
+            filtered.push(child);
+    });
+    return filtered;
+}
+/**
+ * The `AnimatePresence` component enables the use of the `exit` prop to animate components
+ * when they're removed from the component tree.
+ *
+ * When adding/removing more than a single child component, every component
+ * **must** be given a unique `key` prop.
+ *
+ * You can propagate exit animations throughout a tree by using variants.
+ *
+ * @library
+ *
+ * You can use any component(s) within `AnimatePresence`, but the first `Frame` in each should
+ * have an `exit` property defined.
+ *
+ * ```jsx
+ * import { Frame, AnimatePresence } from 'framer'
+ *
+ * // As items are added and removed from `items`
+ * export function Items({ items }) {
+ *   return (
+ *     <AnimatePresence>
+ *       {items.map(item => (
+ *         <Frame
+ *           key={item.id}
+ *           initial={{ opacity: 0 }}
+ *           animate={{ opacity: 1 }}
+ *           exit={{ opacity: 0 }}
+ *         />
+ *       ))}
+ *     </AnimatePresence>
+ *   )
+ * }
+ * ```
+ *
+ * @motion
+ *
+ * You can use any component(s) within `AnimatePresence`, but the first `motion` component in each should
+ * have an `exit` property defined.
+ *
+ * ```jsx
+ * import { motion, AnimatePresence } from 'framer-motion'
+ *
+ * export const Items = ({ items }) => (
+ *   <AnimatePresence>
+ *     {items.map(item => (
+ *       <motion.div
+ *         key={item.id}
+ *         initial={{ opacity: 0 }}
+ *         animate={{ opacity: 1 }}
+ *         exit={{ opacity: 0 }}
+ *       />
+ *     ))}
+ *   </AnimatePresence>
+ * )
+ * ```
+ *
+ * @public
+ */
+var AnimatePresence = function (_a) {
+    var children = _a.children, custom = _a.custom, _b = _a.initial, initial = _b === void 0 ? true : _b, onExitComplete = _a.onExitComplete, exitBeforeEnter = _a.exitBeforeEnter;
+    // We want to force a re-render once all exiting animations have finished. We
+    // either use a local forceUpdate function, or one from a parent context if it exists.
+    var localForceUpdate = useForceUpdate();
+    var contextForceUpdate = Object(react__WEBPACK_IMPORTED_MODULE_1__["useContext"])(SyncLayoutContext);
+    var forceUpdate = contextForceUpdate || localForceUpdate;
+    var isInitialRender = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(true);
+    // Filter out any children that aren't ReactElements. We can only track ReactElements with a props.key
+    var filteredChildren = onlyElements(children);
+    // Keep a living record of the children we're actually rendering so we
+    // can diff to figure out which are entering and exiting
+    var presentChildren = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(filteredChildren);
+    // A lookup table to quickly reference components by key
+    var allChildren = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(new Map())
+        .current;
+    // A living record of all currently exiting components.
+    var exiting = Object(react__WEBPACK_IMPORTED_MODULE_1__["useRef"])(new Set()).current;
+    updateChildLookup(filteredChildren, allChildren);
+    // If this is the initial component render, just deal with logic surrounding whether
+    // we play onMount animations or not.
+    if (isInitialRender.current) {
+        isInitialRender.current = false;
+        return (Object(react__WEBPACK_IMPORTED_MODULE_1__["createElement"])(react__WEBPACK_IMPORTED_MODULE_1__["Fragment"], null, filteredChildren.map(function (child) { return (Object(react__WEBPACK_IMPORTED_MODULE_1__["createElement"])(PresenceChild, { key: getChildKey(child), exitProps: initial ? undefined : { initial: false } }, child)); })));
+    }
+    // If this is a subsequent render, deal with entering and exiting children
+    var childrenToRender = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__spreadArrays"])(filteredChildren);
+    // Diff the keys of the currently-present and target children to update our
+    // exiting list.
+    var presentKeys = presentChildren.current.map(getChildKey);
+    var targetKeys = filteredChildren.map(getChildKey);
+    // Diff the present children with our target children and mark those that are exiting
+    var numPresent = presentKeys.length;
+    for (var i = 0; i < numPresent; i++) {
+        var key = presentKeys[i];
+        if (targetKeys.indexOf(key) === -1) {
+            exiting.add(key);
+        }
+        else {
+            // In case this key has re-entered, remove from the exiting list
+            exiting.delete(key);
+        }
+    }
+    // If we currently have exiting children, and we're deferring rendering incoming children
+    // until after all current children have exiting, empty the childrenToRender array
+    if (exitBeforeEnter && exiting.size) {
+        childrenToRender = [];
+    }
+    // Loop through all currently exiting components and clone them to overwrite `animate`
+    // with any `exit` prop they might have defined.
+    exiting.forEach(function (key) {
+        // If this component is actually entering again, early return
+        if (targetKeys.indexOf(key) !== -1)
+            return;
+        var child = allChildren.get(key);
+        if (!child)
+            return;
+        var insertionIndex = presentKeys.indexOf(key);
+        var onExit = function () {
+            exiting.delete(key);
+            // Remove this child from the present children
+            var removeIndex = presentChildren.current.findIndex(function (child) { return child.key === key; });
+            presentChildren.current.splice(removeIndex, 1);
+            // Defer re-rendering until all exiting children have indeed left
+            if (!exiting.size) {
+                presentChildren.current = filteredChildren;
+                forceUpdate();
+                onExitComplete && onExitComplete();
+            }
+        };
+        var exitProps = {
+            custom: custom,
+            isExiting: true,
+            onExitComplete: onExit,
+        };
+        childrenToRender.splice(insertionIndex, 0, Object(react__WEBPACK_IMPORTED_MODULE_1__["createElement"])(PresenceChild, { key: getChildKey(child), exitProps: exitProps }, child));
+    });
+    // Add `MotionContext` even to children that don't need it to ensure we're rendering
+    // the same tree between renders
+    childrenToRender = childrenToRender.map(function (child) {
+        var key = child.key;
+        return exiting.has(key) ? (child) : (Object(react__WEBPACK_IMPORTED_MODULE_1__["createElement"])(PresenceChild, { key: getChildKey(child) }, child));
+    });
+    presentChildren.current = childrenToRender;
+    if ( true &&
+        exitBeforeEnter &&
+        childrenToRender.length > 1) {
+        console.warn("You're attempting to animate multiple children within AnimatePresence, but its exitBeforeEnter prop is set to true. This will lead to odd visual behaviour.");
+    }
+    return (Object(react__WEBPACK_IMPORTED_MODULE_1__["createElement"])(react__WEBPACK_IMPORTED_MODULE_1__["Fragment"], null, exiting.size
+        ? childrenToRender
+        : childrenToRender.map(function (child) { return Object(react__WEBPACK_IMPORTED_MODULE_1__["cloneElement"])(child); })));
+};
+
+/**
+ * When a component is the child of an `AnimatePresence` component, it has access to
+ * information about whether it's still present the React tree. `usePresence` can be
+ * used to access that data and perform operations before the component can be considered
+ * safe to remove.
+ *
+ * It returns two values. `isPresent` is a boolean that is `true` when the component
+ * is present within the React tree. It is `false` when it's been removed, but still visible.
+ *
+ * When `isPresent` is `false`, the `safeToRemove` callback can be used to tell `AnimatePresence`
+ * that it's safe to remove the component from the DOM, for instance after a animation has completed.
+ *
+ * ```jsx
+ * const [isPresent, safeToRemove] = usePresence()
+ *
+ * useEffect(() => {
+ *   !isPresent setTimeout(safeToRemove, 1000)
+ * }, [isPresent])
+ * ```
+ *
+ * @public
+ */
+function usePresence() {
+    var exitProps = Object(react__WEBPACK_IMPORTED_MODULE_1__["useContext"])(MotionContext).exitProps;
+    if (!exitProps)
+        return [true];
+    var isExiting = exitProps.isExiting, onExitComplete = exitProps.onExitComplete;
+    return isExiting && onExitComplete ? [false, onExitComplete] : [true];
+}
+
+// Does this device prefer reduced motion? Returns `null` server-side.
+var prefersReducedMotion = motionValue(null);
+if (typeof window !== "undefined") {
+    if (window.matchMedia) {
+        var motionMediaQuery_1 = window.matchMedia("(prefers-reduced-motion)");
+        var setReducedMotionPreferences = function () {
+            return prefersReducedMotion.set(motionMediaQuery_1.matches);
+        };
+        motionMediaQuery_1.addListener(setReducedMotionPreferences);
+        setReducedMotionPreferences();
+    }
+    else {
+        prefersReducedMotion.set(false);
+    }
+}
+function determineShouldReduceMotion(prefersReduced, isReducedMotion) {
+    return typeof isReducedMotion === "boolean"
+        ? isReducedMotion
+        : Boolean(prefersReduced);
+}
+
+/**
+ * A hook that returns `true` if we should be using reduced motion based on the current device's Reduced Motion setting.
+ *
+ * This can be used to implement changes to your UI based on Reduced Motion. For instance, replacing motion-sickness inducing
+ * `x`/`y` animations with `opacity`, disabling the autoplay of background videos, or turning off parallax motion.
+ *
+ * It will actively respond to changes and re-render your components with the latest setting.
+ *
+ * ```jsx
+ * export function Sidebar({ isOpem }) {
+ *   const shouldReduceMotion = useReducedMotion()
+ *   const closedX = shouldReduceMotion ? 0 : "-100%"
+ *
+ *   return (
+ *     <motion.div animate={{
+ *       opacity: isOpen ? 1 : 0,
+ *       x: isOpen ? 0 : closedX
+ *     }} />
+ *   )
+ * }
+ * ```
+ *
+ * @return boolean
+ *
+ * @public
+ */
+function useReducedMotion() {
+    var isReducedMotion = Object(react__WEBPACK_IMPORTED_MODULE_1__["useContext"])(MotionContext).isReducedMotion;
+    var _a = Object(react__WEBPACK_IMPORTED_MODULE_1__["useState"])(determineShouldReduceMotion(prefersReducedMotion.get(), isReducedMotion)), shouldReduceMotion = _a[0], setShouldReduceMotion = _a[1];
+    Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () {
+        return prefersReducedMotion.onChange(function (v) {
+            setShouldReduceMotion(determineShouldReduceMotion(v, isReducedMotion));
+        });
+    }, [setShouldReduceMotion, isReducedMotion]);
+    return shouldReduceMotion;
+}
+
+/**
+ * Define accessibility options for a tree. Can be used to force the tree into Reduced Motion mode,
+ * or disable device detection.
+ *
+ * @internal
+ */
+function ReducedMotion(_a) {
+    var children = _a.children, enabled = _a.enabled;
+    var context = Object(react__WEBPACK_IMPORTED_MODULE_1__["useContext"])(MotionContext);
+    context = Object(react__WEBPACK_IMPORTED_MODULE_1__["useMemo"])(function () { return (Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, context), { isReducedMotion: enabled })); }, [enabled]);
+    return (Object(react__WEBPACK_IMPORTED_MODULE_1__["createElement"])(MotionContext.Provider, { value: context }, children));
+}
+
+
+
+
+/***/ }),
+
+/***/ "./node_modules/framesync/dist/framesync.es.js":
+/*!*****************************************************!*\
+  !*** ./node_modules/framesync/dist/framesync.es.js ***!
+  \*****************************************************/
+/*! exports provided: default, cancelSync, getFrameData */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "cancelSync", function() { return cancelSync; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "getFrameData", function() { return getFrameData; });
+/* harmony import */ var hey_listen__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! hey-listen */ "./node_modules/hey-listen/dist/hey-listen.es.js");
+
+
+var prevTime = 0;
+var onNextFrame = typeof window !== 'undefined' && window.requestAnimationFrame !== undefined
+    ? function (callback) { return window.requestAnimationFrame(callback); }
+    : function (callback) {
+        var timestamp = Date.now();
+        var timeToCall = Math.max(0, 16.7 - (timestamp - prevTime));
+        prevTime = timestamp + timeToCall;
+        setTimeout(function () { return callback(prevTime); }, timeToCall);
+    };
+
+var createStep = (function (setRunNextFrame) {
+    var processToRun = [];
+    var processToRunNextFrame = [];
+    var numThisFrame = 0;
+    var isProcessing = false;
+    var i = 0;
+    var cancelled = new WeakSet();
+    var toKeepAlive = new WeakSet();
+    var renderStep = {
+        cancel: function (process) {
+            var indexOfCallback = processToRunNextFrame.indexOf(process);
+            cancelled.add(process);
+            if (indexOfCallback !== -1) {
+                processToRunNextFrame.splice(indexOfCallback, 1);
+            }
+        },
+        process: function (frame) {
+            var _a;
+            isProcessing = true;
+            _a = [
+                processToRunNextFrame,
+                processToRun
+            ], processToRun = _a[0], processToRunNextFrame = _a[1];
+            processToRunNextFrame.length = 0;
+            numThisFrame = processToRun.length;
+            if (numThisFrame) {
+                var process_1;
+                for (i = 0; i < numThisFrame; i++) {
+                    process_1 = processToRun[i];
+                    process_1(frame);
+                    if (toKeepAlive.has(process_1) === true && !cancelled.has(process_1)) {
+                        renderStep.schedule(process_1);
+                        setRunNextFrame(true);
+                    }
+                }
+            }
+            isProcessing = false;
+        },
+        schedule: function (process, keepAlive, immediate) {
+            if (keepAlive === void 0) { keepAlive = false; }
+            if (immediate === void 0) { immediate = false; }
+            Object(hey_listen__WEBPACK_IMPORTED_MODULE_0__["invariant"])(typeof process === 'function', 'Argument must be a function');
+            var addToCurrentBuffer = immediate && isProcessing;
+            var buffer = addToCurrentBuffer ? processToRun : processToRunNextFrame;
+            cancelled.delete(process);
+            if (keepAlive)
+                toKeepAlive.add(process);
+            if (buffer.indexOf(process) === -1) {
+                buffer.push(process);
+                if (addToCurrentBuffer)
+                    numThisFrame = processToRun.length;
+            }
+        }
+    };
+    return renderStep;
+});
+
+var StepId;
+(function (StepId) {
+    StepId["Read"] = "read";
+    StepId["Update"] = "update";
+    StepId["Render"] = "render";
+    StepId["PostRender"] = "postRender";
+    StepId["FixedUpdate"] = "fixedUpdate";
+})(StepId || (StepId = {}));
+
+var maxElapsed = 40;
+var defaultElapsed = (1 / 60) * 1000;
+var useDefaultElapsed = true;
+var willRunNextFrame = false;
+var isProcessing = false;
+var frame = {
+    delta: 0,
+    timestamp: 0
+};
+var stepsOrder = [
+    StepId.Read,
+    StepId.Update,
+    StepId.Render,
+    StepId.PostRender
+];
+var setWillRunNextFrame = function (willRun) { return (willRunNextFrame = willRun); };
+var _a = stepsOrder.reduce(function (acc, key) {
+    var step = createStep(setWillRunNextFrame);
+    acc.sync[key] = function (process, keepAlive, immediate) {
+        if (keepAlive === void 0) { keepAlive = false; }
+        if (immediate === void 0) { immediate = false; }
+        if (!willRunNextFrame)
+            startLoop();
+        step.schedule(process, keepAlive, immediate);
+        return process;
+    };
+    acc.cancelSync[key] = function (process) { return step.cancel(process); };
+    acc.steps[key] = step;
+    return acc;
+}, {
+    steps: {},
+    sync: {},
+    cancelSync: {}
+}), steps = _a.steps, sync = _a.sync, cancelSync = _a.cancelSync;
+var processStep = function (stepId) { return steps[stepId].process(frame); };
+var processFrame = function (timestamp) {
+    willRunNextFrame = false;
+    frame.delta = useDefaultElapsed
+        ? defaultElapsed
+        : Math.max(Math.min(timestamp - frame.timestamp, maxElapsed), 1);
+    if (!useDefaultElapsed)
+        defaultElapsed = frame.delta;
+    frame.timestamp = timestamp;
+    isProcessing = true;
+    stepsOrder.forEach(processStep);
+    isProcessing = false;
+    if (willRunNextFrame) {
+        useDefaultElapsed = false;
+        onNextFrame(processFrame);
+    }
+};
+var startLoop = function () {
+    willRunNextFrame = true;
+    useDefaultElapsed = true;
+    if (!isProcessing)
+        onNextFrame(processFrame);
+};
+var getFrameData = function () { return frame; };
+
+/* harmony default export */ __webpack_exports__["default"] = (sync);
+
+
+
+/***/ }),
+
+/***/ "./node_modules/hey-listen/dist/hey-listen.es.js":
+/*!*******************************************************!*\
+  !*** ./node_modules/hey-listen/dist/hey-listen.es.js ***!
+  \*******************************************************/
+/*! exports provided: invariant, warning */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "invariant", function() { return invariant; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "warning", function() { return warning; });
+var warning = function () { };
+var invariant = function () { };
+if (true) {
+    warning = function (check, message) {
+        if (!check && typeof console !== 'undefined') {
+            console.warn(message);
+        }
+    };
+    invariant = function (check, message) {
+        if (!check) {
+            throw new Error(message);
+        }
+    };
+}
+
+
+
 
 /***/ }),
 
@@ -1005,6 +7096,1425 @@ var SideBox = function SideBox() {
       return mod
     }]);
   
+
+/***/ }),
+
+/***/ "./node_modules/popmotion/dist/popmotion.es.js":
+/*!*****************************************************!*\
+  !*** ./node_modules/popmotion/dist/popmotion.es.js ***!
+  \*****************************************************/
+/*! exports provided: Action, ValueReaction, action, chain, composite, crossfade, decay, delay, everyFrame, inertia, keyframes, listen, merge, mouse, multicast, multitouch, parallel, physics, pointer, schedule, spring, stagger, styler, timeline, tween, value */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Action", function() { return Action; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ValueReaction", function() { return ValueReaction; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "action", function() { return action; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "chain", function() { return chain; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "composite", function() { return composite; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "crossfade", function() { return crossfade; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "decay", function() { return vectorDecay; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "delay", function() { return delay; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "everyFrame", function() { return frame; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "inertia", function() { return index; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "keyframes", function() { return keyframes; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "listen", function() { return listen; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "merge", function() { return merge; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "mouse", function() { return mouse; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "multicast", function() { return multicast; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "multitouch", function() { return multitouch; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "parallel", function() { return parallel$1; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "physics", function() { return vectorPhysics; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "pointer", function() { return index$1; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "schedule", function() { return schedule; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "spring", function() { return vectorSpring; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "stagger", function() { return stagger; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "styler", function() { return styler; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "timeline", function() { return timeline; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "tween", function() { return tween; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "value", function() { return value; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @popmotion/popcorn */ "./node_modules/@popmotion/popcorn/dist/popcorn.es.js");
+/* harmony import */ var framesync__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! framesync */ "./node_modules/framesync/dist/framesync.es.js");
+/* harmony import */ var style_value_types__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! style-value-types */ "./node_modules/style-value-types/dist/style-value-types.es.js");
+/* harmony import */ var _popmotion_easing__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @popmotion/easing */ "./node_modules/@popmotion/easing/dist/easing.es.js");
+/* harmony import */ var hey_listen__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! hey-listen */ "./node_modules/hey-listen/dist/hey-listen.es.js");
+
+
+
+
+
+
+
+var Observer = /*#__PURE__*/function () {
+    function Observer(_a, observer) {
+        var _this = this;
+        var middleware = _a.middleware,
+            onComplete = _a.onComplete;
+        this.isActive = true;
+        this.update = function (v) {
+            if (_this.observer.update) _this.updateObserver(v);
+        };
+        this.complete = function () {
+            if (_this.observer.complete && _this.isActive) _this.observer.complete();
+            if (_this.onComplete) _this.onComplete();
+            _this.isActive = false;
+        };
+        this.error = function (err) {
+            if (_this.observer.error && _this.isActive) _this.observer.error(err);
+            _this.isActive = false;
+        };
+        this.observer = observer;
+        this.updateObserver = function (v) {
+            return observer.update(v);
+        };
+        this.onComplete = onComplete;
+        if (observer.update && middleware && middleware.length) {
+            middleware.forEach(function (m) {
+                return _this.updateObserver = m(_this.updateObserver, _this.complete);
+            });
+        }
+    }
+    return Observer;
+}();
+var createObserver = function (observerCandidate, _a, onComplete) {
+    var middleware = _a.middleware;
+    if (typeof observerCandidate === 'function') {
+        return new Observer({ middleware: middleware, onComplete: onComplete }, { update: observerCandidate });
+    } else {
+        return new Observer({ middleware: middleware, onComplete: onComplete }, observerCandidate);
+    }
+};
+
+var Action = /*#__PURE__*/function () {
+    function Action(props) {
+        if (props === void 0) {
+            props = {};
+        }
+        this.props = props;
+    }
+    Action.prototype.create = function (props) {
+        return new Action(props);
+    };
+    Action.prototype.start = function (observerCandidate) {
+        if (observerCandidate === void 0) {
+            observerCandidate = {};
+        }
+        var isComplete = false;
+        var subscription = {
+            stop: function () {
+                return undefined;
+            }
+        };
+        var _a = this.props,
+            init = _a.init,
+            observerProps = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, ["init"]);
+        var observer = createObserver(observerCandidate, observerProps, function () {
+            isComplete = true;
+            subscription.stop();
+        });
+        var api = init(observer);
+        subscription = api ? Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, subscription, api) : subscription;
+        if (isComplete) subscription.stop();
+        return subscription;
+    };
+    Action.prototype.applyMiddleware = function (middleware) {
+        return this.create(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, this.props, { middleware: this.props.middleware ? [middleware].concat(this.props.middleware) : [middleware] }));
+    };
+    Action.prototype.pipe = function () {
+        var funcs = [];
+        for (var _i = 0; _i < arguments.length; _i++) {
+            funcs[_i] = arguments[_i];
+        }
+        var pipedUpdate = funcs.length === 1 ? funcs[0] : _popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["pipe"].apply(void 0, funcs);
+        return this.applyMiddleware(function (update) {
+            return function (v) {
+                return update(pipedUpdate(v));
+            };
+        });
+    };
+    return Action;
+}();
+var action = function (init) {
+    return new Action({ init: init });
+};
+
+var Chainable = /*#__PURE__*/function () {
+    function Chainable(props) {
+        if (props === void 0) {
+            props = {};
+        }
+        this.props = props;
+    }
+    Chainable.prototype.applyMiddleware = function (middleware) {
+        return this.create(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, this.props, { middleware: this.props.middleware ? [middleware].concat(this.props.middleware) : [middleware] }));
+    };
+    Chainable.prototype.pipe = function () {
+        var funcs = [];
+        for (var _i = 0; _i < arguments.length; _i++) {
+            funcs[_i] = arguments[_i];
+        }
+        var pipedUpdate = funcs.length === 1 ? funcs[0] : _popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["pipe"].apply(void 0, funcs);
+        return this.applyMiddleware(function (update) {
+            return function (v) {
+                return update(pipedUpdate(v));
+            };
+        });
+    };
+    Chainable.prototype.while = function (predicate) {
+        return this.applyMiddleware(function (update, complete) {
+            return function (v) {
+                return predicate(v) ? update(v) : complete();
+            };
+        });
+    };
+    Chainable.prototype.filter = function (predicate) {
+        return this.applyMiddleware(function (update) {
+            return function (v) {
+                return predicate(v) && update(v);
+            };
+        });
+    };
+    return Chainable;
+}();
+
+var BaseMulticast = /*#__PURE__*/function (_super) {
+    Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__extends"])(BaseMulticast, _super);
+    function BaseMulticast() {
+        var _this = _super !== null && _super.apply(this, arguments) || this;
+        _this.subscribers = [];
+        return _this;
+    }
+    BaseMulticast.prototype.complete = function () {
+        this.subscribers.forEach(function (subscriber) {
+            return subscriber.complete();
+        });
+    };
+    BaseMulticast.prototype.error = function (err) {
+        this.subscribers.forEach(function (subscriber) {
+            return subscriber.error(err);
+        });
+    };
+    BaseMulticast.prototype.update = function (v) {
+        for (var i = 0; i < this.subscribers.length; i++) {
+            this.subscribers[i].update(v);
+        }
+    };
+    BaseMulticast.prototype.subscribe = function (observerCandidate) {
+        var _this = this;
+        var observer = createObserver(observerCandidate, this.props);
+        this.subscribers.push(observer);
+        var subscription = {
+            unsubscribe: function () {
+                var index = _this.subscribers.indexOf(observer);
+                if (index !== -1) _this.subscribers.splice(index, 1);
+            }
+        };
+        return subscription;
+    };
+    BaseMulticast.prototype.stop = function () {
+        if (this.parent) this.parent.stop();
+    };
+    return BaseMulticast;
+}(Chainable);
+
+var Multicast = /*#__PURE__*/function (_super) {
+    Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__extends"])(Multicast, _super);
+    function Multicast() {
+        return _super !== null && _super.apply(this, arguments) || this;
+    }
+    Multicast.prototype.create = function (props) {
+        return new Multicast(props);
+    };
+    return Multicast;
+}(BaseMulticast);
+var multicast = function () {
+    return new Multicast();
+};
+
+var ValueReaction = /*#__PURE__*/function (_super) {
+    Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__extends"])(ValueReaction, _super);
+    function ValueReaction(props) {
+        var _this = _super.call(this, props) || this;
+        _this.scheduleVelocityCheck = function () {
+            return framesync__WEBPACK_IMPORTED_MODULE_2__["default"].postRender(_this.velocityCheck);
+        };
+        _this.velocityCheck = function (_a) {
+            var timestamp = _a.timestamp;
+            if (timestamp !== _this.lastUpdated) {
+                _this.prev = _this.current;
+            }
+        };
+        _this.prev = _this.current = props.value || 0;
+        _this.updateCurrent = function (v) {
+            return _this.current = v;
+        };
+        _this.getVelocityOfCurrent = function () {
+            return _this.getSingleVelocity(_this.current, _this.prev);
+        };
+        if (props.initialSubscription) _this.subscribe(props.initialSubscription);
+        return _this;
+    }
+    ValueReaction.prototype.create = function (props) {
+        return new ValueReaction(props);
+    };
+    ValueReaction.prototype.get = function () {
+        return this.current;
+    };
+    ValueReaction.prototype.getVelocity = function () {
+        return this.getVelocityOfCurrent();
+    };
+    ValueReaction.prototype.update = function (v) {
+        _super.prototype.update.call(this, v);
+        this.prev = this.current;
+        this.updateCurrent(v);
+        var _a = Object(framesync__WEBPACK_IMPORTED_MODULE_2__["getFrameData"])(),
+            delta = _a.delta,
+            timestamp = _a.timestamp;
+        this.timeDelta = delta;
+        this.lastUpdated = timestamp;
+        framesync__WEBPACK_IMPORTED_MODULE_2__["default"].postRender(this.scheduleVelocityCheck);
+    };
+    ValueReaction.prototype.subscribe = function (observerCandidate) {
+        var sub = _super.prototype.subscribe.call(this, observerCandidate);
+        this.subscribers[this.subscribers.length - 1].update(this.current);
+        return sub;
+    };
+    ValueReaction.prototype.getSingleVelocity = function (current, prev) {
+        return typeof current === 'number' && typeof prev === 'number' ? Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["velocityPerSecond"])(current - prev, this.timeDelta) : Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["velocityPerSecond"])(parseFloat(current) - parseFloat(prev), this.timeDelta) || 0;
+    };
+    return ValueReaction;
+}(BaseMulticast);
+var value = function (value, initialSubscription) {
+    return new ValueReaction({ value: value, initialSubscription: initialSubscription });
+};
+
+var createVectorTests = function (typeTests) {
+    var testNames = Object.keys(typeTests);
+    var isVectorProp = function (prop, key) {
+        return prop !== undefined && !typeTests[key](prop);
+    };
+    var getVectorKeys = function (props) {
+        return testNames.reduce(function (vectorKeys, key) {
+            if (isVectorProp(props[key], key)) vectorKeys.push(key);
+            return vectorKeys;
+        }, []);
+    };
+    var testVectorProps = function (props) {
+        return props && testNames.some(function (key) {
+            return isVectorProp(props[key], key);
+        });
+    };
+    return { getVectorKeys: getVectorKeys, testVectorProps: testVectorProps };
+};
+var unitTypes = [style_value_types__WEBPACK_IMPORTED_MODULE_3__["px"], style_value_types__WEBPACK_IMPORTED_MODULE_3__["percent"], style_value_types__WEBPACK_IMPORTED_MODULE_3__["degrees"], style_value_types__WEBPACK_IMPORTED_MODULE_3__["vh"], style_value_types__WEBPACK_IMPORTED_MODULE_3__["vw"]];
+var findUnitType = function (prop) {
+    return unitTypes.find(function (type) {
+        return type.test(prop);
+    });
+};
+var isUnitProp = function (prop) {
+    return Boolean(findUnitType(prop));
+};
+var createAction = function (action, props) {
+    return action(props);
+};
+var createUnitAction = function (action, _a) {
+    var from = _a.from,
+        to = _a.to,
+        props = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, ["from", "to"]);
+    var unitType = findUnitType(from) || findUnitType(to);
+    var transform = unitType.transform,
+        parse = unitType.parse;
+    return action(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, props, { from: typeof from === 'string' ? parse(from) : from, to: typeof to === 'string' ? parse(to) : to })).pipe(transform);
+};
+var createMixerAction = function (mixer) {
+    return function (action, _a) {
+        var from = _a.from,
+            to = _a.to,
+            props = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, ["from", "to"]);
+        return action(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, props, { from: 0, to: 1 })).pipe(mixer(from, to));
+    };
+};
+var createColorAction = /*#__PURE__*/createMixerAction(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["mixColor"]);
+var createComplexAction = /*#__PURE__*/createMixerAction(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["mixComplex"]);
+var createVectorAction = function (action, typeTests) {
+    var _a = createVectorTests(typeTests),
+        testVectorProps = _a.testVectorProps,
+        getVectorKeys = _a.getVectorKeys;
+    var vectorAction = function (props) {
+        var isVector = testVectorProps(props);
+        if (!isVector) return action(props);
+        var vectorKeys = getVectorKeys(props);
+        var testKey = vectorKeys[0];
+        var testProp = props[testKey];
+        return getActionCreator(testProp)(action, props, vectorKeys);
+    };
+    return vectorAction;
+};
+var getActionCreator = function (prop) {
+    if (typeof prop === 'number') {
+        return createAction;
+    } else if (isUnitProp(prop)) {
+        return createUnitAction;
+    } else if (style_value_types__WEBPACK_IMPORTED_MODULE_3__["color"].test(prop)) {
+        return createColorAction;
+    } else if (style_value_types__WEBPACK_IMPORTED_MODULE_3__["complex"].test(prop)) {
+        return createComplexAction;
+    } else {
+        return createAction;
+    }
+};
+
+var decay = function (props) {
+    if (props === void 0) {
+        props = {};
+    }
+    return action(function (_a) {
+        var complete = _a.complete,
+            update = _a.update;
+        var _b = props.velocity,
+            velocity = _b === void 0 ? 0 : _b,
+            _c = props.from,
+            from = _c === void 0 ? 0 : _c,
+            _d = props.power,
+            power = _d === void 0 ? 0.8 : _d,
+            _e = props.timeConstant,
+            timeConstant = _e === void 0 ? 350 : _e,
+            _f = props.restDelta,
+            restDelta = _f === void 0 ? 0.5 : _f,
+            modifyTarget = props.modifyTarget;
+        var elapsed = 0;
+        var amplitude = power * velocity;
+        var idealTarget = Math.round(from + amplitude);
+        var target = typeof modifyTarget === 'undefined' ? idealTarget : modifyTarget(idealTarget);
+        var process = framesync__WEBPACK_IMPORTED_MODULE_2__["default"].update(function (_a) {
+            var frameDelta = _a.delta;
+            elapsed += frameDelta;
+            var delta = -amplitude * Math.exp(-elapsed / timeConstant);
+            var isMoving = delta > restDelta || delta < -restDelta;
+            var current = isMoving ? target + delta : target;
+            update(current);
+            if (!isMoving) {
+                framesync__WEBPACK_IMPORTED_MODULE_2__["cancelSync"].update(process);
+                complete();
+            }
+        }, true);
+        return {
+            stop: function () {
+                return framesync__WEBPACK_IMPORTED_MODULE_2__["cancelSync"].update(process);
+            }
+        };
+    });
+};
+var vectorDecay = /*#__PURE__*/createVectorAction(decay, {
+    from: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    modifyTarget: function (func) {
+        return typeof func === 'function';
+    },
+    velocity: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test
+});
+
+var spring = function (props) {
+    if (props === void 0) {
+        props = {};
+    }
+    return action(function (_a) {
+        var update = _a.update,
+            complete = _a.complete;
+        var _b = props.velocity,
+            velocity = _b === void 0 ? 0.0 : _b;
+        var _c = props.from,
+            from = _c === void 0 ? 0.0 : _c,
+            _d = props.to,
+            to = _d === void 0 ? 0.0 : _d,
+            _e = props.stiffness,
+            stiffness = _e === void 0 ? 100 : _e,
+            _f = props.damping,
+            damping = _f === void 0 ? 10 : _f,
+            _g = props.mass,
+            mass = _g === void 0 ? 1.0 : _g,
+            _h = props.restSpeed,
+            restSpeed = _h === void 0 ? 0.01 : _h,
+            _j = props.restDelta,
+            restDelta = _j === void 0 ? 0.01 : _j;
+        var initialVelocity = velocity ? -(velocity / 1000) : 0.0;
+        var t = 0;
+        var delta = to - from;
+        var position = from;
+        var prevPosition = position;
+        var process = framesync__WEBPACK_IMPORTED_MODULE_2__["default"].update(function (_a) {
+            var timeDelta = _a.delta;
+            t += timeDelta;
+            var dampingRatio = damping / (2 * Math.sqrt(stiffness * mass));
+            var angularFreq = Math.sqrt(stiffness / mass) / 1000;
+            prevPosition = position;
+            if (dampingRatio < 1) {
+                var envelope = Math.exp(-dampingRatio * angularFreq * t);
+                var expoDecay = angularFreq * Math.sqrt(1.0 - dampingRatio * dampingRatio);
+                position = to - envelope * ((initialVelocity + dampingRatio * angularFreq * delta) / expoDecay * Math.sin(expoDecay * t) + delta * Math.cos(expoDecay * t));
+            } else {
+                var envelope = Math.exp(-angularFreq * t);
+                position = to - envelope * (delta + (initialVelocity + angularFreq * delta) * t);
+            }
+            velocity = Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["velocityPerSecond"])(position - prevPosition, timeDelta);
+            var isBelowVelocityThreshold = Math.abs(velocity) <= restSpeed;
+            var isBelowDisplacementThreshold = Math.abs(to - position) <= restDelta;
+            if (isBelowVelocityThreshold && isBelowDisplacementThreshold) {
+                position = to;
+                update(position);
+                framesync__WEBPACK_IMPORTED_MODULE_2__["cancelSync"].update(process);
+                complete();
+            } else {
+                update(position);
+            }
+        }, true);
+        return {
+            stop: function () {
+                return framesync__WEBPACK_IMPORTED_MODULE_2__["cancelSync"].update(process);
+            }
+        };
+    });
+};
+var vectorSpring = /*#__PURE__*/createVectorAction(spring, {
+    from: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    to: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    stiffness: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    damping: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    mass: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    velocity: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test
+});
+
+var inertia = function (_a) {
+    var _b = _a.from,
+        from = _b === void 0 ? 0 : _b,
+        _c = _a.velocity,
+        velocity = _c === void 0 ? 0 : _c,
+        min = _a.min,
+        max = _a.max,
+        _d = _a.power,
+        power = _d === void 0 ? 0.8 : _d,
+        _e = _a.timeConstant,
+        timeConstant = _e === void 0 ? 700 : _e,
+        _f = _a.bounceStiffness,
+        bounceStiffness = _f === void 0 ? 500 : _f,
+        _g = _a.bounceDamping,
+        bounceDamping = _g === void 0 ? 10 : _g,
+        _h = _a.restDelta,
+        restDelta = _h === void 0 ? 1 : _h,
+        modifyTarget = _a.modifyTarget;
+    return action(function (_a) {
+        var update = _a.update,
+            complete = _a.complete;
+        var prev = from;
+        var current = from;
+        var activeAnimation;
+        var isSpring = false;
+        var isLessThanMin = function (v) {
+            return min !== undefined && v <= min;
+        };
+        var isMoreThanMax = function (v) {
+            return max !== undefined && v >= max;
+        };
+        var isOutOfBounds = function (v) {
+            return isLessThanMin(v) || isMoreThanMax(v);
+        };
+        var isTravellingAwayFromBounds = function (v, currentVelocity) {
+            return isLessThanMin(v) && currentVelocity < 0 || isMoreThanMax(v) && currentVelocity > 0;
+        };
+        var onUpdate = function (v) {
+            update(v);
+            prev = current;
+            current = v;
+            velocity = Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["velocityPerSecond"])(current - prev, Object(framesync__WEBPACK_IMPORTED_MODULE_2__["getFrameData"])().delta);
+            if (activeAnimation && !isSpring && isTravellingAwayFromBounds(v, velocity)) {
+                startSpring({ from: v, velocity: velocity });
+            }
+        };
+        var startAnimation = function (animation, next) {
+            activeAnimation && activeAnimation.stop();
+            activeAnimation = animation.start({
+                update: onUpdate,
+                complete: function () {
+                    if (next) {
+                        next();
+                        return;
+                    }
+                    complete();
+                }
+            });
+        };
+        var startSpring = function (props) {
+            isSpring = true;
+            startAnimation(vectorSpring(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, props, { to: isLessThanMin(props.from) ? min : max, stiffness: bounceStiffness, damping: bounceDamping, restDelta: restDelta })));
+        };
+        if (isOutOfBounds(from)) {
+            startSpring({ from: from, velocity: velocity });
+        } else if (velocity !== 0) {
+            var animation = vectorDecay({
+                from: from,
+                velocity: velocity,
+                timeConstant: timeConstant,
+                power: power,
+                restDelta: isOutOfBounds(from) ? 20 : restDelta,
+                modifyTarget: modifyTarget
+            });
+            startAnimation(animation, function () {
+                if (isOutOfBounds(current)) {
+                    startSpring({ from: current, velocity: velocity });
+                } else {
+                    complete();
+                }
+            });
+        } else {
+            complete();
+        }
+        return {
+            stop: function () {
+                return activeAnimation && activeAnimation.stop();
+            }
+        };
+    });
+};
+var index = /*#__PURE__*/createVectorAction(inertia, {
+    from: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    velocity: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    min: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    max: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    damping: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    stiffness: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    modifyTarget: function (func) {
+        return typeof func === 'function';
+    }
+});
+
+var frame = function () {
+    return action(function (_a) {
+        var update = _a.update;
+        var initialTime = 0;
+        var process = framesync__WEBPACK_IMPORTED_MODULE_2__["default"].update(function (_a) {
+            var timestamp = _a.timestamp;
+            if (!initialTime) initialTime = timestamp;
+            update(timestamp - initialTime);
+        }, true, true);
+        return {
+            stop: function () {
+                return framesync__WEBPACK_IMPORTED_MODULE_2__["cancelSync"].update(process);
+            }
+        };
+    });
+};
+
+var scrubber = function (_a) {
+    var _b = _a.from,
+        from = _b === void 0 ? 0 : _b,
+        _c = _a.to,
+        to = _c === void 0 ? 1 : _c,
+        _d = _a.ease,
+        ease = _d === void 0 ? _popmotion_easing__WEBPACK_IMPORTED_MODULE_4__["linear"] : _d,
+        _e = _a.reverseEase,
+        reverseEase = _e === void 0 ? false : _e;
+    if (reverseEase) {
+        ease = Object(_popmotion_easing__WEBPACK_IMPORTED_MODULE_4__["createReversedEasing"])(ease);
+    }
+    return action(function (_a) {
+        var update = _a.update;
+        return {
+            seek: function (progress) {
+                return update(progress);
+            }
+        };
+    }).pipe(ease, function (v) {
+        return Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["mix"])(from, to, v);
+    });
+};
+var vectorScrubber = /*#__PURE__*/createVectorAction(scrubber, {
+    ease: function (func) {
+        return typeof func === 'function';
+    },
+    from: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    to: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test
+});
+
+var clampProgress = /*#__PURE__*/Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["clamp"])(0, 1);
+var tween = function (props) {
+    if (props === void 0) {
+        props = {};
+    }
+    return action(function (_a) {
+        var update = _a.update,
+            complete = _a.complete;
+        var _b = props.duration,
+            duration = _b === void 0 ? 300 : _b,
+            _c = props.ease,
+            ease = _c === void 0 ? _popmotion_easing__WEBPACK_IMPORTED_MODULE_4__["easeOut"] : _c,
+            _d = props.flip,
+            flip = _d === void 0 ? 0 : _d,
+            _e = props.loop,
+            loop = _e === void 0 ? 0 : _e,
+            _f = props.yoyo,
+            yoyo = _f === void 0 ? 0 : _f,
+            _g = props.repeatDelay,
+            repeatDelay = _g === void 0 ? 0 : _g;
+        var _h = props.from,
+            from = _h === void 0 ? 0 : _h,
+            _j = props.to,
+            to = _j === void 0 ? 1 : _j,
+            _k = props.elapsed,
+            elapsed = _k === void 0 ? 0 : _k,
+            _l = props.flipCount,
+            flipCount = _l === void 0 ? 0 : _l,
+            _m = props.yoyoCount,
+            yoyoCount = _m === void 0 ? 0 : _m,
+            _o = props.loopCount,
+            loopCount = _o === void 0 ? 0 : _o;
+        var playhead = vectorScrubber({ from: from, to: to, ease: ease }).start(update);
+        var currentProgress = 0;
+        var process;
+        var isActive = false;
+        var reverseAnimation = function (reverseEase) {
+            var _a;
+            if (reverseEase === void 0) {
+                reverseEase = false;
+            }
+            _a = [to, from], from = _a[0], to = _a[1];
+            playhead = vectorScrubber({ from: from, to: to, ease: ease, reverseEase: reverseEase }).start(update);
+        };
+        var isTweenComplete = function () {
+            var isComplete = isActive && elapsed > duration + repeatDelay;
+            if (!isComplete) return false;
+            if (isComplete && !loop && !flip && !yoyo) return true;
+            var overtime = elapsed - duration;
+            elapsed = overtime - repeatDelay;
+            if (loop && loopCount < loop) {
+                loopCount++;
+                return false;
+            } else if (flip && flipCount < flip) {
+                flipCount++;
+                reverseAnimation();
+                return false;
+            } else if (yoyo && yoyoCount < yoyo) {
+                yoyoCount++;
+                reverseAnimation(yoyoCount % 2 !== 0);
+                return false;
+            }
+            return true;
+        };
+        var updateTween = function () {
+            currentProgress = clampProgress(Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["progress"])(0, duration, elapsed));
+            playhead.seek(currentProgress);
+        };
+        var startTimer = function () {
+            isActive = true;
+            process = framesync__WEBPACK_IMPORTED_MODULE_2__["default"].update(function (_a) {
+                var delta = _a.delta;
+                elapsed += delta;
+                updateTween();
+                if (isTweenComplete()) {
+                    framesync__WEBPACK_IMPORTED_MODULE_2__["cancelSync"].update(process);
+                    complete && framesync__WEBPACK_IMPORTED_MODULE_2__["default"].update(complete, false, true);
+                }
+            }, true);
+        };
+        var stopTimer = function () {
+            isActive = false;
+            if (process) framesync__WEBPACK_IMPORTED_MODULE_2__["cancelSync"].update(process);
+        };
+        startTimer();
+        return {
+            isActive: function () {
+                return isActive;
+            },
+            getElapsed: function () {
+                return Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["clamp"])(0, duration, elapsed);
+            },
+            getProgress: function () {
+                return currentProgress;
+            },
+            stop: function () {
+                stopTimer();
+            },
+            pause: function () {
+                stopTimer();
+                return this;
+            },
+            resume: function () {
+                if (!isActive) startTimer();
+                return this;
+            },
+            seek: function (newProgress) {
+                elapsed = Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["mix"])(0, duration, newProgress);
+                framesync__WEBPACK_IMPORTED_MODULE_2__["default"].update(updateTween, false, true);
+                return this;
+            },
+            reverse: function () {
+                reverseAnimation();
+                return this;
+            }
+        };
+    });
+};
+
+var clampProgress$1 = /*#__PURE__*/Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["clamp"])(0, 1);
+var defaultEasings = function (values, easing) {
+    return values.map(function () {
+        return easing || _popmotion_easing__WEBPACK_IMPORTED_MODULE_4__["easeOut"];
+    }).splice(0, values.length - 1);
+};
+var defaultTimings = function (values) {
+    var numValues = values.length;
+    return values.map(function (value, i) {
+        return i !== 0 ? i / (numValues - 1) : 0;
+    });
+};
+var interpolateScrubbers = function (input, scrubbers, update) {
+    var rangeLength = input.length;
+    var finalInputIndex = rangeLength - 1;
+    var finalScrubberIndex = finalInputIndex - 1;
+    var subs = scrubbers.map(function (scrub) {
+        return scrub.start(update);
+    });
+    return function (v) {
+        if (v <= input[0]) {
+            subs[0].seek(0);
+        }
+        if (v >= input[finalInputIndex]) {
+            subs[finalScrubberIndex].seek(1);
+        }
+        var i = 1;
+        for (; i < rangeLength; i++) {
+            if (input[i] > v || i === finalInputIndex) break;
+        }
+        var progressInRange = Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["progress"])(input[i - 1], input[i], v);
+        subs[i - 1].seek(clampProgress$1(progressInRange));
+    };
+};
+var keyframes = function (_a) {
+    var easings = _a.easings,
+        _b = _a.ease,
+        ease = _b === void 0 ? _popmotion_easing__WEBPACK_IMPORTED_MODULE_4__["linear"] : _b,
+        times = _a.times,
+        values = _a.values,
+        tweenProps = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, ["easings", "ease", "times", "values"]);
+    easings = Array.isArray(easings) ? easings : defaultEasings(values, easings);
+    times = times || defaultTimings(values);
+    var scrubbers = easings.map(function (easing, i) {
+        return vectorScrubber({
+            from: values[i],
+            to: values[i + 1],
+            ease: easing
+        });
+    });
+    return tween(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, tweenProps, { ease: ease })).applyMiddleware(function (update) {
+        return interpolateScrubbers(times, scrubbers, update);
+    });
+};
+
+var physics = function (props) {
+    if (props === void 0) {
+        props = {};
+    }
+    return action(function (_a) {
+        var complete = _a.complete,
+            update = _a.update;
+        var _b = props.acceleration,
+            acceleration = _b === void 0 ? 0 : _b,
+            _c = props.friction,
+            friction = _c === void 0 ? 0 : _c,
+            _d = props.velocity,
+            velocity = _d === void 0 ? 0 : _d,
+            springStrength = props.springStrength,
+            to = props.to;
+        var _e = props.restSpeed,
+            restSpeed = _e === void 0 ? 0.001 : _e,
+            _f = props.from,
+            from = _f === void 0 ? 0 : _f;
+        var current = from;
+        var process = framesync__WEBPACK_IMPORTED_MODULE_2__["default"].update(function (_a) {
+            var delta = _a.delta;
+            var elapsed = Math.max(delta, 16);
+            if (acceleration) velocity += Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["velocityPerFrame"])(acceleration, elapsed);
+            if (friction) velocity *= Math.pow(1 - friction, elapsed / 100);
+            if (springStrength !== undefined && to !== undefined) {
+                var distanceToTarget = to - current;
+                velocity += distanceToTarget * Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["velocityPerFrame"])(springStrength, elapsed);
+            }
+            current += Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["velocityPerFrame"])(velocity, elapsed);
+            update(current);
+            var isComplete = restSpeed !== false && (!velocity || Math.abs(velocity) <= restSpeed);
+            if (isComplete) {
+                framesync__WEBPACK_IMPORTED_MODULE_2__["cancelSync"].update(process);
+                complete();
+            }
+        }, true);
+        return {
+            set: function (v) {
+                current = v;
+                return this;
+            },
+            setAcceleration: function (v) {
+                acceleration = v;
+                return this;
+            },
+            setFriction: function (v) {
+                friction = v;
+                return this;
+            },
+            setSpringStrength: function (v) {
+                springStrength = v;
+                return this;
+            },
+            setSpringTarget: function (v) {
+                to = v;
+                return this;
+            },
+            setVelocity: function (v) {
+                velocity = v;
+                return this;
+            },
+            stop: function () {
+                return framesync__WEBPACK_IMPORTED_MODULE_2__["cancelSync"].update(process);
+            }
+        };
+    });
+};
+var vectorPhysics = /*#__PURE__*/createVectorAction(physics, {
+    acceleration: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    friction: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    velocity: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    from: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    to: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test,
+    springStrength: style_value_types__WEBPACK_IMPORTED_MODULE_3__["number"].test
+});
+
+var multi = function (_a) {
+    var getCount = _a.getCount,
+        getFirst = _a.getFirst,
+        getOutput = _a.getOutput,
+        mapApi = _a.mapApi,
+        setProp = _a.setProp,
+        startActions = _a.startActions;
+    return function (actions) {
+        return action(function (_a) {
+            var update = _a.update,
+                complete = _a.complete,
+                error = _a.error;
+            var numActions = getCount(actions);
+            var output = getOutput();
+            var updateOutput = function () {
+                return update(output);
+            };
+            var numCompletedActions = 0;
+            var subs = startActions(actions, function (a, name) {
+                var hasCompleted = false;
+                return a.start({
+                    complete: function () {
+                        if (!hasCompleted) {
+                            hasCompleted = true;
+                            numCompletedActions++;
+                            if (numCompletedActions === numActions) framesync__WEBPACK_IMPORTED_MODULE_2__["default"].update(complete);
+                        }
+                    },
+                    error: error,
+                    update: function (v) {
+                        setProp(output, name, v);
+                        framesync__WEBPACK_IMPORTED_MODULE_2__["default"].update(updateOutput, false, true);
+                    }
+                });
+            });
+            return Object.keys(getFirst(subs)).reduce(function (api, methodName) {
+                api[methodName] = mapApi(subs, methodName);
+                return api;
+            }, {});
+        });
+    };
+};
+
+var composite = /*#__PURE__*/multi({
+    getOutput: function () {
+        return {};
+    },
+    getCount: function (subs) {
+        return Object.keys(subs).length;
+    },
+    getFirst: function (subs) {
+        return subs[Object.keys(subs)[0]];
+    },
+    mapApi: function (subs, methodName) {
+        return function () {
+            var args = [];
+            for (var _i = 0; _i < arguments.length; _i++) {
+                args[_i] = arguments[_i];
+            }
+            return Object.keys(subs).reduce(function (output, propKey) {
+                var _a;
+                if (subs[propKey][methodName]) {
+                    args[0] && args[0][propKey] !== undefined ? output[propKey] = subs[propKey][methodName](args[0][propKey]) : output[propKey] = (_a = subs[propKey])[methodName].apply(_a, args);
+                }
+                return output;
+            }, {});
+        };
+    },
+    setProp: function (output, name, v) {
+        return output[name] = v;
+    },
+    startActions: function (actions, starter) {
+        return Object.keys(actions).reduce(function (subs, key) {
+            subs[key] = starter(actions[key], key);
+            return subs;
+        }, {});
+    }
+});
+
+var DEFAULT_DURATION = 300;
+var flattenTimings = function (instructions) {
+    var flatInstructions = [];
+    var lastArg = instructions[instructions.length - 1];
+    var isStaggered = typeof lastArg === 'number';
+    var staggerDelay = isStaggered ? lastArg : 0;
+    var segments = isStaggered ? instructions.slice(0, -1) : instructions;
+    var numSegments = segments.length;
+    var offset = 0;
+    segments.forEach(function (item, i) {
+        flatInstructions.push(item);
+        if (i !== numSegments - 1) {
+            var duration = item.duration || DEFAULT_DURATION;
+            offset += staggerDelay;
+            flatInstructions.push("-" + (duration - offset));
+        }
+    });
+    return flatInstructions;
+};
+var flattenArrayInstructions = function (instructions, instruction) {
+    Array.isArray(instruction) ? instructions.push.apply(instructions, flattenTimings(instruction)) : instructions.push(instruction);
+    return instructions;
+};
+var convertDefToProps = function (props, def, i) {
+    var duration = props.duration,
+        easings = props.easings,
+        times = props.times,
+        values = props.values;
+    var numValues = values.length;
+    var prevTimeTo = times[numValues - 1];
+    var timeFrom = def.at === 0 ? 0 : def.at / duration;
+    var timeTo = (def.at + def.duration) / duration;
+    if (i === 0) {
+        values.push(def.from);
+        times.push(timeFrom);
+    } else {
+        if (prevTimeTo !== timeFrom) {
+            if (def.from !== undefined) {
+                values.push(values[numValues - 1]);
+                times.push(timeFrom);
+                easings.push(_popmotion_easing__WEBPACK_IMPORTED_MODULE_4__["linear"]);
+            }
+            var from = def.from !== undefined ? def.from : values[numValues - 1];
+            values.push(from);
+            times.push(timeFrom);
+            easings.push(_popmotion_easing__WEBPACK_IMPORTED_MODULE_4__["linear"]);
+        } else if (def.from !== undefined) {
+            values.push(def.from);
+            times.push(timeFrom);
+            easings.push(_popmotion_easing__WEBPACK_IMPORTED_MODULE_4__["linear"]);
+        }
+    }
+    values.push(def.to);
+    times.push(timeTo);
+    easings.push(def.ease || _popmotion_easing__WEBPACK_IMPORTED_MODULE_4__["easeInOut"]);
+    return props;
+};
+var timeline = function (instructions, _a) {
+    var _b = _a === void 0 ? {} : _a,
+        duration = _b.duration,
+        elapsed = _b.elapsed,
+        ease = _b.ease,
+        loop = _b.loop,
+        flip = _b.flip,
+        yoyo = _b.yoyo;
+    var playhead = 0;
+    var calculatedDuration = 0;
+    var flatInstructions = instructions.reduce(flattenArrayInstructions, []);
+    var animationDefs = [];
+    flatInstructions.forEach(function (instruction) {
+        if (typeof instruction === 'string') {
+            playhead += parseFloat(instruction);
+        } else if (typeof instruction === 'number') {
+            playhead = instruction;
+        } else {
+            var def = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, instruction, { at: playhead });
+            def.duration = def.duration === undefined ? DEFAULT_DURATION : def.duration;
+            animationDefs.push(def);
+            playhead += def.duration;
+            calculatedDuration = Math.max(calculatedDuration, def.at + def.duration);
+        }
+    });
+    var tracks = {};
+    var numDefs = animationDefs.length;
+    for (var i = 0; i < numDefs; i++) {
+        var def = animationDefs[i];
+        var track = def.track;
+        if (track === undefined) {
+            throw new Error('No track defined');
+        }
+        if (!tracks.hasOwnProperty(track)) tracks[track] = [];
+        tracks[track].push(def);
+    }
+    var trackKeyframes = {};
+    for (var key in tracks) {
+        if (tracks.hasOwnProperty(key)) {
+            var keyframeProps = tracks[key].reduce(convertDefToProps, {
+                duration: calculatedDuration,
+                easings: [],
+                times: [],
+                values: []
+            });
+            trackKeyframes[key] = keyframes(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, keyframeProps, { duration: duration || calculatedDuration, ease: ease,
+                elapsed: elapsed,
+                loop: loop,
+                yoyo: yoyo,
+                flip: flip }));
+        }
+    }
+    return composite(trackKeyframes);
+};
+
+var listen = function (element, events, options) {
+    return action(function (_a) {
+        var update = _a.update;
+        var eventNames = events.split(' ').map(function (eventName) {
+            element.addEventListener(eventName, update, options);
+            return eventName;
+        });
+        return {
+            stop: function () {
+                return eventNames.forEach(function (eventName) {
+                    return element.removeEventListener(eventName, update, options);
+                });
+            }
+        };
+    });
+};
+
+var defaultPointerPos = function () {
+    return {
+        clientX: 0,
+        clientY: 0,
+        pageX: 0,
+        pageY: 0,
+        x: 0,
+        y: 0
+    };
+};
+var eventToPoint = function (e, point) {
+    if (point === void 0) {
+        point = defaultPointerPos();
+    }
+    point.clientX = point.x = e.clientX;
+    point.clientY = point.y = e.clientY;
+    point.pageX = e.pageX;
+    point.pageY = e.pageY;
+    return point;
+};
+
+var points = [/*#__PURE__*/defaultPointerPos()];
+var isTouchDevice = false;
+if (typeof document !== 'undefined') {
+    var updatePointsLocation = function (_a) {
+        var touches = _a.touches;
+        isTouchDevice = true;
+        var numTouches = touches.length;
+        points.length = 0;
+        for (var i = 0; i < numTouches; i++) {
+            var thisTouch = touches[i];
+            points.push(eventToPoint(thisTouch));
+        }
+    };
+    listen(document, 'touchstart touchmove', {
+        passive: true,
+        capture: true
+    }).start(updatePointsLocation);
+}
+var multitouch = function (_a) {
+    var _b = _a === void 0 ? {} : _a,
+        _c = _b.preventDefault,
+        preventDefault = _c === void 0 ? true : _c,
+        _d = _b.scale,
+        scale = _d === void 0 ? 1.0 : _d,
+        _e = _b.rotate,
+        rotate = _e === void 0 ? 0.0 : _e;
+    return action(function (_a) {
+        var update = _a.update;
+        var output = {
+            touches: points,
+            scale: scale,
+            rotate: rotate
+        };
+        var initialDistance = 0.0;
+        var initialRotation = 0.0;
+        var isGesture = points.length > 1;
+        if (isGesture) {
+            var firstTouch = points[0],
+                secondTouch = points[1];
+            initialDistance = Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["distance"])(firstTouch, secondTouch);
+            initialRotation = Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["angle"])(firstTouch, secondTouch);
+        }
+        var updatePoint = function () {
+            if (isGesture) {
+                var firstTouch = points[0],
+                    secondTouch = points[1];
+                var newDistance = Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["distance"])(firstTouch, secondTouch);
+                var newRotation = Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["angle"])(firstTouch, secondTouch);
+                output.scale = scale * (newDistance / initialDistance);
+                output.rotate = rotate + (newRotation - initialRotation);
+            }
+            update(output);
+        };
+        var onMove = function (e) {
+            if (preventDefault || e.touches.length > 1) e.preventDefault();
+            framesync__WEBPACK_IMPORTED_MODULE_2__["default"].update(updatePoint);
+        };
+        var updateOnMove = listen(document, 'touchmove', {
+            passive: !preventDefault
+        }).start(onMove);
+        if (isTouchDevice) framesync__WEBPACK_IMPORTED_MODULE_2__["default"].update(updatePoint);
+        return {
+            stop: function () {
+                framesync__WEBPACK_IMPORTED_MODULE_2__["cancelSync"].update(updatePoint);
+                updateOnMove.stop();
+            }
+        };
+    });
+};
+var getIsTouchDevice = function () {
+    return isTouchDevice;
+};
+
+var point = /*#__PURE__*/defaultPointerPos();
+var isMouseDevice = false;
+if (typeof document !== 'undefined') {
+    var updatePointLocation = function (e) {
+        isMouseDevice = true;
+        eventToPoint(e, point);
+    };
+    listen(document, 'mousedown mousemove', true).start(updatePointLocation);
+}
+var mouse = function (_a) {
+    var _b = (_a === void 0 ? {} : _a).preventDefault,
+        preventDefault = _b === void 0 ? true : _b;
+    return action(function (_a) {
+        var update = _a.update;
+        var updatePoint = function () {
+            return update(point);
+        };
+        var onMove = function (e) {
+            if (preventDefault) e.preventDefault();
+            framesync__WEBPACK_IMPORTED_MODULE_2__["default"].update(updatePoint);
+        };
+        var updateOnMove = listen(document, 'mousemove').start(onMove);
+        if (isMouseDevice) framesync__WEBPACK_IMPORTED_MODULE_2__["default"].update(updatePoint);
+        return {
+            stop: function () {
+                framesync__WEBPACK_IMPORTED_MODULE_2__["cancelSync"].update(updatePoint);
+                updateOnMove.stop();
+            }
+        };
+    });
+};
+
+var getFirstTouch = function (_a) {
+    var firstTouch = _a[0];
+    return firstTouch;
+};
+var pointer = function (props) {
+    if (props === void 0) {
+        props = {};
+    }
+    return getIsTouchDevice() ? multitouch(props).pipe(function (_a) {
+        var touches = _a.touches;
+        return touches;
+    }, getFirstTouch) : mouse(props);
+};
+var index$1 = function (_a) {
+    if (_a === void 0) {
+        _a = {};
+    }
+    var x = _a.x,
+        y = _a.y,
+        props = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, ["x", "y"]);
+    if (x !== undefined || y !== undefined) {
+        var applyXOffset_1 = Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["applyOffset"])(x || 0);
+        var applyYOffset_1 = Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["applyOffset"])(y || 0);
+        var delta_1 = { x: 0, y: 0 };
+        return pointer(props).pipe(function (point) {
+            delta_1.x = applyXOffset_1(point.x);
+            delta_1.y = applyYOffset_1(point.y);
+            return delta_1;
+        });
+    } else {
+        return pointer(props);
+    }
+};
+
+var chain = function () {
+    var actions = [];
+    for (var _i = 0; _i < arguments.length; _i++) {
+        actions[_i] = arguments[_i];
+    }
+    return action(function (_a) {
+        var update = _a.update,
+            complete = _a.complete;
+        var i = 0;
+        var current;
+        var playCurrent = function () {
+            current = actions[i].start({
+                complete: function () {
+                    i++;
+                    i >= actions.length ? complete() : playCurrent();
+                },
+                update: update
+            });
+        };
+        playCurrent();
+        return {
+            stop: function () {
+                return current && current.stop();
+            }
+        };
+    });
+};
+
+var parallel = /*#__PURE__*/multi({
+    getOutput: function () {
+        return [];
+    },
+    getCount: function (subs) {
+        return subs.length;
+    },
+    getFirst: function (subs) {
+        return subs[0];
+    },
+    mapApi: function (subs, methodName) {
+        return function () {
+            var args = [];
+            for (var _i = 0; _i < arguments.length; _i++) {
+                args[_i] = arguments[_i];
+            }
+            return subs.map(function (sub, i) {
+                if (sub[methodName]) {
+                    return Array.isArray(args[0]) ? sub[methodName](args[0][i]) : sub[methodName].apply(sub, args);
+                }
+            });
+        };
+    },
+    setProp: function (output, name, v) {
+        return output[name] = v;
+    },
+    startActions: function (actions, starter) {
+        return actions.map(function (action, i) {
+            return starter(action, i);
+        });
+    }
+});
+var parallel$1 = function () {
+    var actions = [];
+    for (var _i = 0; _i < arguments.length; _i++) {
+        actions[_i] = arguments[_i];
+    }
+    return parallel(actions);
+};
+
+var crossfade = function (a, b) {
+    return action(function (observer) {
+        var balance = 0;
+        var fadable = parallel$1(a, b).start(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, observer, { update: function (_a) {
+                var va = _a[0],
+                    vb = _a[1];
+                observer.update(Object(_popmotion_popcorn__WEBPACK_IMPORTED_MODULE_1__["mix"])(va, vb, balance));
+            } }));
+        return {
+            setBalance: function (v) {
+                return balance = v;
+            },
+            stop: function () {
+                return fadable.stop();
+            }
+        };
+    });
+};
+
+var delay = function (timeToDelay) {
+    return action(function (_a) {
+        var complete = _a.complete;
+        var timeout = setTimeout(complete, timeToDelay);
+        return {
+            stop: function () {
+                return clearTimeout(timeout);
+            }
+        };
+    });
+};
+
+var merge = function () {
+    var actions = [];
+    for (var _i = 0; _i < arguments.length; _i++) {
+        actions[_i] = arguments[_i];
+    }
+    return action(function (observer) {
+        var subs = actions.map(function (thisAction) {
+            return thisAction.start(observer);
+        });
+        return {
+            stop: function () {
+                return subs.forEach(function (sub) {
+                    return sub.stop();
+                });
+            }
+        };
+    });
+};
+
+var schedule = function (scheduler, schedulee) {
+    return action(function (_a) {
+        var update = _a.update,
+            complete = _a.complete;
+        var latest;
+        var schedulerSub = scheduler.start({
+            update: function () {
+                return latest !== undefined && update(latest);
+            },
+            complete: complete
+        });
+        var scheduleeSub = schedulee.start({
+            update: function (v) {
+                return latest = v;
+            },
+            complete: complete
+        });
+        return {
+            stop: function () {
+                schedulerSub.stop();
+                scheduleeSub.stop();
+            }
+        };
+    });
+};
+
+var stagger = function (actions, interval) {
+    var intervalIsNumber = typeof interval === 'number';
+    var actionsWithDelay = actions.map(function (a, i) {
+        var timeToDelay = intervalIsNumber ? interval * i : interval(i);
+        return chain(delay(timeToDelay), a);
+    });
+    return parallel$1.apply(void 0, actionsWithDelay);
+};
+
+var styler = function () {
+    return Object(hey_listen__WEBPACK_IMPORTED_MODULE_5__["invariant"])(false, 'styler has been removed from Popmotion in 9.0. Downgrade to 8.x or npm install stylefire');
+};
+
+
+
 
 /***/ }),
 
@@ -15615,6 +23125,1064 @@ module.exports = (__webpack_require__(/*! dll-reference dll_ef0ff7c60362f24a921f
 
 /***/ }),
 
+/***/ "./node_modules/style-value-types/dist/style-value-types.es.js":
+/*!*********************************************************************!*\
+  !*** ./node_modules/style-value-types/dist/style-value-types.es.js ***!
+  \*********************************************************************/
+/*! exports provided: number, scale, alpha, degrees, percent, progressPercentage, px, vw, vh, rgba, rgbUnit, hsla, hex, color, complex */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "number", function() { return number; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "scale", function() { return scale; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "alpha", function() { return alpha; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "degrees", function() { return degrees; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "percent", function() { return percent; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "progressPercentage", function() { return progressPercentage; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "px", function() { return px; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "vw", function() { return vw; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "vh", function() { return vh; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rgba", function() { return rgba; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "rgbUnit", function() { return rgbUnit; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "hsla", function() { return hsla; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "hex", function() { return hex; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "color", function() { return color; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "complex", function() { return complex; });
+/*! *****************************************************************************
+Copyright (c) Microsoft Corporation. All rights reserved.
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+this file except in compliance with the License. You may obtain a copy of the
+License at http://www.apache.org/licenses/LICENSE-2.0
+
+THIS CODE IS PROVIDED ON AN *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE,
+MERCHANTABLITY OR NON-INFRINGEMENT.
+
+See the Apache Version 2.0 License for specific language governing permissions
+and limitations under the License.
+***************************************************************************** */
+
+var __assign = function() {
+    __assign = Object.assign || function __assign(t) {
+        for (var s, i = 1, n = arguments.length; i < n; i++) {
+            s = arguments[i];
+            for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p)) t[p] = s[p];
+        }
+        return t;
+    };
+    return __assign.apply(this, arguments);
+};
+
+var clamp = function (min, max) { return function (v) {
+    return Math.max(Math.min(v, max), min);
+}; };
+var sanitize = function (v) { return (v % 1 ? Number(v.toFixed(5)) : v); };
+var floatRegex = /(-)?(\d[\d\.]*)/g;
+var colorRegex = /(#[0-9a-f]{6}|#[0-9a-f]{3}|#(?:[0-9a-f]{2}){2,4}|(rgb|hsl)a?\((-?\d+%?[,\s]+){2,3}\s*[\d\.]+%?\))/gi;
+var singleColorRegex = /^(#[0-9a-f]{3}|#(?:[0-9a-f]{2}){2,4}|(rgb|hsl)a?\((-?\d+%?[,\s]+){2,3}\s*[\d\.]+%?\))$/i;
+
+var number = {
+    test: function (v) { return typeof v === 'number'; },
+    parse: parseFloat,
+    transform: function (v) { return v; }
+};
+var alpha = __assign(__assign({}, number), { transform: clamp(0, 1) });
+var scale = __assign(__assign({}, number), { default: 1 });
+
+var createUnitType = function (unit) { return ({
+    test: function (v) {
+        return typeof v === 'string' && v.endsWith(unit) && v.split(' ').length === 1;
+    },
+    parse: parseFloat,
+    transform: function (v) { return "" + v + unit; }
+}); };
+var degrees = createUnitType('deg');
+var percent = createUnitType('%');
+var px = createUnitType('px');
+var vh = createUnitType('vh');
+var vw = createUnitType('vw');
+var progressPercentage = __assign(__assign({}, percent), { parse: function (v) { return percent.parse(v) / 100; }, transform: function (v) { return percent.transform(v * 100); } });
+
+var getValueFromFunctionString = function (value) {
+    return value.substring(value.indexOf('(') + 1, value.lastIndexOf(')'));
+};
+var clampRgbUnit = clamp(0, 255);
+var isRgba = function (v) { return v.red !== undefined; };
+var isHsla = function (v) { return v.hue !== undefined; };
+var splitColorValues = function (terms) {
+    return function (v) {
+        if (typeof v !== 'string')
+            return v;
+        var values = {};
+        var valuesArray = getValueFromFunctionString(v).split(/,\s*/);
+        for (var i = 0; i < 4; i++) {
+            values[terms[i]] =
+                valuesArray[i] !== undefined ? parseFloat(valuesArray[i]) : 1;
+        }
+        return values;
+    };
+};
+var rgbaTemplate = function (_a) {
+    var red = _a.red, green = _a.green, blue = _a.blue, _b = _a.alpha, alpha$$1 = _b === void 0 ? 1 : _b;
+    return "rgba(" + red + ", " + green + ", " + blue + ", " + alpha$$1 + ")";
+};
+var hslaTemplate = function (_a) {
+    var hue = _a.hue, saturation = _a.saturation, lightness = _a.lightness, _b = _a.alpha, alpha$$1 = _b === void 0 ? 1 : _b;
+    return "hsla(" + hue + ", " + saturation + ", " + lightness + ", " + alpha$$1 + ")";
+};
+var rgbUnit = __assign(__assign({}, number), { transform: function (v) { return Math.round(clampRgbUnit(v)); } });
+function isColorString(color, colorType) {
+    return color.startsWith(colorType) && singleColorRegex.test(color);
+}
+var rgba = {
+    test: function (v) { return (typeof v === 'string' ? isColorString(v, 'rgb') : isRgba(v)); },
+    parse: splitColorValues(['red', 'green', 'blue', 'alpha']),
+    transform: function (_a) {
+        var red = _a.red, green = _a.green, blue = _a.blue, _b = _a.alpha, alpha$$1 = _b === void 0 ? 1 : _b;
+        return rgbaTemplate({
+            red: rgbUnit.transform(red),
+            green: rgbUnit.transform(green),
+            blue: rgbUnit.transform(blue),
+            alpha: sanitize(alpha.transform(alpha$$1))
+        });
+    }
+};
+var hsla = {
+    test: function (v) { return (typeof v === 'string' ? isColorString(v, 'hsl') : isHsla(v)); },
+    parse: splitColorValues(['hue', 'saturation', 'lightness', 'alpha']),
+    transform: function (_a) {
+        var hue = _a.hue, saturation = _a.saturation, lightness = _a.lightness, _b = _a.alpha, alpha$$1 = _b === void 0 ? 1 : _b;
+        return hslaTemplate({
+            hue: Math.round(hue),
+            saturation: percent.transform(sanitize(saturation)),
+            lightness: percent.transform(sanitize(lightness)),
+            alpha: sanitize(alpha.transform(alpha$$1))
+        });
+    }
+};
+var hex = __assign(__assign({}, rgba), { test: function (v) { return typeof v === 'string' && isColorString(v, '#'); }, parse: function (v) {
+        var r = '';
+        var g = '';
+        var b = '';
+        if (v.length > 4) {
+            r = v.substr(1, 2);
+            g = v.substr(3, 2);
+            b = v.substr(5, 2);
+        }
+        else {
+            r = v.substr(1, 1);
+            g = v.substr(2, 1);
+            b = v.substr(3, 1);
+            r += r;
+            g += g;
+            b += b;
+        }
+        return {
+            red: parseInt(r, 16),
+            green: parseInt(g, 16),
+            blue: parseInt(b, 16),
+            alpha: 1
+        };
+    } });
+var color = {
+    test: function (v) {
+        return (typeof v === 'string' && singleColorRegex.test(v)) ||
+            isRgba(v) ||
+            isHsla(v);
+    },
+    parse: function (v) {
+        if (rgba.test(v)) {
+            return rgba.parse(v);
+        }
+        else if (hsla.test(v)) {
+            return hsla.parse(v);
+        }
+        else if (hex.test(v)) {
+            return hex.parse(v);
+        }
+        return v;
+    },
+    transform: function (v) {
+        if (isRgba(v)) {
+            return rgba.transform(v);
+        }
+        else if (isHsla(v)) {
+            return hsla.transform(v);
+        }
+        return v;
+    }
+};
+
+var COLOR_TOKEN = '${c}';
+var NUMBER_TOKEN = '${n}';
+var convertNumbersToZero = function (v) {
+    return typeof v === 'number' ? 0 : v;
+};
+var complex = {
+    test: function (v) {
+        if (typeof v !== 'string' || !isNaN(v))
+            return false;
+        var numValues = 0;
+        var foundNumbers = v.match(floatRegex);
+        var foundColors = v.match(colorRegex);
+        if (foundNumbers)
+            numValues += foundNumbers.length;
+        if (foundColors)
+            numValues += foundColors.length;
+        return numValues > 0;
+    },
+    parse: function (v) {
+        var input = v;
+        var parsed = [];
+        var foundColors = input.match(colorRegex);
+        if (foundColors) {
+            input = input.replace(colorRegex, COLOR_TOKEN);
+            parsed.push.apply(parsed, foundColors.map(color.parse));
+        }
+        var foundNumbers = input.match(floatRegex);
+        if (foundNumbers) {
+            parsed.push.apply(parsed, foundNumbers.map(number.parse));
+        }
+        return parsed;
+    },
+    createTransformer: function (prop) {
+        var template = prop;
+        var token = 0;
+        var foundColors = prop.match(colorRegex);
+        var numColors = foundColors ? foundColors.length : 0;
+        if (foundColors) {
+            for (var i = 0; i < numColors; i++) {
+                template = template.replace(foundColors[i], COLOR_TOKEN);
+                token++;
+            }
+        }
+        var foundNumbers = template.match(floatRegex);
+        var numNumbers = foundNumbers ? foundNumbers.length : 0;
+        if (foundNumbers) {
+            for (var i = 0; i < numNumbers; i++) {
+                template = template.replace(foundNumbers[i], NUMBER_TOKEN);
+                token++;
+            }
+        }
+        return function (v) {
+            var output = template;
+            for (var i = 0; i < token; i++) {
+                output = output.replace(i < numColors ? COLOR_TOKEN : NUMBER_TOKEN, i < numColors ? color.transform(v[i]) : sanitize(v[i]));
+            }
+            return output;
+        };
+    },
+    getAnimatableNone: function (target) {
+        var parsedTarget = complex.parse(target);
+        var targetTransformer = complex.createTransformer(target);
+        return targetTransformer(parsedTarget.map(convertNumbersToZero));
+    }
+};
+
+
+
+
+/***/ }),
+
+/***/ "./node_modules/stylefire/dist/stylefire.es.js":
+/*!*****************************************************!*\
+  !*** ./node_modules/stylefire/dist/stylefire.es.js ***!
+  \*****************************************************/
+/*! exports provided: default, buildSVGAttrs, buildStyleProperty, createStylerFactory, isTransformProp, transformProps */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "buildSVGAttrs", function() { return buildSVGAttrs; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "buildStyleProperty", function() { return buildStyleProperty; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "createStylerFactory", function() { return createStyler; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "isTransformProp", function() { return isTransformProp; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "transformProps", function() { return transformProps; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var framesync__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! framesync */ "./node_modules/framesync/dist/framesync.es.js");
+/* harmony import */ var style_value_types__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! style-value-types */ "./node_modules/style-value-types/dist/style-value-types.es.js");
+/* harmony import */ var hey_listen__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! hey-listen */ "./node_modules/hey-listen/dist/hey-listen.es.js");
+
+
+
+
+
+var createStyler = function (_a) {
+    var onRead = _a.onRead,
+        onRender = _a.onRender,
+        _b = _a.uncachedValues,
+        uncachedValues = _b === void 0 ? new Set() : _b,
+        _c = _a.useCache,
+        useCache = _c === void 0 ? true : _c;
+    return function (_a) {
+        if (_a === void 0) {
+            _a = {};
+        }
+        var props = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, []);
+        var state = {};
+        var changedValues = [];
+        var hasChanged = false;
+        function setValue(key, value) {
+            if (key.startsWith('--')) {
+                props.hasCSSVariable = true;
+            }
+            var currentValue = state[key];
+            state[key] = value;
+            if (state[key] === currentValue) return;
+            if (changedValues.indexOf(key) === -1) {
+                changedValues.push(key);
+            }
+            if (!hasChanged) {
+                hasChanged = true;
+                framesync__WEBPACK_IMPORTED_MODULE_1__["default"].render(styler.render);
+            }
+        }
+        var styler = {
+            get: function (key, forceRead) {
+                if (forceRead === void 0) {
+                    forceRead = false;
+                }
+                var useCached = !forceRead && useCache && !uncachedValues.has(key) && state[key] !== undefined;
+                return useCached ? state[key] : onRead(key, props);
+            },
+            set: function (values, value) {
+                if (typeof values === 'string') {
+                    setValue(values, value);
+                } else {
+                    for (var key in values) {
+                        setValue(key, values[key]);
+                    }
+                }
+                return this;
+            },
+            render: function (forceRender) {
+                if (forceRender === void 0) {
+                    forceRender = false;
+                }
+                if (hasChanged || forceRender === true) {
+                    onRender(state, props, changedValues);
+                    hasChanged = false;
+                    changedValues.length = 0;
+                }
+                return this;
+            }
+        };
+        return styler;
+    };
+};
+
+var CAMEL_CASE_PATTERN = /([a-z])([A-Z])/g;
+var REPLACE_TEMPLATE = '$1-$2';
+var camelToDash = function (str) {
+    return str.replace(CAMEL_CASE_PATTERN, REPLACE_TEMPLATE).toLowerCase();
+};
+
+var camelCache = /*#__PURE__*/new Map();
+var dashCache = /*#__PURE__*/new Map();
+var prefixes = ['Webkit', 'Moz', 'O', 'ms', ''];
+var numPrefixes = prefixes.length;
+var isBrowser = typeof document !== 'undefined';
+var testElement;
+var setDashPrefix = function (key, prefixed) {
+    return dashCache.set(key, camelToDash(prefixed));
+};
+var testPrefix = function (key) {
+    testElement = testElement || document.createElement('div');
+    for (var i = 0; i < numPrefixes; i++) {
+        var prefix = prefixes[i];
+        var noPrefix = prefix === '';
+        var prefixedPropertyName = noPrefix ? key : prefix + key.charAt(0).toUpperCase() + key.slice(1);
+        if (prefixedPropertyName in testElement.style || noPrefix) {
+            if (noPrefix && key === 'clipPath' && dashCache.has(key)) {
+                return;
+            }
+            camelCache.set(key, prefixedPropertyName);
+            setDashPrefix(key, "" + (noPrefix ? '' : '-') + camelToDash(prefixedPropertyName));
+        }
+    }
+};
+var setServerProperty = function (key) {
+    return setDashPrefix(key, key);
+};
+var prefixer = function (key, asDashCase) {
+    if (asDashCase === void 0) {
+        asDashCase = false;
+    }
+    var cache = asDashCase ? dashCache : camelCache;
+    if (!cache.has(key)) {
+        isBrowser ? testPrefix(key) : setServerProperty(key);
+    }
+    return cache.get(key) || key;
+};
+
+var axes = ['', 'X', 'Y', 'Z'];
+var order = ['translate', 'scale', 'rotate', 'skew', 'transformPerspective'];
+var transformProps = /*#__PURE__*/order.reduce(function (acc, key) {
+    return axes.reduce(function (axesAcc, axesKey) {
+        axesAcc.push(key + axesKey);
+        return axesAcc;
+    }, acc);
+}, ['x', 'y', 'z']);
+var transformPropDictionary = /*#__PURE__*/transformProps.reduce(function (dict, key) {
+    dict[key] = true;
+    return dict;
+}, {});
+function isTransformProp(key) {
+    return transformPropDictionary[key] === true;
+}
+function sortTransformProps(a, b) {
+    return transformProps.indexOf(a) - transformProps.indexOf(b);
+}
+var transformOriginProps = /*#__PURE__*/new Set(['originX', 'originY', 'originZ']);
+function isTransformOriginProp(key) {
+    return transformOriginProps.has(key);
+}
+
+var int = /*#__PURE__*/Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])( /*#__PURE__*/Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({}, style_value_types__WEBPACK_IMPORTED_MODULE_2__["number"]), { transform: Math.round });
+var valueTypes = {
+    color: style_value_types__WEBPACK_IMPORTED_MODULE_2__["color"],
+    backgroundColor: style_value_types__WEBPACK_IMPORTED_MODULE_2__["color"],
+    outlineColor: style_value_types__WEBPACK_IMPORTED_MODULE_2__["color"],
+    fill: style_value_types__WEBPACK_IMPORTED_MODULE_2__["color"],
+    stroke: style_value_types__WEBPACK_IMPORTED_MODULE_2__["color"],
+    borderColor: style_value_types__WEBPACK_IMPORTED_MODULE_2__["color"],
+    borderTopColor: style_value_types__WEBPACK_IMPORTED_MODULE_2__["color"],
+    borderRightColor: style_value_types__WEBPACK_IMPORTED_MODULE_2__["color"],
+    borderBottomColor: style_value_types__WEBPACK_IMPORTED_MODULE_2__["color"],
+    borderLeftColor: style_value_types__WEBPACK_IMPORTED_MODULE_2__["color"],
+    borderWidth: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    borderTopWidth: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    borderRightWidth: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    borderBottomWidth: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    borderLeftWidth: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    borderRadius: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    radius: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    borderTopLeftRadius: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    borderTopRightRadius: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    borderBottomRightRadius: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    borderBottomLeftRadius: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    width: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    maxWidth: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    height: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    maxHeight: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    size: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    top: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    right: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    bottom: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    left: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    padding: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    paddingTop: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    paddingRight: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    paddingBottom: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    paddingLeft: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    margin: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    marginTop: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    marginRight: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    marginBottom: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    marginLeft: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    rotate: style_value_types__WEBPACK_IMPORTED_MODULE_2__["degrees"],
+    rotateX: style_value_types__WEBPACK_IMPORTED_MODULE_2__["degrees"],
+    rotateY: style_value_types__WEBPACK_IMPORTED_MODULE_2__["degrees"],
+    rotateZ: style_value_types__WEBPACK_IMPORTED_MODULE_2__["degrees"],
+    scale: style_value_types__WEBPACK_IMPORTED_MODULE_2__["scale"],
+    scaleX: style_value_types__WEBPACK_IMPORTED_MODULE_2__["scale"],
+    scaleY: style_value_types__WEBPACK_IMPORTED_MODULE_2__["scale"],
+    scaleZ: style_value_types__WEBPACK_IMPORTED_MODULE_2__["scale"],
+    skew: style_value_types__WEBPACK_IMPORTED_MODULE_2__["degrees"],
+    skewX: style_value_types__WEBPACK_IMPORTED_MODULE_2__["degrees"],
+    skewY: style_value_types__WEBPACK_IMPORTED_MODULE_2__["degrees"],
+    distance: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    translateX: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    translateY: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    translateZ: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    x: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    y: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    z: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    perspective: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    opacity: style_value_types__WEBPACK_IMPORTED_MODULE_2__["alpha"],
+    originX: style_value_types__WEBPACK_IMPORTED_MODULE_2__["progressPercentage"],
+    originY: style_value_types__WEBPACK_IMPORTED_MODULE_2__["progressPercentage"],
+    originZ: style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"],
+    zIndex: int,
+    fillOpacity: style_value_types__WEBPACK_IMPORTED_MODULE_2__["alpha"],
+    strokeOpacity: style_value_types__WEBPACK_IMPORTED_MODULE_2__["alpha"],
+    numOctaves: int
+};
+var getValueType = function (key) {
+    return valueTypes[key];
+};
+var getValueAsType = function (value, type) {
+    return type && typeof value === 'number' ? type.transform(value) : value;
+};
+
+var SCROLL_LEFT = 'scrollLeft';
+var SCROLL_TOP = 'scrollTop';
+var scrollKeys = /*#__PURE__*/new Set([SCROLL_LEFT, SCROLL_TOP]);
+
+var blacklist = /*#__PURE__*/new Set([SCROLL_LEFT, SCROLL_TOP, 'transform']);
+var translateAlias = {
+    x: 'translateX',
+    y: 'translateY',
+    z: 'translateZ'
+};
+function isCustomTemplate(v) {
+    return typeof v === 'function';
+}
+function buildTransform(state, transform, transformKeys, transformIsDefault, enableHardwareAcceleration) {
+    var transformString = '';
+    var transformHasZ = false;
+    transformKeys.sort(sortTransformProps);
+    var numTransformKeys = transformKeys.length;
+    for (var i = 0; i < numTransformKeys; i++) {
+        var key = transformKeys[i];
+        transformString += (translateAlias[key] || key) + "(" + transform[key] + ") ";
+        transformHasZ = key === 'z' ? true : transformHasZ;
+    }
+    if (!transformHasZ && enableHardwareAcceleration) {
+        transformString += 'translateZ(0)';
+    } else {
+        transformString = transformString.trim();
+    }
+    if (isCustomTemplate(state.transform)) {
+        transformString = state.transform(transform, transformIsDefault ? '' : transformString);
+    } else if (transformIsDefault) {
+        transformString = 'none';
+    }
+    return transformString;
+}
+function buildStyleProperty(state, enableHardwareAcceleration, styles, transform, transformOrigin, transformKeys, isDashCase) {
+    if (enableHardwareAcceleration === void 0) {
+        enableHardwareAcceleration = true;
+    }
+    if (styles === void 0) {
+        styles = {};
+    }
+    if (transform === void 0) {
+        transform = {};
+    }
+    if (transformOrigin === void 0) {
+        transformOrigin = {};
+    }
+    if (transformKeys === void 0) {
+        transformKeys = [];
+    }
+    if (isDashCase === void 0) {
+        isDashCase = false;
+    }
+    var transformIsDefault = true;
+    var hasTransform = false;
+    var hasTransformOrigin = false;
+    for (var key in state) {
+        var value = state[key];
+        var valueType = getValueType(key);
+        var valueAsType = getValueAsType(value, valueType);
+        if (isTransformProp(key)) {
+            hasTransform = true;
+            transform[key] = valueAsType;
+            transformKeys.push(key);
+            if (transformIsDefault) {
+                if (valueType.default && value !== valueType.default || !valueType.default && value !== 0) {
+                    transformIsDefault = false;
+                }
+            }
+        } else if (isTransformOriginProp(key)) {
+            transformOrigin[key] = valueAsType;
+            hasTransformOrigin = true;
+        } else if (!blacklist.has(key) || !isCustomTemplate(valueAsType)) {
+            styles[prefixer(key, isDashCase)] = valueAsType;
+        }
+    }
+    if (hasTransform || typeof state.transform === 'function') {
+        styles.transform = buildTransform(state, transform, transformKeys, transformIsDefault, enableHardwareAcceleration);
+    }
+    if (hasTransformOrigin) {
+        styles.transformOrigin = (transformOrigin.originX || '50%') + " " + (transformOrigin.originY || '50%') + " " + (transformOrigin.originZ || 0);
+    }
+    return styles;
+}
+function createStyleBuilder(enableHardwareAcceleration, isDashCase) {
+    if (enableHardwareAcceleration === void 0) {
+        enableHardwareAcceleration = true;
+    }
+    if (isDashCase === void 0) {
+        isDashCase = true;
+    }
+    var styles = {};
+    var transform = {};
+    var transformOrigin = {};
+    var transformKeys = [];
+    return function (state) {
+        transformKeys.length = 0;
+        buildStyleProperty(state, enableHardwareAcceleration, styles, transform, transformOrigin, transformKeys, isDashCase);
+        return styles;
+    };
+}
+
+function onRead(key, options) {
+    var element = options.element,
+        preparseOutput = options.preparseOutput;
+    var defaultValueType = getValueType(key);
+    if (isTransformProp(key)) {
+        return defaultValueType ? defaultValueType.default || 0 : 0;
+    } else if (scrollKeys.has(key)) {
+        return element[key];
+    } else {
+        var domValue = window.getComputedStyle(element, null).getPropertyValue(prefixer(key, true)) || 0;
+        return preparseOutput && defaultValueType && defaultValueType.test(domValue) && defaultValueType.parse ? defaultValueType.parse(domValue) : domValue;
+    }
+}
+function onRender(state, _a, changedValues) {
+    var element = _a.element,
+        buildStyles = _a.buildStyles,
+        hasCSSVariable = _a.hasCSSVariable;
+    Object.assign(element.style, buildStyles(state));
+    if (hasCSSVariable) {
+        var numChangedValues = changedValues.length;
+        for (var i = 0; i < numChangedValues; i++) {
+            var key = changedValues[i];
+            if (key.startsWith('--')) {
+                element.style.setProperty(key, state[key]);
+            }
+        }
+    }
+    if (changedValues.indexOf(SCROLL_LEFT) !== -1) {
+        element[SCROLL_LEFT] = state[SCROLL_LEFT];
+    }
+    if (changedValues.indexOf(SCROLL_TOP) !== -1) {
+        element[SCROLL_TOP] = state[SCROLL_TOP];
+    }
+}
+var cssStyler = /*#__PURE__*/createStyler({
+    onRead: onRead,
+    onRender: onRender,
+    uncachedValues: scrollKeys
+});
+function createCssStyler(element, _a) {
+    if (_a === void 0) {
+        _a = {};
+    }
+    var enableHardwareAcceleration = _a.enableHardwareAcceleration,
+        props = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, ["enableHardwareAcceleration"]);
+    return cssStyler(Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__assign"])({ element: element, buildStyles: createStyleBuilder(enableHardwareAcceleration), preparseOutput: true }, props));
+}
+
+var camelCaseAttributes = /*#__PURE__*/new Set(['baseFrequency', 'diffuseConstant', 'kernelMatrix', 'kernelUnitLength', 'keySplines', 'keyTimes', 'limitingConeAngle', 'markerHeight', 'markerWidth', 'numOctaves', 'targetX', 'targetY', 'surfaceScale', 'specularConstant', 'specularExponent', 'stdDeviation', 'tableValues']);
+
+var defaultOrigin = 0.5;
+var svgAttrsTemplate = function () {
+    return {
+        style: {}
+    };
+};
+var progressToPixels = function (progress, length) {
+    return style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"].transform(progress * length);
+};
+var unmeasured = { x: 0, y: 0, width: 0, height: 0 };
+function calcOrigin(origin, offset, size) {
+    return typeof origin === 'string' ? origin : style_value_types__WEBPACK_IMPORTED_MODULE_2__["px"].transform(offset + size * origin);
+}
+function calculateSVGTransformOrigin(dimensions, originX, originY) {
+    return calcOrigin(originX, dimensions.x, dimensions.width) + " " + calcOrigin(originY, dimensions.y, dimensions.height);
+}
+function buildSVGAttrs(_a, dimensions, totalPathLength, cssBuilder, attrs, isDashCase) {
+    if (dimensions === void 0) {
+        dimensions = unmeasured;
+    }
+    if (cssBuilder === void 0) {
+        cssBuilder = createStyleBuilder(false, false);
+    }
+    if (attrs === void 0) {
+        attrs = svgAttrsTemplate();
+    }
+    if (isDashCase === void 0) {
+        isDashCase = true;
+    }
+    var attrX = _a.attrX,
+        attrY = _a.attrY,
+        originX = _a.originX,
+        originY = _a.originY,
+        pathLength = _a.pathLength,
+        _b = _a.pathSpacing,
+        pathSpacing = _b === void 0 ? 1 : _b,
+        _c = _a.pathOffset,
+        pathOffset = _c === void 0 ? 0 : _c,
+        state = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__rest"])(_a, ["attrX", "attrY", "originX", "originY", "pathLength", "pathSpacing", "pathOffset"]);
+    var style = cssBuilder(state);
+    for (var key in style) {
+        if (key === 'transform') {
+            attrs.style.transform = style[key];
+        } else {
+            var attrKey = isDashCase && !camelCaseAttributes.has(key) ? camelToDash(key) : key;
+            attrs[attrKey] = style[key];
+        }
+    }
+    if (originX !== undefined || originY !== undefined || style.transform) {
+        attrs.style.transformOrigin = calculateSVGTransformOrigin(dimensions, originX !== undefined ? originX : defaultOrigin, originY !== undefined ? originY : defaultOrigin);
+    }
+    if (attrX !== undefined) attrs.x = attrX;
+    if (attrY !== undefined) attrs.y = attrY;
+    if (totalPathLength !== undefined && pathLength !== undefined) {
+        attrs[isDashCase ? 'stroke-dashoffset' : 'strokeDashoffset'] = progressToPixels(-pathOffset, totalPathLength);
+        attrs[isDashCase ? 'stroke-dasharray' : 'strokeDasharray'] = progressToPixels(pathLength, totalPathLength) + " " + progressToPixels(pathSpacing, totalPathLength);
+    }
+    return attrs;
+}
+function createAttrBuilder(dimensions, totalPathLength, isDashCase) {
+    if (isDashCase === void 0) {
+        isDashCase = true;
+    }
+    var attrs = svgAttrsTemplate();
+    var cssBuilder = createStyleBuilder(false, false);
+    return function (state) {
+        return buildSVGAttrs(state, dimensions, totalPathLength, cssBuilder, attrs, isDashCase);
+    };
+}
+
+var getDimensions = function (element) {
+    return typeof element.getBBox === 'function' ? element.getBBox() : element.getBoundingClientRect();
+};
+var getSVGElementDimensions = function (element) {
+    try {
+        return getDimensions(element);
+    } catch (e) {
+        return { x: 0, y: 0, width: 0, height: 0 };
+    }
+};
+
+var isPath = function (element) {
+    return element.tagName === 'path';
+};
+var svgStyler = /*#__PURE__*/createStyler({
+    onRead: function (key, _a) {
+        var element = _a.element;
+        key = !camelCaseAttributes.has(key) ? camelToDash(key) : key;
+        if (!isTransformProp(key)) {
+            return element.getAttribute(key);
+        } else {
+            var valueType = getValueType(key);
+            return valueType ? valueType.default || 0 : 0;
+        }
+    },
+    onRender: function (state, _a) {
+        var element = _a.element,
+            buildAttrs = _a.buildAttrs;
+        var attrs = buildAttrs(state);
+        for (var key in attrs) {
+            if (key === 'style') {
+                Object.assign(element.style, attrs.style);
+            } else {
+                element.setAttribute(key, attrs[key]);
+            }
+        }
+    }
+});
+var svg = function (element) {
+    var dimensions = getSVGElementDimensions(element);
+    var pathLength = isPath(element) && element.getTotalLength ? element.getTotalLength() : undefined;
+    return svgStyler({
+        element: element,
+        buildAttrs: createAttrBuilder(dimensions, pathLength)
+    });
+};
+
+var viewport = /*#__PURE__*/createStyler({
+    useCache: false,
+    onRead: function (key) {
+        return key === 'scrollTop' ? window.pageYOffset : window.pageXOffset;
+    },
+    onRender: function (_a) {
+        var _b = _a.scrollTop,
+            scrollTop = _b === void 0 ? 0 : _b,
+            _c = _a.scrollLeft,
+            scrollLeft = _c === void 0 ? 0 : _c;
+        return window.scrollTo(scrollLeft, scrollTop);
+    }
+});
+
+var cache = /*#__PURE__*/new WeakMap();
+var isHTMLElement = function (node) {
+    return node instanceof HTMLElement || typeof node.click === 'function';
+};
+var isSVGElement = function (node) {
+    return node instanceof SVGElement || 'ownerSVGElement' in node;
+};
+var createDOMStyler = function (node, props) {
+    var styler;
+    if (node === window) {
+        styler = viewport(node);
+    } else if (isHTMLElement(node)) {
+        styler = createCssStyler(node, props);
+    } else if (isSVGElement(node)) {
+        styler = svg(node);
+    }
+    Object(hey_listen__WEBPACK_IMPORTED_MODULE_3__["invariant"])(styler !== undefined, 'No valid node provided. Node must be HTMLElement, SVGElement or window.');
+    cache.set(node, styler);
+    return styler;
+};
+var getStyler = function (node, props) {
+    return cache.has(node) ? cache.get(node) : createDOMStyler(node, props);
+};
+function index(nodeOrSelector, props) {
+    var node = typeof nodeOrSelector === 'string' ? document.querySelector(nodeOrSelector) : nodeOrSelector;
+    return getStyler(node, props);
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (index);
+
+
+
+/***/ }),
+
+/***/ "./node_modules/tslib/tslib.es6.js":
+/*!*****************************************!*\
+  !*** ./node_modules/tslib/tslib.es6.js ***!
+  \*****************************************/
+/*! exports provided: __extends, __assign, __rest, __decorate, __param, __metadata, __awaiter, __generator, __exportStar, __values, __read, __spread, __spreadArrays, __await, __asyncGenerator, __asyncDelegator, __asyncValues, __makeTemplateObject, __importStar, __importDefault, __classPrivateFieldGet, __classPrivateFieldSet */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__extends", function() { return __extends; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__assign", function() { return __assign; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__rest", function() { return __rest; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__decorate", function() { return __decorate; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__param", function() { return __param; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__metadata", function() { return __metadata; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__awaiter", function() { return __awaiter; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__generator", function() { return __generator; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__exportStar", function() { return __exportStar; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__values", function() { return __values; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__read", function() { return __read; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__spread", function() { return __spread; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__spreadArrays", function() { return __spreadArrays; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__await", function() { return __await; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__asyncGenerator", function() { return __asyncGenerator; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__asyncDelegator", function() { return __asyncDelegator; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__asyncValues", function() { return __asyncValues; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__makeTemplateObject", function() { return __makeTemplateObject; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__importStar", function() { return __importStar; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__importDefault", function() { return __importDefault; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__classPrivateFieldGet", function() { return __classPrivateFieldGet; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__classPrivateFieldSet", function() { return __classPrivateFieldSet; });
+/*! *****************************************************************************
+Copyright (c) Microsoft Corporation. All rights reserved.
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+this file except in compliance with the License. You may obtain a copy of the
+License at http://www.apache.org/licenses/LICENSE-2.0
+
+THIS CODE IS PROVIDED ON AN *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE,
+MERCHANTABLITY OR NON-INFRINGEMENT.
+
+See the Apache Version 2.0 License for specific language governing permissions
+and limitations under the License.
+***************************************************************************** */
+/* global Reflect, Promise */
+
+var extendStatics = function(d, b) {
+    extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return extendStatics(d, b);
+};
+
+function __extends(d, b) {
+    extendStatics(d, b);
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+}
+
+var __assign = function() {
+    __assign = Object.assign || function __assign(t) {
+        for (var s, i = 1, n = arguments.length; i < n; i++) {
+            s = arguments[i];
+            for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p)) t[p] = s[p];
+        }
+        return t;
+    }
+    return __assign.apply(this, arguments);
+}
+
+function __rest(s, e) {
+    var t = {};
+    for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p) && e.indexOf(p) < 0)
+        t[p] = s[p];
+    if (s != null && typeof Object.getOwnPropertySymbols === "function")
+        for (var i = 0, p = Object.getOwnPropertySymbols(s); i < p.length; i++) {
+            if (e.indexOf(p[i]) < 0 && Object.prototype.propertyIsEnumerable.call(s, p[i]))
+                t[p[i]] = s[p[i]];
+        }
+    return t;
+}
+
+function __decorate(decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+}
+
+function __param(paramIndex, decorator) {
+    return function (target, key) { decorator(target, key, paramIndex); }
+}
+
+function __metadata(metadataKey, metadataValue) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(metadataKey, metadataValue);
+}
+
+function __awaiter(thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+}
+
+function __generator(thisArg, body) {
+    var _ = { label: 0, sent: function() { if (t[0] & 1) throw t[1]; return t[1]; }, trys: [], ops: [] }, f, y, t, g;
+    return g = { next: verb(0), "throw": verb(1), "return": verb(2) }, typeof Symbol === "function" && (g[Symbol.iterator] = function() { return this; }), g;
+    function verb(n) { return function (v) { return step([n, v]); }; }
+    function step(op) {
+        if (f) throw new TypeError("Generator is already executing.");
+        while (_) try {
+            if (f = 1, y && (t = op[0] & 2 ? y["return"] : op[0] ? y["throw"] || ((t = y["return"]) && t.call(y), 0) : y.next) && !(t = t.call(y, op[1])).done) return t;
+            if (y = 0, t) op = [op[0] & 2, t.value];
+            switch (op[0]) {
+                case 0: case 1: t = op; break;
+                case 4: _.label++; return { value: op[1], done: false };
+                case 5: _.label++; y = op[1]; op = [0]; continue;
+                case 7: op = _.ops.pop(); _.trys.pop(); continue;
+                default:
+                    if (!(t = _.trys, t = t.length > 0 && t[t.length - 1]) && (op[0] === 6 || op[0] === 2)) { _ = 0; continue; }
+                    if (op[0] === 3 && (!t || (op[1] > t[0] && op[1] < t[3]))) { _.label = op[1]; break; }
+                    if (op[0] === 6 && _.label < t[1]) { _.label = t[1]; t = op; break; }
+                    if (t && _.label < t[2]) { _.label = t[2]; _.ops.push(op); break; }
+                    if (t[2]) _.ops.pop();
+                    _.trys.pop(); continue;
+            }
+            op = body.call(thisArg, _);
+        } catch (e) { op = [6, e]; y = 0; } finally { f = t = 0; }
+        if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
+    }
+}
+
+function __exportStar(m, exports) {
+    for (var p in m) if (!exports.hasOwnProperty(p)) exports[p] = m[p];
+}
+
+function __values(o) {
+    var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
+    if (m) return m.call(o);
+    if (o && typeof o.length === "number") return {
+        next: function () {
+            if (o && i >= o.length) o = void 0;
+            return { value: o && o[i++], done: !o };
+        }
+    };
+    throw new TypeError(s ? "Object is not iterable." : "Symbol.iterator is not defined.");
+}
+
+function __read(o, n) {
+    var m = typeof Symbol === "function" && o[Symbol.iterator];
+    if (!m) return o;
+    var i = m.call(o), r, ar = [], e;
+    try {
+        while ((n === void 0 || n-- > 0) && !(r = i.next()).done) ar.push(r.value);
+    }
+    catch (error) { e = { error: error }; }
+    finally {
+        try {
+            if (r && !r.done && (m = i["return"])) m.call(i);
+        }
+        finally { if (e) throw e.error; }
+    }
+    return ar;
+}
+
+function __spread() {
+    for (var ar = [], i = 0; i < arguments.length; i++)
+        ar = ar.concat(__read(arguments[i]));
+    return ar;
+}
+
+function __spreadArrays() {
+    for (var s = 0, i = 0, il = arguments.length; i < il; i++) s += arguments[i].length;
+    for (var r = Array(s), k = 0, i = 0; i < il; i++)
+        for (var a = arguments[i], j = 0, jl = a.length; j < jl; j++, k++)
+            r[k] = a[j];
+    return r;
+};
+
+function __await(v) {
+    return this instanceof __await ? (this.v = v, this) : new __await(v);
+}
+
+function __asyncGenerator(thisArg, _arguments, generator) {
+    if (!Symbol.asyncIterator) throw new TypeError("Symbol.asyncIterator is not defined.");
+    var g = generator.apply(thisArg, _arguments || []), i, q = [];
+    return i = {}, verb("next"), verb("throw"), verb("return"), i[Symbol.asyncIterator] = function () { return this; }, i;
+    function verb(n) { if (g[n]) i[n] = function (v) { return new Promise(function (a, b) { q.push([n, v, a, b]) > 1 || resume(n, v); }); }; }
+    function resume(n, v) { try { step(g[n](v)); } catch (e) { settle(q[0][3], e); } }
+    function step(r) { r.value instanceof __await ? Promise.resolve(r.value.v).then(fulfill, reject) : settle(q[0][2], r); }
+    function fulfill(value) { resume("next", value); }
+    function reject(value) { resume("throw", value); }
+    function settle(f, v) { if (f(v), q.shift(), q.length) resume(q[0][0], q[0][1]); }
+}
+
+function __asyncDelegator(o) {
+    var i, p;
+    return i = {}, verb("next"), verb("throw", function (e) { throw e; }), verb("return"), i[Symbol.iterator] = function () { return this; }, i;
+    function verb(n, f) { i[n] = o[n] ? function (v) { return (p = !p) ? { value: __await(o[n](v)), done: n === "return" } : f ? f(v) : v; } : f; }
+}
+
+function __asyncValues(o) {
+    if (!Symbol.asyncIterator) throw new TypeError("Symbol.asyncIterator is not defined.");
+    var m = o[Symbol.asyncIterator], i;
+    return m ? m.call(o) : (o = typeof __values === "function" ? __values(o) : o[Symbol.iterator](), i = {}, verb("next"), verb("throw"), verb("return"), i[Symbol.asyncIterator] = function () { return this; }, i);
+    function verb(n) { i[n] = o[n] && function (v) { return new Promise(function (resolve, reject) { v = o[n](v), settle(resolve, reject, v.done, v.value); }); }; }
+    function settle(resolve, reject, d, v) { Promise.resolve(v).then(function(v) { resolve({ value: v, done: d }); }, reject); }
+}
+
+function __makeTemplateObject(cooked, raw) {
+    if (Object.defineProperty) { Object.defineProperty(cooked, "raw", { value: raw }); } else { cooked.raw = raw; }
+    return cooked;
+};
+
+function __importStar(mod) {
+    if (mod && mod.__esModule) return mod;
+    var result = {};
+    if (mod != null) for (var k in mod) if (Object.hasOwnProperty.call(mod, k)) result[k] = mod[k];
+    result.default = mod;
+    return result;
+}
+
+function __importDefault(mod) {
+    return (mod && mod.__esModule) ? mod : { default: mod };
+}
+
+function __classPrivateFieldGet(receiver, privateMap) {
+    if (!privateMap.has(receiver)) {
+        throw new TypeError("attempted to get private field on non-instance");
+    }
+    return privateMap.get(receiver);
+}
+
+function __classPrivateFieldSet(receiver, privateMap, value) {
+    if (!privateMap.has(receiver)) {
+        throw new TypeError("attempted to set private field on non-instance");
+    }
+    privateMap.set(receiver, value);
+    return value;
+}
+
+
+/***/ }),
+
 /***/ "./pages/index.js":
 /*!************************!*\
   !*** ./pages/index.js ***!
@@ -15681,7 +24249,7 @@ var HomePage = function HomePage() {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABiCAMAAACce/Y8AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQwIDc5LjE2MDQ1MSwgMjAxNy8wNS8wNi0wMTowODoyMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkQwQTUyQUY5NTY3MTExRUE4NjZDQzE3MkM3QzU5QkUwIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkQwQTUyQUZBNTY3MTExRUE4NjZDQzE3MkM3QzU5QkUwIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RDBBNTJBRjc1NjcxMTFFQTg2NkNDMTcyQzdDNTlCRTAiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6RDBBNTJBRjg1NjcxMTFFQTg2NkNDMTcyQzdDNTlCRTAiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4YhSN2AAADAFBMVEU3q/YQef8Shf/+d3r7Y2nVpqe2yde90ubm7PDC0t1Mxv/eubwMaf9ey/dmsfj3OUrgjZT3LDzoi5P2NUX/QlPrpKpnrfhJqv8lwv8mxf/4WWH3QFG0zePm2Nl6xfaLvuz3PU1nyvXy7e3+Kzvo6usUjf/2MkHklJj4Tl3jgorwe3z+a20erv8np//4UF4TiP/6kpciuf/D2uiNwer/MUIdqf8Ocv8Znf8aoP/4YWUPdP8WlP/+O0zk6ev29PX3RVYrsv0Vkf81sfj4VmAhtf84pfX8cX5FsP/3SFkYmv/A1ef4XWIkvf/a4eUPdv8Rfv87nfL4XWX6+/sOcP8QfP/+gYTs5ubcrbANbP8cpf80zP8nyP8lm/8yvf8gsf8Uiv/4SVpMvf/5ZGQZg/86q/x+qdkoy/9TpvkNbv/x8vMzpfY40//5XGszw/8Sg/89mfH4VF/vV2IQeP/28vL/iYwfs/86ofPS2uAjvP85o/T7RVc2rvgRgP9Em/Yxh//8/f1Itv/dt7leldTF2efaxcb4Ul5Evv8vt/8Obv+HvOwbpP//WGUjkf/3TFw7mvGLsdXcr7P3P08KZf/+SVr/cW5AjeP4+Pj4X2TtaXMulvxDkeTTnqEp0f8wtfr3R1gbiP/v8fL+VWMSgP//TF73+Pl0q+U0tPn+UGEnuf4Rgf82t//6+fkVfP/3O0v/XGgNb//0XGgUjP/3Q1P29/j4W2P1WWQ/iuP4U2C/zdk8lvA+lO88p/v4Slv3Slv5aGj2KTnzoKHpPEr5+vv7/PwPd//2MED2NEP4+fr8+/v/TmDy8/Tz9PUXl/8Xmf/2OEj/Nkc5m/8Jav/8WGPFrK5v0/92wugkjPk8nfSh0ukYf/84sP5/vf/xR1c3vP81kfI3nvXMtrc8kP9w1P8ukfeav+gkwP/k5+ikv9ZHjfDnra4cp/83qPXYubr+ZmuI2v/tYG1upuBvu+JXn+fkwsR5ten4WGL/VmY6n/P2Lj72ZHE/zv//RlY3tP7dvb/ySlv///+oMQRjAAABAHRSTlP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AU/cHJQAACGtJREFUeNq02glcFNcdB/DZFbMeuAjKGlEIcqgIyBHY6IqAEgkSYc1yNhKh1NBNUo5gRBFSNUQlEowHShKPxCMkxMrGSKImiAZWbZMoaZs26WHbfFrTRkLTprWQUjr5v3lvdgd4szOPyI/h+LBv9jv/92Zm5+J4ttzx948/Xc82C8fUev2sB4uKiv579+lRI6IfK0I5eHDW+6NEgLAK5+CkD0aFiH5s1fTpDuORUSCiH5wuSZF6g2MQ7hTCbHCqhRt3Dk7RpJdvKwECifD2N1Axag1OpbBCyA2YhKw4lJj42ip1BqdO2ABZAROGEh/dWXqudGflIVWGGiK6eEMUZANJ1KPn3ikt3YmyZtbLt4WoKY6SZMNrf3znHBJWrlzZ+0ml3+nbQNQU3xt1L0xE2PbvJ0ux0NvbW1Hxrl/8dyZAkCRqwmL+7DQiVFRUVFa+63f8OxI1xetQRGLCOPjf2WmfYKGysnLZsjVKfaVA1Dy0bjXJutXrsICMXiIA0b1GoQ5OQQgLWx3mQIiAjAqBWAZCd/dv/a6MmIgGwZnVDgGM+4QKBIHr/p/LOlwR0dvDwmKdhERAxjJSAwdxabggarbHxsaGkWmIAMZmh1BVVfW636YREKnbb8Y6E/b9cUNeP7u52yFUVV2fyU6kJt4UQohhAjI4oZcAWLq0aRYzkZr4PWdu3qQIPD9+M6lhKRAT9jMSqYk7xCCCKkAd2wiwtKlp0nE2IjVxwQ70RSIjQB3bSA1N1//J1lGp4Quc2bFAVkAGrqHpoRomAoR7IKKxeZyLbWf8hNcBOFT8KdN2kRp+jySuBZ5P+9W269c/1jFt3SAsRyGEggD5PC2tk2kfpQu/Cll+dTmOsiDJiae/8N6SrUTowj8kQdJVJsE3siG0oSFromtCF75o0YfOMAnZWYXthe3t7Q05rghd+JJFkjAJ/MVCIe2FDWPlCV3ekiUS4z4mIWBM48KFGBlscEMFZ9gE3rfn/sZGUJATOpZOpOYFBy9B04gEPjv0fhTMSA1OUkOwNDJCfEB2wFrqK52RZT4+ra2E6Rk7nNDlnTp1Ct76lAshfuDivDFjxsy7OEA7PvNtSbrlgxSBcRqcVBASDN/5VGFLVmhPD6yVoaENT3xJed27pSwpKckHBRS3A4MJXV6+M3QhfnIP9LLbwkI3N7Tyz6F0l3fd1rIykWkVDY4IERKCKqx9oqX1AQgaTDdIaCSls7yPzN+KFMwQgyM1ABHhSuC96pJu3YKOdjA9c2h9dWTufFAw49NyQCSgBknyp1HH4T/zz5yBhQPmluA0NoZSx+PVuXNBIYxgcOqE+OR6YcYzZZhpRUxWPNWor8cK6rO6A4hYn6fVSgiqwA/87Hxbfb3A4GrAaXUboDX1xk3rMVM3ludOfx0RgQytK4GP3Hg4paCg7bzIbEXMLyKpbb2PQUNhgVBafLk78rXOyAmnv9qYkJBw+HBKSgGaGff2mSPPH5cxoF3Becy8Opn7nUTQvrBYZi/6/zchCSLT1tYmMD8KoDefs1doVoAaFiRzemkRpXI76mO7Z8yYQRRSDXRaiwzheww1EpqlFHzD/UVb4jTy75Ihfu/vv3s3YXA1KTC/XBVeGxPIskCSubQXmktItNqS4Lup8+x/4+TJk/6ImSFhCr6inx159YstIHsnc/xz+Q6jpKRZpo6QOA8PjyFMwsZIGUFcDsTU+XJ8p16rbHwZN2XKtWvXRAY7/QN0AXcpVo5NRFu3Ra+tLmlGkTfi37p8ecoUwngQ5hva1u01FS8CVvbuwvsoi0F7tLpZTHU+bTy2dF2afVlgronVTJ1IE+L8SUDZjQS8p+00lJirhTRXHz1qphohMZcuzZ5NGOTEhVAFQcdl+vfvcn5eWMBAwY45gmKcSI7x7LvkZOKyTtAEsSsR1J8j/dQTDQyZIyjjsT8kxtOzr48wXV4dFKEL96OgeEzdNfiz22JoNktCM/gtbwUGegYCExPzBnUcunAvYmdqztAjEDAylQzLQMjj77353uMhAz+lrdhduBPxShGXM/w4qsNQjQ3hZ6aWvg1aHnl/rYW+23gedyFmnIL0aLBDX52JYsY/ZAz5Y9q9wjhhRSIMOqa9YsBG5oiMgP4+IYjpypE7Mu8wmDVORMNmbEq+4Cmscn19g4Qh5xfIAESDIU0Jk/FF4AVPpHjG5Lg6S+owwPuTwF9MRse8wAuQocKwcz0wyh2IppzJuDKnPzAwJulfSmesV8CAiEYzU19l/+mXT1uUz7uhDnu5GI1dyeiY+dQPDc+NY7tw12HQ2MvtMJULk2sj6Gtts0aj/fN4tgt3HXpNerpdTHq1CyPoRbPQp5m/TmO7kgOGKZ3EbjeZ71ISNJrmfzBeVbPoy02AEEfWQAIQwsrxhw8Yr6pZ9HaTJOZn6EImdCReL+zPprFeGxxsGGkGCI4RKzd9xFoFfJ7r040uDRBM4nDZ7RrWsXAaRuHbaDJmDjGC9mUimwyY6dm0ERD8Jj16cxkDBEmRppd0I7tmLhokUiNon0Y6VC/NHOmVfzAyJIbmGYkgVGY0KgsK9y826Y02o0PJEI2gfeVOWElQuguDjAwSo9GGjc/ftktqsykIiveSkAHJyBAkKzIWv51uYxCU74h16o1Wm80qOPBb88pfnxQLM6LpB0qCivt6YOTW1lpt1tpakKxGjc2GPaEsZUHN3clOfUZurjXXWmuF1KKJVGWz5aoQVN1jtehtuY6AJUBWW61VlaDuTrHFIDEkUSWovN8Nhvtw4TeqBLV37S0Gq/sIBdXPHlgMue7oywG5qxXUP0GBDEdYBIbnQAYZDALL0yxSg0FgeibHYez5CYPA9mSR5ZUM9z173H/+mY4fLYLndU999uO/PbyYaZ5vBRgAQKNy+PhIgVcAAAAASUVORK5CYII="
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABiCAYAAACrpQYOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQwIDc5LjE2MDQ1MSwgMjAxNy8wNS8wNi0wMTowODoyMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QjI5MzIyN0U1ODRCMTFFQThGREFDNjE0M0IzMjZGMTgiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QjI5MzIyN0Q1ODRCMTFFQThGREFDNjE0M0IzMjZGMTgiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RDBBNTJBRjk1NjcxMTFFQTg2NkNDMTcyQzdDNTlCRTAiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6RDBBNTJBRkE1NjcxMTFFQTg2NkNDMTcyQzdDNTlCRTAiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz5Kt9zpAAAS7ElEQVR42uyde5Ac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"
 
 /***/ }),
 
@@ -15692,18 +24260,7 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABiCAMAAACc
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/bakery-mobile-701debe093e32689e33003ce47d33673.png";
-
-/***/ }),
-
-/***/ "./public/static/images/bakery.gif":
-/*!*****************************************!*\
-  !*** ./public/static/images/bakery.gif ***!
-  \*****************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/bakery-bbb919646ec66ec0e3a2a0219375bb31.gif";
+module.exports = "/_next/static/images/bakery-mobile-36a79cd3c3e5717d363cefc9747526a0.png";
 
 /***/ }),
 
@@ -15714,7 +24271,7 @@ module.exports = "/_next/static/images/bakery-bbb919646ec66ec0e3a2a0219375bb31.g
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAACKCAYAAABRsp/hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQwIDc5LjE2MDQ1MSwgMjAxNy8wNS8wNi0wMTowODoyMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjc2ODg4NkUyNTVFMTExRUFBNEM0OTdERkNEQzMyRTIyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjc2ODg4NkUzNTVFMTExRUFBNEM0OTdERkNEQzMyRTIyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NzY4ODg2RTA1NUUxMTFFQUE0QzQ5N0RGQ0RDMzJFMjIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6NzY4ODg2RTE1NUUxMTFFQUE0QzQ5N0RGQ0RDMzJFMjIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz67NxjGAAAT8ElEQVR42uxdCXhT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"
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAACKCAYAAABRsp/hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQwIDc5LjE2MDQ1MSwgMjAxNy8wNS8wNi0wMTowODoyMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QUZEQ0UyMTY1ODY1MTFFQThGREFDNjE0M0IzMjZGMTgiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QUZEQ0UyMTU1ODY1MTFFQThGREFDNjE0M0IzMjZGMTgiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NzY4ODg2RTI1NUUxMTFFQUE0QzQ5N0RGQ0RDMzJFMjIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6NzY4ODg2RTM1NUUxMTFFQUE0QzQ5N0RGQ0RDMzJFMjIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6YPme0AAAT6klEQVR42uydCXRT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"
 
 /***/ }),
 
@@ -15725,7 +24282,7 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAACKCAYAAABR
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABdCAYAAABeibN2AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQwIDc5LjE2MDQ1MSwgMjAxNy8wNS8wNi0wMTowODoyMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjlFMjMxRTc5NTZDMTExRUFBRTBDRDlEQTEwRENGOTQ0IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjlFMjMxRTdBNTZDMTExRUFBRTBDRDlEQTEwRENGOTQ0Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6OUUyMzFFNzc1NkMxMTFFQUFFMENEOURBMTBEQ0Y5NDQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6OUUyMzFFNzg1NkMxMTFFQUFFMENEOURBMTBEQ0Y5NDQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6d0LzhAAAIKklEQVR42uxdCWxU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"
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABdCAYAAABeibN2AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQwIDc5LjE2MDQ1MSwgMjAxNy8wNS8wNi0wMTowODoyMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QUZEQ0UyMUE1ODY1MTFFQThGREFDNjE0M0IzMjZGMTgiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QUZEQ0UyMTk1ODY1MTFFQThGREFDNjE0M0IzMjZGMTgiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6OUUyMzFFNzk1NkMxMTFFQUFFMENEOURBMTBEQ0Y5NDQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6OUUyMzFFN0E1NkMxMTFFQUFFMENEOURBMTBEQ0Y5NDQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz79TZKkAAAIAklEQVR42uxdCWwV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"
 
 /***/ }),
 
@@ -15736,7 +24293,7 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABdCAYAAABe
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABwCAYAAADlu6WeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQwIDc5LjE2MDQ1MSwgMjAxNy8wNS8wNi0wMTowODoyMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjc2ODg4NkRFNTVFMTExRUFBNEM0OTdERkNEQzMyRTIyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjc2ODg4NkRGNTVFMTExRUFBNEM0OTdERkNEQzMyRTIyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTZBMTI5N0Y1NURCMTFFQUE0QzQ5N0RGQ0RDMzJFMjIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTZBMTI5ODA1NURCMTFFQUE0QzQ5N0RGQ0RDMzJFMjIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6NhQnhAAAYfElEQVR42uxdB3yV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"
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABwCAYAAADlu6WeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQwIDc5LjE2MDQ1MSwgMjAxNy8wNS8wNi0wMTowODoyMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODEzODEyREI1ODY1MTFFQThGREFDNjE0M0IzMjZGMTgiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODEzODEyREE1ODY1MTFFQThGREFDNjE0M0IzMjZGMTgiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NzY4ODg2REU1NUUxMTFFQUE0QzQ5N0RGQ0RDMzJFMjIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6NzY4ODg2REY1NUUxMTFFQUE0QzQ5N0RGQ0RDMzJFMjIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7hgQn/AAAYc0lEQVR42uxdB3yV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"
 
 /***/ }),
 
@@ -15751,17 +24308,6 @@ module.exports = "/_next/static/images/pluto-mobile-12947e5111037437ca3e4e4ef6ff
 
 /***/ }),
 
-/***/ "./public/static/images/pluto.gif":
-/*!****************************************!*\
-  !*** ./public/static/images/pluto.gif ***!
-  \****************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/pluto-58f6f41efd3a1a472a07628d5dff0d55.gif";
-
-/***/ }),
-
 /***/ "./public/static/images/react.png":
 /*!****************************************!*\
   !*** ./public/static/images/react.png ***!
@@ -15769,7 +24315,7 @@ module.exports = "/_next/static/images/pluto-58f6f41efd3a1a472a07628d5dff0d55.gi
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABVCAYAAACy2jEbAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA0dpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQwIDc5LjE2MDQ1MSwgMjAxNy8wNS8wNi0wMTowODoyMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QTZBMTI5N0E1NURCMTFFQUE0QzQ5N0RGQ0RDMzJFMjIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QTZBMTI5Nzk1NURCMTFFQUE0QzQ5N0RGQ0RDMzJFMjIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDowMDNkNDUyYi00Yjc1LWJlNDgtYTM4MS0wMGZkODdjOTA2YzIiIHN0UmVmOmRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDowMDNkNDUyYi00Yjc1LWJlNDgtYTM4MS0wMGZkODdjOTA2YzIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/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"
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABVCAYAAACy2jEbAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQwIDc5LjE2MDQ1MSwgMjAxNy8wNS8wNi0wMTowODoyMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODEzODEyRTM1ODY1MTFFQThGREFDNjE0M0IzMjZGMTgiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODEzODEyRTI1ODY1MTFFQThGREFDNjE0M0IzMjZGMTgiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTZBMTI5Nzk1NURCMTFFQUE0QzQ5N0RGQ0RDMzJFMjIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTZBMTI5N0E1NURCMTFFQUE0QzQ5N0RGQ0RDMzJFMjIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz50nZOYAAARHklEQVR42tRdCZQV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"
 
 /***/ }),
 
@@ -15780,7 +24326,7 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABVCAYAAACy
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABZCAYAAADFGPFgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQwIDc5LjE2MDQ1MSwgMjAxNy8wNS8wNi0wMTowODoyMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkE2QTEyOTdENTVEQjExRUFBNEM0OTdERkNEQzMyRTIyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkE2QTEyOTdFNTVEQjExRUFBNEM0OTdERkNEQzMyRTIyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTZBMTI5N0I1NURCMTFFQUE0QzQ5N0RGQ0RDMzJFMjIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTZBMTI5N0M1NURCMTFFQUE0QzQ5N0RGQ0RDMzJFMjIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6xy9qyAAANSUlEQVR42uxdC5RVVRneDDPAMCAgEvImHB6iggojJKTIIwoFTAU1HrGWQVpQEWUYgQb5JgiSlDCToCBMUPMRhLxEwApIMBIQARHEBBGSQR4ztL91vtsaztr/Po85595zB/61/jWzznOf/e39v/e+le7us1RlAeVqvlzzFzR30Hyx5oaaa/PcZ5r/o3mn5vWaX9O8TvMnKksoN+Ht66z5Rs3d2fk1hOuqEZRWmntrPklQVmp+VvMyHjsHRMA23ar5Ts1dQz4jj6CAh2veoPkxzXOTCkhOwtrTT/MadljXCJ97peanNK/W3OscEDI11jxf8/Oai2J8z1Wal2ieprngHBBnUl/NaymOgtAJzR9q3qF5u+a9mo/5vPc7ml/VfNE5HeHQ3Zof9DkgPtb8N4qXDQTgQJnOr6K5rua2mrtpvl5zG8vzOmlernmA5jcyDUSlDJqvUzSP9rimRPNizX/gCN4f4Pn5mvtrHqO5o+W6g2Vm5VknmqZ7gFCqeQ7NV4zs3wcEQXGmzKfSH0tfw0SYRYs4k84qICZqHmU5/wZFy1DN/4jgfcc1P0z/YrdwTX3NzxCUswKIYZrHW85PJQivxfDuVZp7an5bOI8ZMfNsAOIKOlUSfVfz9y0iJAp6h/pgj3D+Zs3frMhAIATxpMV2H0u9kQ4CGLdpLhbOP6S5WUUF4kf0bk00hzI8nbSGprOJELOaVBGBaGn56C2av50hsTxD81+Ec1+jF16hgLhXc3XD8VOUx//NoNUIE/qo4XhlzuIKA8SlmgcK5x6nl5xJggX1hCX0cmlFAQL+Qp7hOJI4P1PJoJ9rPmQ4jnYPrwhAfM4yG6YQjCTQB5pnW8zZmtkORH9aIG5CxHSWShahPScMxxtpvi7bgbhdOP475URSk0Sw3lZaBlTWAtFCOYl+N520iIFM0x+F49cqJ5KblUD0ojftJuQT/pVQIP4qmLKf19w6W4HoKRx/QSWX3tO8UeijjtkIRIHglSLHkPQiqteF4x2yEQiUsDQ2HN9NpZhkkvIfbbMRiPbCc99U8Ya4o6AdwvFmcSvsOIoH2gnH3wz5vAaaCzWfp5xiga0qvlJK5ClWUxSV7fgLNNejHskaIFoKx7eHmFkIvH1JnZnCRGf9SfNkzfsibjuAvobAd+G7Yb425IDIGiAq0RtVgo7wS0M0/0qZa12bKCdq+lXlJHiiLoU5zUEDflpzHYITa0gmah1Rk1PYTQh5H/T5jN7sgBoe1zXX/Bz/xkkICKICcWc26YiaQgce9SnXkbf4RYABcqFykjvvKidaepreO9Kgxwg+xM1eirR95MNJsxKiBqIq2U2pjvGiHspenWei1gE8X4D0EWX9Znr6G2kAfFqRgEBYo4rQASU+7u8c8/fmUfE25LtS+YZdylnYggLlFXGLoXQAkSuIldNkL6qdoQHZnHwbZ8ZqWmYvqeAVholQ1qVCh1cie9F+lXmCjvuycsp/Nmn+dRpmauRAfKbMK3Iq+3zXqpDvhdx/nybyHpqan6ryrw6qR/G1hkZBn2wRTagzPWFQ2PmCEncTRALKLb8Y4J0YsffQRC7lzMN3FdCKq0tnrAUNAazFu4jechD/qDcZgUssJViWZCCKyTUNZm1tH04RFDrqnFbSkfIiWD5jlTn5f8hyX30CAu+5O0MatXx+Y0/yPM33ad6WRNEEX+FjwVqp4/MZ6NwbfIREIMb6enS4RB/SOrqfJvNlyimQRr7Eb53V7fTqf0DRmyggSiwKt3GA56yhghynnHXThznTDnK2jOCo3B1Ru6FXkMJFfro9Z5mfkD1m+aPKye61zRQQecLxXcLxFgGfj5n1gHKyYxdz1OJvN+VUXcS1TBc+xMMUV7cqf0Vw1/G6IekGAg18VpiSUk66PCPmA4YxPkqjGQsLcIFyAn43K+/gIkQvKlQmh9G9OSGuR4UelkRdL4ibTcK9l/n0JZJG8IsWKmcJ2AjlHQofw0FaOy4gkJh5hnI7da8pqb5FiNu0YmghW+kURSLy8TM8ru1Hv6Nh1EA05INvch3vYbh2n6DoYMJeqbKfYHGNpPe91XJdJ/ZZk6iAaMoHmgrGuhsctdMWBddTVRxaTHE133INxPHLfmaGFxBwfP7MB5qotTDKl1qAyK1AYBygPzHOcg1K+xd56QwbEAW0GtpZrvmN4Fmu5RR2U5sKIp7c9ABNV6lKBXoFa8WrhAHicZpuEiGx/w1lToF+QifH9L6BCetE+CVTOYvX0bu+RwXfpwM76gxQ8iLJPjRtAwExyuKclBKARzwatkA4jsbWSAAASLMi54D9OL5Hw6MTwyYY4djv4ycBn/micnIaxy39OtgvENAHD1leNpwiyYuWCyGIpowlZZKg+5bQUbOZ65MoGYIQdOqdlvPTTVEGNxDwlLEovbrFWXnKZ4PgS8yzjIxMOnfTLQaIm9CpQwM+/2nOKskDn+YFxGCLXsCivykBG/RbYZpeLfgg6aCiEHoKOqNawHsmWKxHSIRbJCAKeLOJUO0wOsRHb+NUNdG4DAERJsvWJsAMSlEJQyJSmH5iWXBzXLPBFCEtpnIOW0A8RZnz2N0YCkg3hd21rGmIe3ZaFD4iyYPcQMDJuku4AfH2zeX48LVKXuF/v4ogqRKQwobPS0LeN5MSxUTY0i6vLBCQ2e0FRCdH8PGTaPaavM6ZFHsjqZ+qxQzEphD3nPKIK3kBeK9wrh0lw/+BuEm4cKqKpgJuLW12E91B8fVL5WTfsFjk6zEC8YLF6ZLo9XIAoSgRpD2oBqWAqJpCxUX76S1GRRN8gnoJzb8ZMQGRysAFGdHjhBkd1GQ2EeJvtXIokloZLnhehUvMS7RVBduT6VtK3tWmvDTRIrfdINyl5LV1QehlZS7lxDKGohzqh3zBQ4yagm5INV7Fs4kVosaFHtcgNYqcQ1S7JBQreVVtVwBhWgGKqon1EX98c4+QgokQk4pj5T/iZOcLSvmnFNVdVPSrYF8RjnfIVeaSdizqi3qFTNuQFtHlEbdjoMV/wf6y98VoKMANOKKcOFZZKsSMqG+44f0IlJObqoa8r3qEbWhAS9BERzgb4iTkaEzFB/UAhKnUMI5NS/aGvG93hG1AJFVKW8JfejdmIEo4yN1UkCN4tqUxTcvtIe5bHNH7f2zRN28pZwOtdNARw7FcAGGKjsaxYORYCC99mZK37wlCcFilHdNK6dUXpwkIY/gfQJhSnXHVH2Hxxzyf12IKjyhHjCdFKPGfreT8xyMRge2XTMXYJTmCzIKNHcc+2Rh9w5SzcvSU5TqEA3opeUsGv4TU5yIlp2bXxGwluQnFA6YobjGAMAXBsIjjipgag4Uso+lITqXjBCWJmllsXoWcL+ql3i7ne7rSKa1rsWCGKDm/HAc1FRzUA/AjEJAz7V7fV8W7rc/fyYqe/YkIxFCKkAGbq+TFJwiFD02DleSmawUzflsOp6epynqA8r+KJgpFHhUIoyiObG1HHGuJSj8NFo6vy6Gdvl5wfoap7CHU1mI9HQKLuR5m7JMZaB9EpakeANnLpal8xIvCzT8UYjJJo6to+XhtmIsE1YMZauNEZS5fgn+1PnVikeBoNFLJ2bFYCpsgV7DCh3GBLNmEDLUTA0TaPxY1YidTQKCUXqpqRjz+xgSCAMtqFQdKvkdYYRRHZCYIwc5HhXO7lJMEO2OqTLZ4lygqK0oIAC3Z+FeV908LIGaGaOtjGWrrBRzgtSz66ogbCMSBpli8QSQ1umQQAHj7SHH6zWn/k7NmYQZBwH5SUj3U3LJRBrfygCLbINyY2hvpjjR/UDMqWbQLqdPzfNwzizb7mxkCoQ3NY2ngYmuikWUPuIGAaEJVwQHhATVo+mGUtY/xQ3L4EbM4slGkVd/HfYj1Y8XrCMH4SAcNo+6SjAf8xhGCkIdtQCiGFgZ6fAj208NagjnKvHwrDOUzNjSBHjeWf6HC0E8kGAr5CeqMBR7X9mMo5ZaITfPulBio960nXIO+/YoyrEW3/UTmNVQ0DXw0YgtNyLX8fy8RN5VpVqbzBRnaXDlFZkXsxMIQHbCYostPpQV+Xg1LDvLKWIvLqfgB/g7l/4dnMYhR/dKDs9BrI5cV9KyNCTKv3yptRYSvDtg5hxg2OcwPO04A8ine6pLLM5NW0dLzU21yPj3uQR6zCuUu2wjIexTRqe2GqtL6acB+wQBC/WoVH+9HtHmssgQYvRYWbiPicJrGKP+7AddR/jdBCUIIDKISYqaSKyLcoxYiY5ry3vmgMmdkYYTtRUQZS9xe8tNQL4J4Gc9ZgbLJONKoXrSdFl1HOpev+LyvCZ2pdP8gLKoksaaisx8Q/MwIt10+gAoVP1vWP+Y41FbK7ueouI+FeAYCmgi2oaxxKGdHnPsG/ls52cDZKuC2eOX5PWvISlTC3UBF27gcHwAZvIcBMHT6Sv4f9abujQhGHw4oGAvlXUK2g4p4IRV/mAET2Q+L1+b0x9Y6l/ADL6Ryq0oRiHAv0qPYjPcgrYd3KEc384OOplF81KCyLaJPVEhRVovn8lztPkbjYx/bvZFW4ltRtPt/AgwAa7bD7j08EzUAAAAASUVORK5CYII="
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABZCAYAAADFGPFgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQwIDc5LjE2MDQ1MSwgMjAxNy8wNS8wNi0wMTowODoyMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODEzODEyREY1ODY1MTFFQThGREFDNjE0M0IzMjZGMTgiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODEzODEyREU1ODY1MTFFQThGREFDNjE0M0IzMjZGMTgiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTZBMTI5N0Q1NURCMTFFQUE0QzQ5N0RGQ0RDMzJFMjIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTZBMTI5N0U1NURCMTFFQUE0QzQ5N0RGQ0RDMzJFMjIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6MNIQbAAANMUlEQVR42uxdCbRV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"
 
 /***/ }),
 
@@ -15791,22 +24337,224 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABZCAYAAADF
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/tide-mobile-39133bf0f0b322501758dad8170d5cc0.png";
+module.exports = "/_next/static/images/tide-mobile-9a082cf275b16c5ff4ad0d605e5e0960.png";
 
 /***/ }),
 
-/***/ "./public/static/images/tide.gif":
+/***/ "./public/static/videos/bakery.mp4":
+/*!*****************************************!*\
+  !*** ./public/static/videos/bakery.mp4 ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/videos/bakery-c0efa2210e33e20902f906ee99c66031.mp4";
+
+/***/ }),
+
+/***/ "./public/static/videos/pluto.mp4":
+/*!****************************************!*\
+  !*** ./public/static/videos/pluto.mp4 ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/videos/pluto-a3f8a0a46fc205722941d1dd04793a54.mp4";
+
+/***/ }),
+
+/***/ "./public/static/videos/tide.mp4":
 /*!***************************************!*\
-  !*** ./public/static/images/tide.gif ***!
+  !*** ./public/static/videos/tide.mp4 ***!
   \***************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/tide-6df2b36dd6fa0e33ae473ef9c22dc7bc.gif";
+module.exports = "/_next/static/videos/tide-35923b77d25970a23105d17458ad26ac.mp4";
 
 /***/ }),
 
-/***/ 3:
+/***/ "./utils/Animations/animConfig.js":
+/*!****************************************!*\
+  !*** ./utils/Animations/animConfig.js ***!
+  \****************************************/
+/*! exports provided: yAxisVariants, yAxisVariantsSlow, yAxisVariantsSlower, yAxisVariantsSlowest, xAxisVariants, xAxisVariantsSlow, xAxisVariantsSlowFromRight, xAxisVariantsSlower */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "yAxisVariants", function() { return yAxisVariants; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "yAxisVariantsSlow", function() { return yAxisVariantsSlow; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "yAxisVariantsSlower", function() { return yAxisVariantsSlower; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "yAxisVariantsSlowest", function() { return yAxisVariantsSlowest; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "xAxisVariants", function() { return xAxisVariants; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "xAxisVariantsSlow", function() { return xAxisVariantsSlow; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "xAxisVariantsSlowFromRight", function() { return xAxisVariantsSlowFromRight; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "xAxisVariantsSlower", function() { return xAxisVariantsSlower; });
+//animation configs & variants
+
+/*EASING CONFIG*/
+var easing = [0.175, 0.85, 0.42, 0.96];
+/*EASING ANIMATION DIRECTION*/
+
+var yAxisVariants = {
+  exit: {
+    y: 40,
+    opacity: 1,
+    transition: {
+      duration: 0.4,
+      ease: easing
+    }
+  },
+  enter: {
+    y: 0,
+    opacity: 1,
+    transition: {
+      duration: 0.6,
+      ease: easing
+    }
+  }
+};
+var yAxisVariantsSlow = {
+  exit: {
+    y: 150,
+    opacity: 0,
+    transition: {
+      duration: 0.4,
+      ease: easing
+    }
+  },
+  enter: {
+    y: 0,
+    opacity: 1,
+    transition: {
+      duration: 0.7,
+      ease: easing
+    }
+  }
+};
+var yAxisVariantsSlower = {
+  exit: {
+    y: 150,
+    opacity: 0,
+    transition: {
+      duration: 0.5,
+      ease: easing
+    }
+  },
+  enter: {
+    y: 0,
+    opacity: 1,
+    transition: {
+      duration: 1.2,
+      ease: easing
+    }
+  }
+};
+var yAxisVariantsSlowest = {
+  exit: {
+    y: 150,
+    opacity: 0,
+    transition: {
+      duration: 0.5,
+      ease: easing
+    }
+  },
+  enter: {
+    y: 0,
+    opacity: 1,
+    transition: {
+      duration: 3.2,
+      ease: easing
+    }
+  }
+};
+var xAxisVariants = {
+  exit: {
+    x: -50,
+    opacity: 0,
+    transition: {
+      duration: 0.5,
+      ease: easing
+    }
+  },
+  enter: {
+    x: 0,
+    opacity: 1,
+    transition: {
+      duration: 0.6,
+      ease: easing
+    }
+  }
+};
+var xAxisVariantsSlow = {
+  exit: {
+    x: -250,
+    opacity: 0,
+    transition: {
+      duration: 0.5,
+      ease: easing
+    }
+  },
+  enter: {
+    x: 0,
+    opacity: 1,
+    transition: {
+      duration: 0.9,
+      ease: easing
+    }
+  }
+};
+var xAxisVariantsSlowFromRight = {
+  exit: {
+    x: 250,
+    opacity: 0,
+    transition: {
+      duration: 0.5,
+      ease: easing
+    }
+  },
+  enter: {
+    x: 0,
+    opacity: 1,
+    transition: {
+      duration: 0.9,
+      ease: easing
+    }
+  }
+};
+var xAxisVariantsSlower = {
+  exit: {
+    x: 150,
+    opacity: 0,
+    transition: {
+      duration: 0.5,
+      ease: easing
+    }
+  },
+  enter: {
+    x: 0,
+    opacity: 1,
+    transition: {
+      duration: 1.2,
+      ease: easing
+    }
+  }
+}; //Activate animation when div enters viewport
+
+/*   IN VIEW SKELETON */
+
+/*
+            <InView triggerOnce={true}>
+              {({ inView, ref }) => (
+                  <div ref={ref}>
+                    <div>
+                      {inView ? ():()}</div></div>)}</InView>
+* */
+
+/***/ }),
+
+/***/ 2:
 /*!********************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fdimitripl%2FDocuments%2FPortfolio%2Fpages%2Findex.js ***!
   \********************************************************************************************************************************/
@@ -15829,5 +24577,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map

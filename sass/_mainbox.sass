@@ -1,17 +1,7 @@
 @import "variables"
 
-
 .mainbox-content-container
   padding: 24px
-
-.about-title
-  color: $primary
-  font-family: "Helvetica Now Display",sans-serif
-  font-weight: 700
-  font-size: 2rem
-  padding-top: 5px
-  text-align: center
-
 
 //.underline-title
   position: relative
@@ -33,7 +23,7 @@
 .about-text
   padding: 10px 0 20px 0
   text-align: center
-  border-bottom: 1px #D3E0E8 solid
+  border-bottom: 1px $separator solid
   margin-bottom: 30px
 
   p
@@ -46,7 +36,7 @@
 .projects-container
   border-radius: 20px
   background-color: #F5F8F9
-  padding: 1rem 1.9rem
+  padding: 0rem 1.9rem
   line-height: 2.2rem
 
 .projects-title
@@ -73,6 +63,7 @@
     border-radius: 5px
 
 
+
 .project-card-mobile
   display: inline-block
   height: 250px
@@ -86,12 +77,11 @@
 
 .project-one
   max-height: 573px
-  padding-top: 20px
   padding-bottom: 20px
 
 
 .project-one:nth-last-of-type(1n+2)
-  border-bottom: 1px #D3E0E8 solid
+  border-bottom: 1px $separator solid
 
 
 .project-details
