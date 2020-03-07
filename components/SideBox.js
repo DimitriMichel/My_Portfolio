@@ -32,17 +32,17 @@ const SideBox = () => {
           </motion.div>
           <div  className="title-container">Software Developer</div>
           <div className="social-container">
-            <a href="https://facebook.com" className="social-link">
+            <a href="https://twitter.com/DimitriOkGood" aria-label="Twitter" className="social-link">
               <span className="font-icon">
                 <FaTwitter />
               </span>
             </a>
-            <a href="https://facebook.com" className="social-link">
+            <a href="https://github.com/DimitriMichel" aria-label="Github" className="social-link">
               <span className="font-icon">
                 <FaGithub />
               </span>
             </a>
-            <a href="https://facebook.com" className="social-link">
+            <a href="https://linkedin.com" aria-label="Linked In" className="social-link">
               <FaLinkedin />
             </a>
           </div>
