@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 3);
+/******/ 	return __webpack_require__(__webpack_require__.s = 4);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -133,7 +133,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _utils_Animations_animConfig__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../utils/Animations/animConfig */ "./utils/Animations/animConfig.js");
 var _jsxFileName = "/Users/dimitripl/Documents/Portfolio/components/MainBox.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
- //Image & Icon Imports
+ //Image/Video & Icon Imports
 
 
 
@@ -1519,7 +1519,7 @@ const xAxisVariantsSlower = {
 
 /***/ }),
 
-/***/ 3:
+/***/ 4:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/

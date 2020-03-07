@@ -39,7 +39,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _utils_Animations_animConfig__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ../utils/Animations/animConfig */ "./utils/Animations/animConfig.js");
 var _jsxFileName = "/Users/dimitripl/Documents/Portfolio/components/MainBox.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
- //Image & Icon Imports
+ //Image/Video & Icon Imports
 
 
 
@@ -24554,7 +24554,7 @@ var xAxisVariantsSlower = {
 
 /***/ }),
 
-/***/ 2:
+/***/ 3:
 /*!********************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fdimitripl%2FDocuments%2FPortfolio%2Fpages%2Findex.js ***!
   \********************************************************************************************************************************/
@@ -24577,5 +24577,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[3,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
