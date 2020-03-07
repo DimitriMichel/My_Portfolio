@@ -83,16 +83,16 @@ const MainBox = () => {
                       <div className="icons">
                         <div className="build-icon">
                           <div className="list-icon">
-                            <img src={imageReact} />
+                            <img src={imageReact} alt="React Icon" />
                           </div>
                           <div className="list-icon">
-                            <img src={imageRedux} />
+                            <img src={imageRedux} alt="Redux Icon" />
                           </div>
                           <div className="list-icon">
-                            <img src={imageNode} />
+                            <img src={imageNode} alt="Node JS Icon" />
                           </div>
                           <div className="list-icon">
-                            <img src={imageFirebase} />
+                            <img src={imageFirebase} alt="Firebase Icon" />
                           </div>
                         </div>
                       </div>
@@ -154,10 +154,10 @@ const MainBox = () => {
                       <div className="icons">
                         <div className="build-icon">
                           <div className="list-icon">
-                            <img src={imageReact} />
+                            <img src={imageReact} alt="React Icon" />
                           </div>
                           <div className="list-icon">
-                            <img src={imageAntd} />
+                            <img src={imageAntd} alt="Ant Design Icon" />
                           </div>
                         </div>
                       </div>
@@ -176,7 +176,7 @@ const MainBox = () => {
                     <div className="project-card-mobile">
                       <img
                         src={imagePlutoMobile}
-                        alt="Mobile image of a Social Media Project Called Tide"
+                        alt="Mobile image of a website called Pluto"
                       />
                     </div>
                   </div>
@@ -219,21 +219,21 @@ const MainBox = () => {
                       <div className="icons">
                         <div className="build-icon">
                           <div className="list-icon">
-                            <img src={imageReact} />
+                            <img src={imageReact} alt="React Icon" />
                           </div>
                           <div className="list-icon">
-                            <img src={imageNextJs} />
+                            <img src={imageNextJs} alt="Next JS Icon" />
                           </div>
                         </div>
                       </div>
                     </div>
                     <div className="project-card">
                       <video
-                          autoPlay="autoplay"
-                          loop="loop"
-                          height="auto"
-                          width="100%"
-                          muted="muted"
+                        autoPlay="autoplay"
+                        loop="loop"
+                        height="auto"
+                        width="100%"
+                        muted="muted"
                       >
                         <source src={videoBakery} type="video/mp4" />
                       </video>
@@ -241,7 +241,7 @@ const MainBox = () => {
                     <div className="project-card-mobile">
                       <img
                         src={imageBakeryMobile}
-                        alt="Mobile image of a Social Media Project Called Tide"
+                        alt="Mobile image of a Bakery website"
                       />
                     </div>
                   </div>
