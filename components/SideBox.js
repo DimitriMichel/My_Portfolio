@@ -57,12 +57,12 @@ const SideBox = () => {
                 </li>
                 <li>
                   <TiMail />{" "}
-                  <a href="mailto:dimitri.dev@icloud.com">
-                    dimitri.dev@icloud.com
+                  <a href="mailto:nonono.dev@icloud.com">
+                    email.dev@icloud.com
                   </a>
                 </li>
                 <li>
-                  <TiPhone /> (617)-322-4315
+                  <TiPhone /> (617)-867-5309
                 </li>
               </ul>
             </div>
