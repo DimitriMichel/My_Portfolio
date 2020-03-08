@@ -103,7 +103,8 @@ export const xAxisVariantsSlower = {
 //Activate animation when div enters viewport
 
 
-/*   IN VIEW SKELETON */
+/*   IN VIEW skeleton for Intersection Observer  */
+/*   Compatible with only newer version of Safari macOS 10.14.4+, and iOS 12.2+  */
 /*
             <InView triggerOnce={true}>
               {({ inView, ref }) => (

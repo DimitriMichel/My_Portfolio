@@ -1,5 +1,5 @@
 import React from "react";
-
+import ReactTooltip from "react-tooltip";
 //Image/Video & Icon Imports
 import imageTideMobile from "../public/static/images/tide-mobile.png";
 import imageReact from "../public/static/images/react.png";
@@ -21,6 +21,30 @@ import { yAxisVariants, xAxisVariants } from "../utils/Animations/animConfig";
 const MainBox = () => {
   return (
     <AnimatePresence>
+      {/*Tooltips Start*/}
+      <ReactTooltip id="react" className="tooltip" backgroundColor="#232D3E">
+        <span>React</span>
+      </ReactTooltip>
+      <ReactTooltip id="redux" className="tooltip" backgroundColor="#232D3E">
+        <span>Redux</span>
+      </ReactTooltip>
+      <ReactTooltip
+        id="ant design"
+        className="tooltip"
+        backgroundColor="#232D3E"
+      >
+        <span>Ant Design</span>
+      </ReactTooltip>
+      <ReactTooltip id="firebase" className="tooltip" backgroundColor="#232D3E">
+        <span>Firebase</span>
+      </ReactTooltip>
+      <ReactTooltip id="nodejs" className="tooltip" backgroundColor="#232D3E">
+        <span>NodeJS</span>
+      </ReactTooltip>
+      <ReactTooltip id="nextjs" className="tooltip" backgroundColor="#232D3E">
+        <span>NextJS</span>
+      </ReactTooltip>
+      {/*Tooltips Ends*/}
       <div className="grid-item-two">
         <div className="mainbox">
           <div className="mainbox-content-container">
@@ -53,7 +77,7 @@ const MainBox = () => {
                     <b>API </b>
                     built with <b>NodeJS</b> connecting to a scalable{" "}
                     <b>Google Firebase</b> database.
-                    <br />
+
                     On the front end <b>React</b> and <b>Redux</b> were used to
                     to maintain global and local state changes.
                     <br />
@@ -81,16 +105,21 @@ const MainBox = () => {
                     <div className="icons-container">
                       <div className="icons">
                         <div className="build-icon">
-                          <div className="list-icon">
+                          <div data-tip data-for="react" className="list-icon">
                             <img src={imageReact} alt="React Icon" />
                           </div>
-                          <div className="list-icon">
+
+                          <div data-tip data-for="redux" className="list-icon">
                             <img src={imageRedux} alt="Redux Icon" />
                           </div>
-                          <div className="list-icon">
+                          <div data-tip data-for="nodejs" className="list-icon">
                             <img src={imageNode} alt="Node JS Icon" />
                           </div>
-                          <div className="list-icon">
+                          <div
+                            data-tip
+                            data-for="firebase"
+                            className="list-icon"
+                          >
                             <img src={imageFirebase} alt="Firebase Icon" />
                           </div>
                         </div>
@@ -98,13 +127,17 @@ const MainBox = () => {
                     </div>
                     <div className="project-card">
                       <video
-                        autoPlay="autoplay"
+                        onMouseOver={event => event.target.play()}
+                        onMouseOut={event => event.target.pause()}
                         loop="loop"
                         height="auto"
                         width="100%"
                         muted="muted"
                       >
-                        <source src={videoTide} type="video/mp4" />
+                        <source
+                          src={videoTide}
+                          type="video/mp4"
+                        />
                       </video>
                     </div>
                     <div className="project-card-mobile">
@@ -121,7 +154,7 @@ const MainBox = () => {
                   <h3 className="project-details-title">Pluto</h3>
                   <p className="project-details-text">
                     Pluto is a statistical application completely built in{" "}
-                    <b>React</b>and styled with <b>Ant Design</b>. Pluto returns
+                    <b>React</b> and styled with <b>Ant Design</b>. Pluto returns
                     the financial data of all 530+ members of the United States
                     congress, including each individuals members vote
                     attendance, Top 10 Donors, as well as their top investments
@@ -151,10 +184,14 @@ const MainBox = () => {
                     <div className="icons-container">
                       <div className="icons">
                         <div className="build-icon">
-                          <div className="list-icon">
+                          <div data-tip data-for="react" className="list-icon">
                             <img src={imageReact} alt="React Icon" />
                           </div>
-                          <div className="list-icon">
+                          <div
+                            data-tip
+                            data-for="ant design"
+                            className="list-icon"
+                          >
                             <img src={imageAntd} alt="Ant Design Icon" />
                           </div>
                         </div>
@@ -162,7 +199,8 @@ const MainBox = () => {
                     </div>
                     <div className="project-card">
                       <video
-                        autoPlay="autoplay"
+                          onMouseOver={event => event.target.play()}
+                          onMouseOut={event => event.target.pause()}
                         loop="loop"
                         height="auto"
                         width="100%"
@@ -214,18 +252,24 @@ const MainBox = () => {
                     <div className="icons-container">
                       <div className="icons">
                         <div className="build-icon">
-                          <div className="list-icon">
+                          <div data-tip data-for="react" className="list-icon">
                             <img src={imageReact} alt="React Icon" />
                           </div>
                           <div className="list-icon">
-                            <img src={imageNextJs} alt="Next JS Icon" />
+                            <img
+                              data-tip
+                              data-for="nextjs"
+                              src={imageNextJs}
+                              alt="Next JS Icon"
+                            />
                           </div>
                         </div>
                       </div>
                     </div>
                     <div className="project-card">
                       <video
-                        autoPlay="autoplay"
+                          onMouseOver={event => event.target.play()}
+                          onMouseOut={event => event.target.pause()}
                         loop="loop"
                         height="auto"
                         width="100%"
