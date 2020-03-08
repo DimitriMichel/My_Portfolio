@@ -34,9 +34,8 @@ const MainBox = () => {
                 <motion.p variants={yAxisVariants}>
                   Hello, my name is Dimitri Michel and I'm a passionate Software
                   Developer.
-                  <br />I believe <strong>anything</strong> can be overcome
-                  through commitment and hard work and I'm always up for
-                  learning new things.
+                  <br />I believe anything can be overcome through commitment
+                  and hard work and I'm always up for learning new things.
                 </motion.p>
               </motion.div>
             </div>
@@ -122,11 +121,11 @@ const MainBox = () => {
                   <h3 className="project-details-title">Pluto</h3>
                   <p className="project-details-text">
                     Pluto is a statistical application completely built in{" "}
-                    <b>React.</b>{" "}
-                    Pluto returns the financial data of all 530+ members of the
-                    United States congress, including each individuals members
-                    vote attendance, Top 10 Donors, as well as their top
-                    investments and industrial donors.
+                    <b>React</b>and styled with <b>Ant Design</b>. Pluto returns
+                    the financial data of all 530+ members of the United States
+                    congress, including each individuals members vote
+                    attendance, Top 10 Donors, as well as their top investments
+                    and industrial donors.
                     <br />
                     <br />
                   </p>
@@ -186,10 +185,9 @@ const MainBox = () => {
                   <h3 className="project-details-title">Heavenly Bakery</h3>
                   <p className="project-details-text">
                     Heavenly bakery is a static site built with <b>NextJS</b>{" "}
-                    and deployed to Zeit.
-                    Heavenly Bakery is Server Rendered and leverages the speed
-                    and simplicity of static sites to deliver a fluid
-                    experience.
+                    and deployed to Zeit. Heavenly Bakery is Server Rendered and
+                    leverages the speed and simplicity of static sites to
+                    deliver a fluid experience.
                     <br />
                     <br />
                   </p>
