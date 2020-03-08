@@ -303,7 +303,7 @@ const MainBox = () => {
       lineNumber: 58
     },
     __self: undefined
-  }, "Redux"), " was used to to maintain global and local state changes.", __jsx("br", {
+  }, "Redux"), " were used to to maintain global and local state changes.", __jsx("br", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 60
@@ -398,6 +398,7 @@ const MainBox = () => {
     __self: undefined
   }, __jsx("img", {
     src: _public_static_images_react_png__WEBPACK_IMPORTED_MODULE_2___default.a,
+    alt: "React Icon",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 86
@@ -412,6 +413,7 @@ const MainBox = () => {
     __self: undefined
   }, __jsx("img", {
     src: _public_static_images_redux_png__WEBPACK_IMPORTED_MODULE_3___default.a,
+    alt: "Redux Icon",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 89
@@ -426,6 +428,7 @@ const MainBox = () => {
     __self: undefined
   }, __jsx("img", {
     src: _public_static_images_node_icon_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+    alt: "Node JS Icon",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 92
@@ -440,6 +443,7 @@ const MainBox = () => {
     __self: undefined
   }, __jsx("img", {
     src: _public_static_images_firebase_png__WEBPACK_IMPORTED_MODULE_5___default.a,
+    alt: "Firebase Icon",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 95
@@ -514,35 +518,29 @@ const MainBox = () => {
       lineNumber: 123
     },
     __self: undefined
-  }, "Pluto is statistical application completely built in", " ", __jsx("b", {
+  }, "Pluto is a statistical application completely built in", " ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 125
     },
     __self: undefined
-  }, "React"), __jsx("br", {
+  }, "React."), " ", "Pluto returns the financial data of all 530+ members of the United States congress, including each individuals members vote attendance, Top 10 Donors, as well as their top investments and industrial donors.", __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 126
-    },
-    __self: undefined
-  }), "Pluto returns the financial data of all 530+ members of the United States congress, including each individuals members vote attendance, Top 10 Donors, as well as their top investments and industrial donors.", __jsx("br", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 131
+      lineNumber: 130
     },
     __self: undefined
   }), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 132
+      lineNumber: 131
     },
     __self: undefined
   })), __jsx("div", {
     className: "project-buttons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 134
+      lineNumber: 133
     },
     __self: undefined
   }, __jsx("a", {
@@ -551,14 +549,14 @@ const MainBox = () => {
     href: "https://pluto.dimitrimichel.com/",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 135
+      lineNumber: 134
     },
     __self: undefined
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 140
+      lineNumber: 139
     },
     __self: undefined
   }, "Launch")), __jsx("a", {
@@ -567,84 +565,86 @@ const MainBox = () => {
     href: "https://github.com/DimitriMichel/Pluto",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 142
+      lineNumber: 141
     },
     __self: undefined
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 147
+      lineNumber: 146
     },
     __self: undefined
   }, "Github")))), __jsx("div", {
     className: "project-card-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 151
+      lineNumber: 150
     },
     __self: undefined
   }, __jsx("div", {
     className: "icons-card-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 152
+      lineNumber: 151
     },
     __self: undefined
   }, __jsx("div", {
     className: "icons-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 153
+      lineNumber: 152
     },
     __self: undefined
   }, __jsx("div", {
     className: "icons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 154
+      lineNumber: 153
     },
     __self: undefined
   }, __jsx("div", {
     className: "build-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 155
+      lineNumber: 154
     },
     __self: undefined
   }, __jsx("div", {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 156
+      lineNumber: 155
     },
     __self: undefined
   }, __jsx("img", {
     src: _public_static_images_react_png__WEBPACK_IMPORTED_MODULE_2___default.a,
+    alt: "React Icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 157
+      lineNumber: 156
     },
     __self: undefined
   })), __jsx("div", {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 159
+      lineNumber: 158
     },
     __self: undefined
   }, __jsx("img", {
     src: _public_static_images_antd_png__WEBPACK_IMPORTED_MODULE_9___default.a,
+    alt: "Ant Design Icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 160
+      lineNumber: 159
     },
     __self: undefined
   }))))), __jsx("div", {
     className: "project-card",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 165
+      lineNumber: 164
     },
     __self: undefined
   }, __jsx("video", {
@@ -655,7 +655,7 @@ const MainBox = () => {
     muted: "muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 166
+      lineNumber: 165
     },
     __self: undefined
   }, __jsx("source", {
@@ -663,81 +663,75 @@ const MainBox = () => {
     type: "video/mp4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 173
+      lineNumber: 172
     },
     __self: undefined
   }))), __jsx("div", {
     className: "project-card-mobile",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 176
+      lineNumber: 175
     },
     __self: undefined
   }, __jsx("img", {
     src: _public_static_images_pluto_mobile_png__WEBPACK_IMPORTED_MODULE_6___default.a,
-    alt: "Mobile image of a Social Media Project Called Tide",
+    alt: "Mobile image of a website called Pluto",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 177
+      lineNumber: 176
     },
     __self: undefined
   }))))), __jsx("div", {
     className: "project-one",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 185
+      lineNumber: 184
     },
     __self: undefined
   }, __jsx("div", {
     className: "project-details",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 186
+      lineNumber: 185
     },
     __self: undefined
   }, __jsx("h3", {
     className: "project-details-title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 187
+      lineNumber: 186
     },
     __self: undefined
   }, "Heavenly Bakery"), __jsx("p", {
     className: "project-details-text",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 188
+      lineNumber: 187
     },
     __self: undefined
   }, "Heavenly bakery is a static site built with ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 189
+      lineNumber: 188
     },
     __self: undefined
-  }, "NextJS"), " ", "and deployed to Zeit.", __jsx("br", {
+  }, "NextJS"), " ", "and deployed to Zeit. Heavenly Bakery is Server Rendered and leverages the speed and simplicity of static sites to deliver a fluid experience.", __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 191
-    },
-    __self: undefined
-  }), "Heavenly bakery is Server Rendered and leverages the speed and simplicity of static sites to delivery a fluid experience.", __jsx("br", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 195
+      lineNumber: 193
     },
     __self: undefined
   }), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 196
+      lineNumber: 194
     },
     __self: undefined
   })), __jsx("div", {
     className: "project-buttons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 198
+      lineNumber: 196
     },
     __self: undefined
   }, __jsx("a", {
@@ -746,14 +740,14 @@ const MainBox = () => {
     href: "https://bakery.dimitrimichel.com/ ",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 199
+      lineNumber: 197
     },
     __self: undefined
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 205
+      lineNumber: 203
     },
     __self: undefined
   }, "Launch")), __jsx("a", {
@@ -762,84 +756,86 @@ const MainBox = () => {
     href: "https:///github.com/DimitriMichel/Bakery",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 207
+      lineNumber: 205
     },
     __self: undefined
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 212
+      lineNumber: 210
     },
     __self: undefined
   }, "Github")))), __jsx("div", {
     className: "project-card-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 216
+      lineNumber: 214
     },
     __self: undefined
   }, __jsx("div", {
     className: "icons-card-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 217
+      lineNumber: 215
     },
     __self: undefined
   }, __jsx("div", {
     className: "icons-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 218
+      lineNumber: 216
     },
     __self: undefined
   }, __jsx("div", {
     className: "icons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 219
+      lineNumber: 217
     },
     __self: undefined
   }, __jsx("div", {
     className: "build-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 220
+      lineNumber: 218
     },
     __self: undefined
   }, __jsx("div", {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 221
+      lineNumber: 219
     },
     __self: undefined
   }, __jsx("img", {
     src: _public_static_images_react_png__WEBPACK_IMPORTED_MODULE_2___default.a,
+    alt: "React Icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 222
+      lineNumber: 220
     },
     __self: undefined
   })), __jsx("div", {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 224
+      lineNumber: 222
     },
     __self: undefined
   }, __jsx("img", {
     src: _public_static_images_next_js_png__WEBPACK_IMPORTED_MODULE_10___default.a,
+    alt: "Next JS Icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 225
+      lineNumber: 223
     },
     __self: undefined
   }))))), __jsx("div", {
     className: "project-card",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 230
+      lineNumber: 228
     },
     __self: undefined
   }, __jsx("video", {
@@ -850,7 +846,7 @@ const MainBox = () => {
     muted: "muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 231
+      lineNumber: 229
     },
     __self: undefined
   }, __jsx("source", {
@@ -858,22 +854,22 @@ const MainBox = () => {
     type: "video/mp4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 238
+      lineNumber: 236
     },
     __self: undefined
   }))), __jsx("div", {
     className: "project-card-mobile",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 241
+      lineNumber: 239
     },
     __self: undefined
   }, __jsx("img", {
     src: _public_static_images_bakery_mobile_png__WEBPACK_IMPORTED_MODULE_8___default.a,
-    alt: "Mobile image of a Social Media Project Called Tide",
+    alt: "Mobile image of a Bakery website",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 242
+      lineNumber: 240
     },
     __self: undefined
   }))))))))));
@@ -980,7 +976,8 @@ const SideBox = () => {
     },
     __self: undefined
   }, __jsx("a", {
-    href: "https://facebook.com",
+    href: "https://twitter.com/DimitriOkGood",
+    "aria-label": "Twitter",
     className: "social-link",
     __source: {
       fileName: _jsxFileName,
@@ -1001,7 +998,8 @@ const SideBox = () => {
     },
     __self: undefined
   }))), __jsx("a", {
-    href: "https://facebook.com",
+    href: "https://github.com/DimitriMichel",
+    "aria-label": "Github",
     className: "social-link",
     __source: {
       fileName: _jsxFileName,
@@ -1022,7 +1020,8 @@ const SideBox = () => {
     },
     __self: undefined
   }))), __jsx("a", {
-    href: "https://facebook.com",
+    href: "https://linkedin.com",
+    "aria-label": "Linked In",
     className: "social-link",
     __source: {
       fileName: _jsxFileName,
@@ -1092,13 +1091,13 @@ const SideBox = () => {
     },
     __self: undefined
   }), " ", __jsx("a", {
-    href: "mailto:dimitri.dev@icloud.com",
+    href: "mailto:nonono.dev@icloud.com",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 60
     },
     __self: undefined
-  }, "dimitri.dev@icloud.com")), __jsx("li", {
+  }, "email.dev@icloud.com")), __jsx("li", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 64
@@ -1110,7 +1109,7 @@ const SideBox = () => {
       lineNumber: 65
     },
     __self: undefined
-  }), " (617)-322-4315"))), __jsx("div", {
+  }), " (617)-867-5309"))), __jsx("div", {
     className: "download-button",
     __source: {
       fileName: _jsxFileName,

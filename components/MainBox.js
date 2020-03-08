@@ -55,7 +55,7 @@ const MainBox = () => {
                     built with <b>NodeJS</b> connecting to a scalable{" "}
                     <b>Google Firebase</b> database.
                     <br />
-                    On the front end <b>React</b> and <b>Redux</b> was used to
+                    On the front end <b>React</b> and <b>Redux</b> were used to
                     to maintain global and local state changes.
                     <br />
                     <br />
@@ -121,9 +121,8 @@ const MainBox = () => {
                 <div className="project-details">
                   <h3 className="project-details-title">Pluto</h3>
                   <p className="project-details-text">
-                    Pluto is statistical application completely built in{" "}
-                    <b>React</b>
-                    <br />
+                    Pluto is a statistical application completely built in{" "}
+                    <b>React.</b>{" "}
                     Pluto returns the financial data of all 530+ members of the
                     United States congress, including each individuals members
                     vote attendance, Top 10 Donors, as well as their top
@@ -188,9 +187,8 @@ const MainBox = () => {
                   <p className="project-details-text">
                     Heavenly bakery is a static site built with <b>NextJS</b>{" "}
                     and deployed to Zeit.
-                    <br />
-                    Heavenly bakery is Server Rendered and leverages the speed
-                    and simplicity of static sites to delivery a fluid
+                    Heavenly Bakery is Server Rendered and leverages the speed
+                    and simplicity of static sites to deliver a fluid
                     experience.
                     <br />
                     <br />
