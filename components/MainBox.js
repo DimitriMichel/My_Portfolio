@@ -76,10 +76,9 @@ const MainBox = () => {
                     Tide is a mini social network. It first began with an{" "}
                     <b>API </b>
                     built with <b>NodeJS</b> connecting to a scalable{" "}
-                    <b>Google Firebase</b> database.
-
-                    On the front end <b>React</b> and <b>Redux</b> were used to
-                    to maintain global and local state changes.
+                    <b>Google Firebase</b> database. On the front end{" "}
+                    <b>React</b> and <b>Redux</b> were used to to maintain
+                    global and local state changes.
                     <br />
                     <br />
                   </p>
@@ -134,10 +133,7 @@ const MainBox = () => {
                         width="100%"
                         muted="muted"
                       >
-                        <source
-                          src={videoTide}
-                          type="video/mp4"
-                        />
+                        <source src={videoTide} type="video/mp4" />
                       </video>
                     </div>
                     <div className="project-card-mobile">
@@ -154,9 +150,9 @@ const MainBox = () => {
                   <h3 className="project-details-title">Pluto</h3>
                   <p className="project-details-text">
                     Pluto is a statistical application completely built in{" "}
-                    <b>React</b> and styled with <b>Ant Design</b>. Pluto returns
-                    the financial data of all 530+ members of the United States
-                    congress, including each individuals members vote
+                    <b>React</b> and styled with <b>Ant Design</b>. Pluto
+                    returns the financial data of all 530+ members of the United
+                    States congress, including each individuals members vote
                     attendance, Top 10 Donors, as well as their top investments
                     and industrial donors.
                     <br />
@@ -199,8 +195,8 @@ const MainBox = () => {
                     </div>
                     <div className="project-card">
                       <video
-                          onMouseOver={event => event.target.play()}
-                          onMouseOut={event => event.target.pause()}
+                        onMouseOver={event => event.target.play()}
+                        onMouseOut={event => event.target.pause()}
                         loop="loop"
                         height="auto"
                         width="100%"
@@ -268,8 +264,8 @@ const MainBox = () => {
                     </div>
                     <div className="project-card">
                       <video
-                          onMouseOver={event => event.target.play()}
-                          onMouseOut={event => event.target.pause()}
+                        onMouseOver={event => event.target.play()}
+                        onMouseOut={event => event.target.pause()}
                         loop="loop"
                         height="auto"
                         width="100%"

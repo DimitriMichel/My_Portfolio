@@ -277,35 +277,35 @@ var MainBox = function MainBox() {
       lineNumber: 79
     },
     __self: this
-  }, "Google Firebase"), " database. On the front end ", __jsx("b", {
+  }, "Google Firebase"), " database. On the front end", " ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 81
+      lineNumber: 80
     },
     __self: this
   }, "React"), " and ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 81
+      lineNumber: 80
     },
     __self: this
   }, "Redux"), " were used to to maintain global and local state changes.", __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 83
+      lineNumber: 82
     },
     __self: this
   }), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 84
+      lineNumber: 83
     },
     __self: this
   })), __jsx("div", {
     className: "project-buttons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 86
+      lineNumber: 85
     },
     __self: this
   }, __jsx("a", {
@@ -314,14 +314,14 @@ var MainBox = function MainBox() {
     href: "https://tide.dimitrimichel.com/login",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 87
+      lineNumber: 86
     },
     __self: this
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 92
+      lineNumber: 91
     },
     __self: this
   }, "Launch")), __jsx("a", {
@@ -330,49 +330,49 @@ var MainBox = function MainBox() {
     href: "https://github.com/DimitriMichel/Tide",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 94
+      lineNumber: 93
     },
     __self: this
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 99
+      lineNumber: 98
     },
     __self: this
   }, "Github")))), __jsx("div", {
     className: "project-card-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 103
+      lineNumber: 102
     },
     __self: this
   }, __jsx("div", {
     className: "icons-card-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 104
+      lineNumber: 103
     },
     __self: this
   }, __jsx("div", {
     className: "icons-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 105
+      lineNumber: 104
     },
     __self: this
   }, __jsx("div", {
     className: "icons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 106
+      lineNumber: 105
     },
     __self: this
   }, __jsx("div", {
     className: "build-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 107
+      lineNumber: 106
     },
     __self: this
   }, __jsx("div", {
@@ -381,7 +381,7 @@ var MainBox = function MainBox() {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 108
+      lineNumber: 107
     },
     __self: this
   }, __jsx("img", {
@@ -389,7 +389,7 @@ var MainBox = function MainBox() {
     alt: "React Icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 109
+      lineNumber: 108
     },
     __self: this
   })), __jsx("div", {
@@ -398,7 +398,7 @@ var MainBox = function MainBox() {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 112
+      lineNumber: 111
     },
     __self: this
   }, __jsx("img", {
@@ -406,7 +406,7 @@ var MainBox = function MainBox() {
     alt: "Redux Icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 113
+      lineNumber: 112
     },
     __self: this
   })), __jsx("div", {
@@ -415,7 +415,7 @@ var MainBox = function MainBox() {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 115
+      lineNumber: 114
     },
     __self: this
   }, __jsx("img", {
@@ -423,7 +423,7 @@ var MainBox = function MainBox() {
     alt: "Node JS Icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 116
+      lineNumber: 115
     },
     __self: this
   })), __jsx("div", {
@@ -432,7 +432,7 @@ var MainBox = function MainBox() {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 118
+      lineNumber: 117
     },
     __self: this
   }, __jsx("img", {
@@ -440,14 +440,14 @@ var MainBox = function MainBox() {
     alt: "Firebase Icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 123
+      lineNumber: 122
     },
     __self: this
   }))))), __jsx("div", {
     className: "project-card",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 128
+      lineNumber: 127
     },
     __self: this
   }, __jsx("video", {
@@ -463,7 +463,7 @@ var MainBox = function MainBox() {
     muted: "muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 129
+      lineNumber: 128
     },
     __self: this
   }, __jsx("source", {
@@ -471,14 +471,14 @@ var MainBox = function MainBox() {
     type: "video/mp4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 137
+      lineNumber: 136
     },
     __self: this
   }))), __jsx("div", {
     className: "project-card-mobile",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 143
+      lineNumber: 139
     },
     __self: this
   }, __jsx("img", {
@@ -486,66 +486,66 @@ var MainBox = function MainBox() {
     alt: "Mobile image of a Social Media Project Called Tide",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 144
+      lineNumber: 140
     },
     __self: this
   }))))), __jsx("div", {
     className: "project-one",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 152
+      lineNumber: 148
     },
     __self: this
   }, __jsx("div", {
     className: "project-details",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 153
+      lineNumber: 149
     },
     __self: this
   }, __jsx("h3", {
     className: "project-details-title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 154
+      lineNumber: 150
     },
     __self: this
   }, "Pluto"), __jsx("p", {
     className: "project-details-text",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 155
+      lineNumber: 151
     },
     __self: this
   }, "Pluto is a statistical application completely built in", " ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 157
+      lineNumber: 153
     },
     __self: this
   }, "React"), " and styled with ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 157
+      lineNumber: 153
     },
     __self: this
   }, "Ant Design"), ". Pluto returns the financial data of all 530+ members of the United States congress, including each individuals members vote attendance, Top 10 Donors, as well as their top investments and industrial donors.", __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 162
+      lineNumber: 158
     },
     __self: this
   }), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 163
+      lineNumber: 159
     },
     __self: this
   })), __jsx("div", {
     className: "project-buttons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 165
+      lineNumber: 161
     },
     __self: this
   }, __jsx("a", {
@@ -554,14 +554,14 @@ var MainBox = function MainBox() {
     href: "https://pluto.dimitrimichel.com/",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 166
+      lineNumber: 162
     },
     __self: this
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 171
+      lineNumber: 167
     },
     __self: this
   }, "Launch")), __jsx("a", {
@@ -570,49 +570,49 @@ var MainBox = function MainBox() {
     href: "https://github.com/DimitriMichel/Pluto",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 173
+      lineNumber: 169
     },
     __self: this
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 178
+      lineNumber: 174
     },
     __self: this
   }, "Github")))), __jsx("div", {
     className: "project-card-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 182
+      lineNumber: 178
     },
     __self: this
   }, __jsx("div", {
     className: "icons-card-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 183
+      lineNumber: 179
     },
     __self: this
   }, __jsx("div", {
     className: "icons-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 184
+      lineNumber: 180
     },
     __self: this
   }, __jsx("div", {
     className: "icons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 185
+      lineNumber: 181
     },
     __self: this
   }, __jsx("div", {
     className: "build-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 186
+      lineNumber: 182
     },
     __self: this
   }, __jsx("div", {
@@ -621,7 +621,7 @@ var MainBox = function MainBox() {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 187
+      lineNumber: 183
     },
     __self: this
   }, __jsx("img", {
@@ -629,7 +629,7 @@ var MainBox = function MainBox() {
     alt: "React Icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 188
+      lineNumber: 184
     },
     __self: this
   })), __jsx("div", {
@@ -638,7 +638,7 @@ var MainBox = function MainBox() {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 190
+      lineNumber: 186
     },
     __self: this
   }, __jsx("img", {
@@ -646,14 +646,14 @@ var MainBox = function MainBox() {
     alt: "Ant Design Icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 195
+      lineNumber: 191
     },
     __self: this
   }))))), __jsx("div", {
     className: "project-card",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 200
+      lineNumber: 196
     },
     __self: this
   }, __jsx("video", {
@@ -669,7 +669,7 @@ var MainBox = function MainBox() {
     muted: "muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 201
+      lineNumber: 197
     },
     __self: this
   }, __jsx("source", {
@@ -677,14 +677,14 @@ var MainBox = function MainBox() {
     type: "video/mp4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 209
+      lineNumber: 205
     },
     __self: this
   }))), __jsx("div", {
     className: "project-card-mobile",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 212
+      lineNumber: 208
     },
     __self: this
   }, __jsx("img", {
@@ -692,60 +692,60 @@ var MainBox = function MainBox() {
     alt: "Mobile image of a website called Pluto",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 213
+      lineNumber: 209
     },
     __self: this
   }))))), __jsx("div", {
     className: "project-one",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 221
+      lineNumber: 217
     },
     __self: this
   }, __jsx("div", {
     className: "project-details",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 222
+      lineNumber: 218
     },
     __self: this
   }, __jsx("h3", {
     className: "project-details-title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 223
+      lineNumber: 219
     },
     __self: this
   }, "Heavenly Bakery"), __jsx("p", {
     className: "project-details-text",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 224
+      lineNumber: 220
     },
     __self: this
   }, "Heavenly bakery is a static site built with ", __jsx("b", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 225
+      lineNumber: 221
     },
     __self: this
   }, "NextJS"), " ", "and deployed to Zeit. Heavenly Bakery is Server Rendered and leverages the speed and simplicity of static sites to deliver a fluid experience.", __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 229
+      lineNumber: 225
     },
     __self: this
   }), __jsx("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 230
+      lineNumber: 226
     },
     __self: this
   })), __jsx("div", {
     className: "project-buttons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 232
+      lineNumber: 228
     },
     __self: this
   }, __jsx("a", {
@@ -754,14 +754,14 @@ var MainBox = function MainBox() {
     href: "https://bakery.dimitrimichel.com/ ",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 233
+      lineNumber: 229
     },
     __self: this
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 239
+      lineNumber: 235
     },
     __self: this
   }, "Launch")), __jsx("a", {
@@ -770,49 +770,49 @@ var MainBox = function MainBox() {
     href: "https:///github.com/DimitriMichel/Bakery",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 241
+      lineNumber: 237
     },
     __self: this
   }, __jsx("button", {
     role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 246
+      lineNumber: 242
     },
     __self: this
   }, "Github")))), __jsx("div", {
     className: "project-card-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 250
+      lineNumber: 246
     },
     __self: this
   }, __jsx("div", {
     className: "icons-card-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 251
+      lineNumber: 247
     },
     __self: this
   }, __jsx("div", {
     className: "icons-container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 252
+      lineNumber: 248
     },
     __self: this
   }, __jsx("div", {
     className: "icons",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 253
+      lineNumber: 249
     },
     __self: this
   }, __jsx("div", {
     className: "build-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 254
+      lineNumber: 250
     },
     __self: this
   }, __jsx("div", {
@@ -821,7 +821,7 @@ var MainBox = function MainBox() {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 255
+      lineNumber: 251
     },
     __self: this
   }, __jsx("img", {
@@ -829,14 +829,14 @@ var MainBox = function MainBox() {
     alt: "React Icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 256
+      lineNumber: 252
     },
     __self: this
   })), __jsx("div", {
     className: "list-icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 258
+      lineNumber: 254
     },
     __self: this
   }, __jsx("img", {
@@ -846,14 +846,14 @@ var MainBox = function MainBox() {
     alt: "Next JS Icon",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 259
+      lineNumber: 255
     },
     __self: this
   }))))), __jsx("div", {
     className: "project-card",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 269
+      lineNumber: 265
     },
     __self: this
   }, __jsx("video", {
@@ -869,7 +869,7 @@ var MainBox = function MainBox() {
     muted: "muted",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 270
+      lineNumber: 266
     },
     __self: this
   }, __jsx("source", {
@@ -877,14 +877,14 @@ var MainBox = function MainBox() {
     type: "video/mp4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 278
+      lineNumber: 274
     },
     __self: this
   }))), __jsx("div", {
     className: "project-card-mobile",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 281
+      lineNumber: 277
     },
     __self: this
   }, __jsx("img", {
@@ -892,7 +892,7 @@ var MainBox = function MainBox() {
     alt: "Mobile image of a Bakery website",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 282
+      lineNumber: 278
     },
     __self: this
   }))))))))));
@@ -31827,7 +31827,7 @@ var xAxisVariantsSlower = {
 
 /***/ }),
 
-/***/ 5:
+/***/ 4:
 /*!********************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fdimitripl%2FDocuments%2FPortfolio%2Fpages%2Findex.js ***!
   \********************************************************************************************************************************/
@@ -31850,5 +31850,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[5,"static/runtime/webpack.js"]]]);
+},[[4,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
