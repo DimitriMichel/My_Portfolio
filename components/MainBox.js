@@ -77,7 +77,7 @@ const MainBox = () => {
                     <b>API </b>
                     built with <b>NodeJS</b> connecting to a scalable{" "}
                     <b>Google Firebase</b> database. On the front end{" "}
-                    <b>React</b> and <b>Redux</b> were used to to maintain
+                    <b>React</b> and <b>Redux</b> were used to maintain
                     global and local state changes.
                     <br />
                     <br />
