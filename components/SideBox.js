@@ -58,22 +58,15 @@ const SideBox = () => {
                 <li>
                   <TiMail />{" "}
                   <a href="mailto:nonono.dev@icloud.com">
-                    email.dev@icloud.com
+                    dimitri.dev@icloud.com
                   </a>
                 </li>
                 <li>
-                  <TiPhone /> (617)-867-5309
+                  <TiPhone /> (617)-322-4315
                 </li>
               </ul>
             </div>
-            <div className="download-button">
-              <button>
-                <div className="download-icon">
-                  <AiOutlineCloudDownload size={25} />
-                </div>
-                <span className="download-text"> Download Resume</span>
-              </button>
-            </div>
+
           </div>
         </motion.div>
       </div>

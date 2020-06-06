@@ -384,7 +384,7 @@ const MainBox = () => {
       lineNumber: 80
     },
     __self: undefined
-  }, "Redux"), " were used to to maintain global and local state changes.", __jsx("br", {
+  }, "Redux"), " were used to maintain global and local state changes.", __jsx("br", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 82
@@ -1203,7 +1203,7 @@ const SideBox = () => {
       lineNumber: 60
     },
     __self: undefined
-  }, "email.dev@icloud.com")), __jsx("li", {
+  }, "dimitri.dev@icloud.com")), __jsx("li", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 64
@@ -1215,41 +1215,7 @@ const SideBox = () => {
       lineNumber: 65
     },
     __self: undefined
-  }), " (617)-867-5309"))), __jsx("div", {
-    className: "download-button",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 69
-    },
-    __self: undefined
-  }, __jsx("button", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 70
-    },
-    __self: undefined
-  }, __jsx("div", {
-    className: "download-icon",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 71
-    },
-    __self: undefined
-  }, __jsx(react_icons_ai__WEBPACK_IMPORTED_MODULE_4__["AiOutlineCloudDownload"], {
-    size: 25,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 72
-    },
-    __self: undefined
-  })), __jsx("span", {
-    className: "download-text",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 74
-    },
-    __self: undefined
-  }, " Download Resume")))))));
+  }), " (617)-322-4315")))))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (SideBox);
