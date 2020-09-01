@@ -106,7 +106,7 @@ table {
     margin: auto; }
     .details .info li {
       display: inline;
-      margin: 15px; }
+      margin: 10px; }
   .name-container h1 {
     font-size: 3.5rem; }
     .name-container h1 strong {
@@ -229,7 +229,6 @@ table {
     padding: 10px 26px;
     margin: 2px 15px;
     background-color: #232D3E;
-    transition: all .2s ease-in-out;
     border: none;
     color: white; }
     .project-buttons button:hover {
@@ -383,5 +382,3 @@ a {
     margin: auto;
     padding: 20px; } }
 
-
-/*# sourceMappingURL=styles.chunk.css.map*/

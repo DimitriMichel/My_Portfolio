@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Fragment } from "react";
 import ReactTooltip from "react-tooltip";
 //Image/Video & Icon Imports
 import imageTideMobile from "../public/static/images/tide-mobile.png";
@@ -15,12 +15,24 @@ import videoTide from "../public/static/videos/tide.mp4";
 import videoPluto from "../public/static/videos/pluto.mp4";
 
 //Framer Motion
-import { AnimatePresence, motion } from "framer-motion";
-import { yAxisVariants, xAxisVariants } from "../utils/Animations/animConfig";
+import { motion } from "framer-motion";
+
+//Animation Configurations
+const yAxisVariants = {
+  initial: { opacity: 0, y: -20 },
+  complete: { opacity: 1, y: 0 },
+};
+const xAxisVariants = {
+  initial: { opacity: 0, x: -20 },
+  complete: { opacity: 1, x: 0 },
+  transition: {
+    duration: 0.9,
+  },
+};
 
 const MainBox = () => {
   return (
-    <AnimatePresence>
+    <Fragment>
       {/*Tooltips Start*/}
       <ReactTooltip id="react" className="tooltip" backgroundColor="#232D3E">
         <span>React</span>
@@ -49,22 +61,24 @@ const MainBox = () => {
         <div className="mainbox">
           <div className="mainbox-content-container">
             <div className="about-container">
-              <motion.div
-                initial="exit"
-                animate="enter"
-                exit="exit"
-                className="about-text"
-              >
-                <motion.p variants={yAxisVariants}>
-                  Hello, my name is Dimitri Michel and I'm a passionate Software
-                  Developer.
-                  <br />I believe anything can be overcome through commitment
-                  and hard work and I'm always up for learning new things.
+              <motion.div className="about-text">
+                <motion.p
+                  initial="initial"
+                  animate="complete"
+                  variants={yAxisVariants}
+                >
+                  Anything can be overcome through commitment and hard work.
                 </motion.p>
               </motion.div>
             </div>
             <motion.div initial="exit" animate="enter" exit="exit">
-              <motion.h1 variants={xAxisVariants} className="projects-title">
+              <motion.h1
+                variants={xAxisVariants}
+                initial="initial"
+                animate="complete"
+                transition="transition"
+                className="projects-title"
+              >
                 Projects
               </motion.h1>
             </motion.div>
@@ -77,8 +91,8 @@ const MainBox = () => {
                     <b>API </b>
                     built with <b>NodeJS</b> connecting to a scalable{" "}
                     <b>Google Firebase</b> database. On the front end{" "}
-                    <b>React</b> and <b>Redux</b> were used to maintain
-                    global and local state changes.
+                    <b>React</b> and <b>Redux</b> were used to maintain global
+                    and local state changes.
                     <br />
                     <br />
                   </p>
@@ -88,14 +102,30 @@ const MainBox = () => {
                       role="button"
                       href="https://tide.dimitrimichel.com/login"
                     >
-                      <button role="button">Launch</button>
+                      <motion.button
+                        whileHover={{
+                          scale: 1.1,
+                          transition: { duration: 0.1 },
+                        }}
+                        role="button"
+                      >
+                        Launch
+                      </motion.button>
                     </a>
                     <a
                       className="button"
                       role="button"
                       href="https://github.com/DimitriMichel/Tide"
                     >
-                      <button role="button">Github</button>
+                      <motion.button
+                        whileHover={{
+                          scale: 1.1,
+                          transition: { duration: 0.1 },
+                        }}
+                        role="button"
+                      >
+                        Github
+                      </motion.button>
                     </a>
                   </div>
                 </div>
@@ -126,8 +156,8 @@ const MainBox = () => {
                     </div>
                     <div className="project-card">
                       <video
-                        onMouseOver={event => event.target.play()}
-                        onMouseOut={event => event.target.pause()}
+                        onMouseOver={(event) => event.target.play()}
+                        onMouseOut={(event) => event.target.pause()}
                         loop="loop"
                         height="auto"
                         width="100%"
@@ -164,14 +194,30 @@ const MainBox = () => {
                       role="button"
                       href="https://pluto.dimitrimichel.com/"
                     >
-                      <button role="button">Launch</button>
+                      <motion.button
+                        whileHover={{
+                          scale: 1.1,
+                          transition: { duration: 0.1 },
+                        }}
+                        role="button"
+                      >
+                        Launch
+                      </motion.button>
                     </a>
                     <a
                       className="button"
                       role="button"
                       href="https://github.com/DimitriMichel/Pluto"
                     >
-                      <button role="button">Github</button>
+                      <motion.button
+                        whileHover={{
+                          scale: 1.1,
+                          transition: { duration: 0.1 },
+                        }}
+                        role="button"
+                      >
+                        Github
+                      </motion.button>
                     </a>
                   </div>
                 </div>
@@ -195,8 +241,8 @@ const MainBox = () => {
                     </div>
                     <div className="project-card">
                       <video
-                        onMouseOver={event => event.target.play()}
-                        onMouseOut={event => event.target.pause()}
+                        onMouseOver={(event) => event.target.play()}
+                        onMouseOut={(event) => event.target.pause()}
                         loop="loop"
                         height="auto"
                         width="100%"
@@ -232,14 +278,30 @@ const MainBox = () => {
                       href="https://bakery.dimitrimichel.com/
                       "
                     >
-                      <button role="button">Launch</button>
+                      <motion.button
+                        whileHover={{
+                          scale: 1.1,
+                          transition: { duration: 0.1 },
+                        }}
+                        role="button"
+                      >
+                        Launch
+                      </motion.button>
                     </a>
                     <a
                       className="button"
                       role="button"
                       href="https:///github.com/DimitriMichel/Bakery"
                     >
-                      <button role="button">Github</button>
+                      <motion.button
+                        whileHover={{
+                          scale: 1.1,
+                          transition: { duration: 0.1 },
+                        }}
+                        role="button"
+                      >
+                        Github
+                      </motion.button>
                     </a>
                   </div>
                 </div>
@@ -264,8 +326,8 @@ const MainBox = () => {
                     </div>
                     <div className="project-card">
                       <video
-                        onMouseOver={event => event.target.play()}
-                        onMouseOut={event => event.target.pause()}
+                        onMouseOver={(event) => event.target.play()}
+                        onMouseOut={(event) => event.target.pause()}
                         loop="loop"
                         height="auto"
                         width="100%"
@@ -287,7 +349,7 @@ const MainBox = () => {
           </div>
         </div>
       </div>
-    </AnimatePresence>
+    </Fragment>
   );
 };
 

@@ -129,7 +129,7 @@ table {
   }
   .details .info li {
     display: inline;
-    margin: 15px;
+    margin: 10px;
   }
 
   .name-container h1 {
@@ -282,7 +282,6 @@ table {
   padding: 10px 26px;
   margin: 2px 15px;
   background-color: #232D3E;
-  transition: all 0.2s ease-in-out;
   border: none;
   color: white;
 }
