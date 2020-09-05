@@ -22,6 +22,10 @@ const yAxisVariants = {
   initial: { opacity: 0, y: -20 },
   complete: { opacity: 1, y: 0 },
 };
+const reverseYAxisVariants = {
+  initial: { y: 20 },
+  complete: { y: 0 },
+};
 const xAxisVariants = {
   initial: { opacity: 0, x: -20 },
   complete: { opacity: 1, x: 0 },
@@ -82,7 +86,12 @@ const MainBox = () => {
                 Projects
               </motion.h1>
             </motion.div>
-            <div className="projects-container">
+            <motion.div
+              variants={reverseYAxisVariants}
+              initial="initial"
+              animate="complete"
+              className="projects-container"
+            >
               <div className="project-one">
                 <div className="project-details">
                   <h3 className="project-details-title">Tide</h3>
@@ -345,7 +354,7 @@ const MainBox = () => {
                   </div>
                 </div>
               </div>
-            </div>
+            </motion.div>
           </div>
         </div>
       </div>
